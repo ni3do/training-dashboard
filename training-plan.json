@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2026-05-03",
+    "sport": "running",
+    "workout_type": "easy",
+    "description": "Easy recovery run",
+    "target_duration_minutes": 45,
+    "target_intensity": "easy"
+  },
+  {
+    "date": "2026-05-04",
+    "sport": "cycling",
+    "workout_type": "tempo",
+    "description": "Bike tempo intervals - 3x8min at threshold",
+    "target_duration_minutes": 75,
+    "target_intensity": "tempo"
+  },
+  {
+    "date": "2026-05-05",
+    "sport": "swimming",
+    "workout_type": "easy",
+    "description": "Easy swim - technique focus",
+    "target_duration_minutes": 40,
+    "target_intensity": "easy"
+  },
+  {
+    "date": "2026-05-06",
+    "sport": "running",
+    "workout_type": "intervals",
+    "description": "Track intervals - 6x800m at 5K pace",
+    "target_duration_minutes": 60,
+    "target_intensity": "hard"
+  },
+  {
+    "date": "2026-05-07",
+    "sport": "cycling",
+    "workout_type": "easy",
+    "description": "Easy spin recovery ride",
+    "target_duration_minutes": 60,
+    "target_intensity": "easy"
+  },
+  {
+    "date": "2026-05-08",
+    "sport": "running",
+    "workout_type": "long",
+    "description": "Long run - steady effort",
+    "target_duration_minutes": 90,
+    "target_intensity": "moderate"
+  },
+  {
+    "date": "2026-05-09",
+    "sport": "running",
+    "workout_type": "easy",
+    "description": "Easy recovery run",
+    "target_duration_minutes": 40,
+    "target_intensity": "easy"
+  },
+  {
+    "date": "2026-05-10",
+    "sport": "running",
+    "workout_type": "easy",
+    "description": "Easy recovery run",
+    "target_duration_minutes": 45,
+    "target_intensity": "easy"
+  },
+  {
+    "date": "2026-05-11",
+    "sport": "cycling",
+    "workout_type": "tempo",
+    "description": "Bike tempo - 2x15min at threshold",
+    "target_duration_minutes": 75,
+    "target_intensity": "tempo"
+  },
+  {
+    "date": "2026-05-12",
+    "sport": "swimming",
+    "workout_type": "easy",
+    "description": "Easy swim",
+    "target_duration_minutes": 40,
+    "target_intensity": "easy"
+  },
+  {
+    "date": "2026-05-13",
+    "sport": "running",
+    "workout_type": "intervals",
+    "description": "Tempo run - 2x10min at threshold",
+    "target_duration_minutes": 60,
+    "target_intensity": "hard"
+  },
+  {
+    "date": "2026-05-14",
+    "sport": "cycling",
+    "workout_type": "easy",
+    "description": "Easy spin recovery ride",
+    "target_duration_minutes": 60,
+    "target_intensity": "easy"
+  },
+  {
+    "date": "2026-05-15",
+    "sport": "running",
+    "workout_type": "long",
+    "description": "Long run - build to moderate pace",
+    "target_duration_minutes": 100,
+    "target_intensity": "moderate"
+  },
+  {
+    "date": "2026-05-16",
+    "sport": "running",
+    "workout_type": "easy",
+    "description": "Easy recovery run",
+    "target_duration_minutes": 40,
+    "target_intensity": "easy"
+  }
+]
