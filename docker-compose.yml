@@ -6,8 +6,6 @@ services:
       context: .
       dockerfile: Dockerfile
     container_name: training-dashboard
-    ports:
-      - "3000:3000"
     environment:
       NODE_ENV: production
       DATABASE_PATH: /app/data/training.db
