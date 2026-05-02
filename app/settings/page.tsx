@@ -1,10 +1,18 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { Suspense, useEffect, useState } from "react";
 import { AlertCircle, CheckCircle, Loader } from "lucide-react";
 import { useSearchParams } from "next/navigation";
 
 export default function SettingsPage() {
+  return (
+    <Suspense fallback={<div className="text-slate-400">Loading settings...</div>}>
+      <SettingsContent />
+    </Suspense>
+  );
+}
+
+function SettingsContent() {
   const searchParams = useSearchParams();
   const [syncing, setSyncing] = useState(false);
   const [syncStatus, setSyncStatus] = useState<{ success?: boolean; message?: string } | null>(null);
