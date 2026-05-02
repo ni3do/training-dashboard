@@ -43,9 +43,14 @@ COPY --from=builder /app/package.json ./package.json
 COPY --from=builder /app/scripts ./scripts
 COPY --from=builder /app/training-plan.json ./training-plan.json
 
-# Create non-root user
-RUN addgroup -g 1001 -S nodejs
-RUN adduser -S nextjs -u 1001
+# Copy tsconfig for tsx scripts
+COPY --from=builder /app/tsconfig.json ./tsconfig.json
+
+# Create non-root user and give it ownership of the data directory
+RUN addgroup -g 1001 -S nodejs \
+    && adduser -S nextjs -u 1001 \
+    && chown -R nextjs:nodejs /app/data
+
 USER nextjs
 
 # Health check
@@ -58,5 +63,5 @@ ENTRYPOINT ["/sbin/tini", "--"]
 # Expose port
 EXPOSE 3000
 
-# Start the app
-CMD ["npm", "start"]
+# Initialize DB tables then start Next.js
+CMD ["sh", "-c", "npx tsx scripts/init-db.ts && npm start"]
