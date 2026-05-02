@@ -1,6 +1,9 @@
+export const dynamic = "force-dynamic";
+
 import { NextRequest, NextResponse } from "next/server";
 import axios from "axios";
 import { saveOAuthToken } from "@/scripts/db";
+import { StravaClient } from "@/scripts/fetch-strava";
 
 export async function GET(request: NextRequest) {
   try {
@@ -45,6 +48,16 @@ export async function GET(request: NextRequest) {
 
     // Save tokens to database
     saveOAuthToken("strava", refreshToken, accessToken, expiresAt);
+
+    // Kick off an initial activity import in the background so the user doesn't
+    // have to manually trigger it after connecting. We intentionally don't await
+    // this — the redirect happens immediately and the sync runs asynchronously.
+    const stravaClient = new StravaClient();
+    void stravaClient
+      .fetchAllActivities()
+      .catch((err) =>
+        console.error("Background initial Strava sync failed:", err)
+      );
 
     return NextResponse.redirect(
       new URL("/settings?strava_success=true", request.url)

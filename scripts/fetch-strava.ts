@@ -164,6 +164,7 @@ class StravaClient {
           latitude: activity.start_latitude || undefined,
           longitude: activity.start_longitude || undefined,
           polyline: activity.map?.polyline || undefined,
+          raw_json: JSON.stringify(activity),
         });
       }
 

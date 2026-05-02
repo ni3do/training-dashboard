@@ -55,7 +55,7 @@ function SettingsContent() {
   function getStravaAuthUrl() {
     const clientId = process.env.NEXT_PUBLIC_STRAVA_CLIENT_ID || "";
     const redirectUri = `${window.location.origin}/api/auth/strava/callback`;
-    const scopes = ["activity:read"];
+    const scopes = ["activity:read_all"];
     return `https://www.strava.com/oauth/authorize?client_id=${clientId}&response_type=code&redirect_uri=${encodeURIComponent(
       redirectUri
     )}&scope=${scopes.join(",")}`;

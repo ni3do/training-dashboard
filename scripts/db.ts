@@ -37,6 +37,7 @@ export interface Activity {
   latitude?: number;
   longitude?: number;
   polyline?: string;
+  raw_json?: string;
 }
 
 export interface WhoopRecovery {
@@ -67,8 +68,8 @@ export function upsertActivity(activity: Activity): void {
     INSERT INTO activities (
       strava_id, name, type, sport_type, date, distance_km, duration_seconds,
       avg_hr, max_hr, avg_pace, elevation_m, calories, suffer_score,
-      latitude, longitude, polyline, updated_at
-    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
+      latitude, longitude, polyline, raw_json, updated_at
+    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
     ON CONFLICT(strava_id) DO UPDATE SET
       name = excluded.name,
       distance_km = excluded.distance_km,
@@ -82,6 +83,7 @@ export function upsertActivity(activity: Activity): void {
       latitude = excluded.latitude,
       longitude = excluded.longitude,
       polyline = excluded.polyline,
+      raw_json = excluded.raw_json,
       updated_at = CURRENT_TIMESTAMP
   `);
 
@@ -101,7 +103,8 @@ export function upsertActivity(activity: Activity): void {
     activity.suffer_score || null,
     activity.latitude || null,
     activity.longitude || null,
-    activity.polyline || null
+    activity.polyline || null,
+    activity.raw_json || null
   );
 }
 

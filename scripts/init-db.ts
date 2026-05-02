@@ -34,10 +34,18 @@ async function initDatabase() {
         latitude REAL,
         longitude REAL,
         polyline TEXT,
+        raw_json TEXT,
         created_at TEXT DEFAULT CURRENT_TIMESTAMP,
         updated_at TEXT DEFAULT CURRENT_TIMESTAMP
       );
     `);
+
+    // Add raw_json column to existing DBs that predate this column
+    try {
+      db.exec(`ALTER TABLE activities ADD COLUMN raw_json TEXT`);
+    } catch {
+      // Column already exists — ignore
+    }
 
     // Create whoop recovery table
     db.exec(`
@@ -99,8 +107,18 @@ async function initDatabase() {
     db.close();
   } catch (error) {
     console.error("Database initialization failed:", error);
-    process.exit(1);
+    // Only hard-exit when running as a standalone script; when imported as a
+    // module (e.g. from instrumentation.ts) we throw so the caller can decide.
+    if (require.main === module) {
+      process.exit(1);
+    }
+    throw error;
   }
 }
 
-initDatabase();
+export { initDatabase };
+
+// Auto-run only when executed directly (npm run db:init)
+if (require.main === module) {
+  initDatabase();
+}

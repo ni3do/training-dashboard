@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { Calendar, Footprints, Wind, Activity } from "lucide-react";
+import { Calendar, Footprints, Wind, Activity, Dumbbell, Moon, Trophy } from "lucide-react";
 import { LoadingSkeleton } from "../components/loading-skeleton";
 
 interface Workout {
@@ -18,6 +18,9 @@ const sportIcons: Record<string, typeof Activity> = {
   running: Footprints,
   cycling: Wind,
   swimming: Activity,
+  strength: Dumbbell,
+  rest: Moon,
+  race: Trophy,
 };
 
 const intensityColors: Record<string, string> = {
@@ -25,6 +28,8 @@ const intensityColors: Record<string, string> = {
   moderate: "text-yellow-600 dark:text-yellow-400",
   tempo: "text-orange-600 dark:text-orange-400",
   hard: "text-red-600 dark:text-red-400",
+  none: "text-slate-400 dark:text-slate-600",
+  race: "text-purple-600 dark:text-purple-400",
 };
 
 const bgColors: Record<string, string> = {
@@ -32,6 +37,8 @@ const bgColors: Record<string, string> = {
   moderate: "bg-yellow-50 dark:bg-yellow-950/30",
   tempo: "bg-orange-50 dark:bg-orange-950/30",
   hard: "bg-red-50 dark:bg-red-950/30",
+  none: "bg-slate-50 dark:bg-slate-950/30",
+  race: "bg-purple-50 dark:bg-purple-950/30",
 };
 
 export default function PlanPage() {
@@ -42,7 +49,7 @@ export default function PlanPage() {
   useEffect(() => {
     async function fetchPlan() {
       try {
-        const response = await fetch("/api/plan?days=42");
+        const response = await fetch("/api/plan?days=100");
         const data = await response.json();
         if (data.success) {
           setWorkouts(data.data);

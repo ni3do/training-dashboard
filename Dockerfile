@@ -64,4 +64,4 @@ ENTRYPOINT ["/sbin/tini", "--"]
 EXPOSE 3000
 
 # Initialize DB tables then start Next.js
-CMD ["sh", "-c", "npx tsx scripts/init-db.ts && npm start"]
+CMD ["sh", "-c", "npx tsx scripts/init-db.ts && npx tsx scripts/import-plan.ts && npm start"]

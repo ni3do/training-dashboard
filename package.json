@@ -11,31 +11,34 @@
     "sync:strava": "tsx scripts/fetch-strava.ts",
     "sync:whoop": "tsx scripts/fetch-whoop.ts",
     "sync:all": "tsx scripts/sync-all.ts",
+    "sync:local": "tsx scripts/sync-local.ts",
     "db:init": "tsx scripts/init-db.ts",
     "cron": "tsx scripts/cron-sync.ts",
-    "type-check": "tsc --noEmit"
+    "type-check": "tsc --noEmit",
+    "setup:strava": "tsx scripts/strava-setup.ts"
   },
   "dependencies": {
+    "axios": "^1.6.0",
+    "better-sqlite3": "^9.2.0",
+    "dotenv": "^16.6.1",
+    "lucide-react": "^0.292.0",
     "next": "^14.0.0",
+    "next-themes": "^0.2.1",
+    "node-cron": "^3.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "next-themes": "^0.2.1",
-    "tailwindcss": "^3.3.0",
-    "better-sqlite3": "^9.2.0",
-    "axios": "^1.6.0",
-    "node-cron": "^3.0.0",
     "recharts": "^2.10.0",
-    "lucide-react": "^0.292.0"
+    "tailwindcss": "^3.3.0"
   },
   "devDependencies": {
+    "@types/better-sqlite3": "^7.6.8",
     "@types/node": "^20.0.0",
+    "@types/node-cron": "^3.0.9",
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
-    "typescript": "^5.3.0",
-    "tsx": "^4.7.0",
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.31",
-    "@types/better-sqlite3": "^7.6.8",
-    "@types/node-cron": "^3.0.9"
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.0"
   }
 }
