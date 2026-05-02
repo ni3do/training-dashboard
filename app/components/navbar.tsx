@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Activity, BarChart3, Calendar, Settings, Moon, Sun } from "lucide-react";
+import { Activity, BarChart3, Calendar, Settings, Moon, Sun, Map, TrendingUp } from "lucide-react";
 import { useTheme } from "next-themes";
 import { useEffect, useState } from "react";
 
@@ -18,6 +18,8 @@ export function Navbar() {
   const navItems = [
     { href: "/", label: "Dashboard", icon: Activity },
     { href: "/plan", label: "Plan", icon: Calendar },
+    { href: "/plan/overview", label: "Overview", icon: Map },
+    { href: "/plan/mileage", label: "Mileage", icon: TrendingUp },
     { href: "/metrics", label: "Metrics", icon: BarChart3 },
     { href: "/settings", label: "Settings", icon: Settings },
   ];
