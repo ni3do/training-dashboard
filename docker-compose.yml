@@ -5,6 +5,9 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
+      args:
+        NEXT_PUBLIC_STRAVA_CLIENT_ID: ${STRAVA_CLIENT_ID}
+        NEXT_PUBLIC_WHOOP_CLIENT_ID: ${WHOOP_CLIENT_ID}
     container_name: training-dashboard
     environment:
       NODE_ENV: production

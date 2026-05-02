@@ -17,6 +17,10 @@ RUN npm ci
 # Copy source code
 COPY . .
 
+# Accept public env vars as build args (baked into JS bundle by Next.js)
+ARG NEXT_PUBLIC_STRAVA_CLIENT_ID
+ARG NEXT_PUBLIC_WHOOP_CLIENT_ID
+
 # Build Next.js app
 RUN npm run build
 
