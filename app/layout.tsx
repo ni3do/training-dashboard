@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Providers } from "./providers";
 import { Navbar } from "./components/navbar";
 import "./globals.css";
@@ -6,11 +6,12 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Training Dashboard",
   description: "Self-hosted training plan and metrics dashboard for endurance athletes",
-  viewport: {
-    width: "device-width",
-    initialScale: 1,
-    maximumScale: 1,
-  },
+};
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 1,
 };
 
 export default function RootLayout({
