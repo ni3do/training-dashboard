@@ -18,7 +18,7 @@ export interface TrainingWeek {
     tuesday: Session;
     thursday: Session;
     friday: Session | null;
-    saturday: Session;
+    saturday: Session | null;
     sunday: Session | null;
   };
   totalKm: number;

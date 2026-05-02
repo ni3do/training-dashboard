@@ -249,7 +249,7 @@ export default function MileagePage() {
                       {week.sessions.friday ? week.sessions.friday.km : '—'}
                     </td>
                     <td className="px-4 py-3 text-right text-sm text-slate-600 dark:text-slate-400">
-                      {week.sessions.saturday.km}
+                      {week.sessions.saturday ? week.sessions.saturday.km : '—'}
                     </td>
                     <td className="px-4 py-3 text-right text-sm text-slate-600 dark:text-slate-400">
                       {week.sessions.sunday ? week.sessions.sunday.km : '—'}
