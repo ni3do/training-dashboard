@@ -21,7 +21,7 @@ yarn-error.log*
 *.swp
 *.swo
 
-data/
+/data/
 *.db
 *.sqlite
 
