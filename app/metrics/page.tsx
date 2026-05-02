@@ -23,7 +23,7 @@ interface MetricsData {
 
 export default function MetricsPage() {
   const [metrics, setMetrics] = useState<Metric[]>([]);
-  const [recovery, setRecovery] = useState({ avg_recovery: null, avg_strain: null });
+  const [recovery, setRecovery] = useState<{ avg_recovery: number | null; avg_strain: number | null }>({ avg_recovery: null, avg_strain: null });
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
