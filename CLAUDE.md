@@ -102,6 +102,25 @@ Multi-stage Dockerfile (Node 18 Alpine). `docker-compose.yml` mounts a named vol
 
 `IMPLEMENTATION_COMPLETE.md`, `START_HERE.md`, `VERIFICATION.md`, `QUICKSTART.md`, `PROJECT_STRUCTURE.md`, `FILE_INVENTORY.txt` are one-time setup notes from initial scaffolding. They are not living docs — don't extend them. Update `README.md` (or this file) instead.
 
+## Static training plan pages
+
+The training plan lives as static HTML in `public/plan/`, served at `/plan/`. It is **not** part of the Next.js App Router — just plain HTML + CSS + JS.
+
+```
+public/plan/
+├── index.html             # Overview + phase summaries + links to subpages
+├── weekly-structure.html   # Day-by-day schedule across phases
+├── mileage.html            # 14-week mileage table + progression rules
+├── running.html            # Pace zones, workout types, 14-week workout schedule
+├── gym.html                # Upper, lower, full body workout tables
+├── hill-work.html          # Amsterdam-specific vert strategy
+├── nutrition.html          # Race fueling notes (TBD)
+├── styles.css              # Shared CSS (dark/light via prefers-color-scheme)
+└── theme.js                # Shared theme toggle (localStorage-persisted)
+```
+
+Navigation uses a `<nav>` bar with `class="active"` on the current page. When adding a new page, add it to the nav in **every** existing page and update the page grid on `index.html`.
+
 ## Commit style
 
 Conventional Commits: `type(scope): summary`. Common scopes: `api`, `scripts`, `ui`, `db`, `docker`, `deps`.
