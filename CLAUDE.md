@@ -104,10 +104,10 @@ Multi-stage Dockerfile (Node 18 Alpine). `docker-compose.yml` mounts a named vol
 
 ## Static training plan pages
 
-The training plan lives as static HTML in `public/plan/`, served at `/plan/`. It is **not** part of the Next.js App Router — just plain HTML + CSS + JS.
+The training plan lives as static HTML files in `public/`, deployed separately as a Dokploy static site (not served by the Next.js app).
 
 ```
-public/plan/
+public/
 ├── index.html             # Overview + phase summaries + links to subpages
 ├── weekly-structure.html   # Day-by-day schedule across phases
 ├── mileage.html            # 14-week mileage table + progression rules
