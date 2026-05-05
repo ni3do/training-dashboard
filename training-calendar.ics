@@ -71,8 +71,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260513
-SUMMARY:[Wk2 Base] 🏃 Stamina: 25min @ 4:42-4:50
-DESCRIPTION:Tuesday Key Run — 12 km\n25 min sustained at 4:42-4:50/km\nMost ultra-specific session
+SUMMARY:[Wk2 Base] 🏃 Stamina: 25min @ 4:42-4:50 (track)
+DESCRIPTION:Tuesday Key Run — 12 km\nOn the track (zone-check data point)\n25 min sustained at 4:42-4:50/km\, target HR 160-170\nMost ultra-specific session
 UID:c1384874-fb86-4dae-a976-2c2713d20d32
 DTSTAMP:20260503T082148Z
 TRANSP:TRANSPARENT
@@ -125,8 +125,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260519
 DTEND;VALUE=DATE:20260520
-SUMMARY:[Wk3 Base] 🏃 VO2max: 6×2min @ 3:39-4:00
-DESCRIPTION:Tuesday Key Run — 13 km\n6×2min at 3:39-4:00/km\, HR 183-198\n2 min jog recovery. Phase 1 only.
+SUMMARY:[Wk3 Base] 🏃 CV test (track): 3min + 12min all-out
+DESCRIPTION:Tuesday Key Run — 13 km — REPLACES VO2max session\nOn the track\n15 min Z2 warmup + drills + 4×100m strides\n3 min all-out (even pacing)\n30 min easy jog recovery\n12 min all-out (sustainably hard)\n15 min Z2 cooldown\nUsed to recalibrate threshold pace and HR zones\nCV = (D12 - D3) / 540s; threshold HR = avg HR over min 4-12 of the 12-min effort
 UID:32383152-6039-4f35-b7a0-16f4e32c0ca5
 DTSTAMP:20260503T082148Z
 TRANSP:TRANSPARENT
