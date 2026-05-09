@@ -1,0 +1,1133 @@
+// Auto-generated training data — single source of truth for the training log,
+// adjustments, and zones pages. Update alongside training-plan.md, running.html,
+// and training-calendar.ics on the Sunday review.
+window.trainingData = 
+{
+  "race": {
+    "name": "Swiss Alps 100K",
+    "date": "2026-08-07",
+    "location": "Swiss Alps"
+  },
+  "planCreated": "2026-05-02",
+  "weeks": [
+    {
+      "weekNum": 1,
+      "phase": "Base",
+      "startDate": "2026-05-04",
+      "sessions": [
+        {
+          "date": "2026-05-04",
+          "day": "Mon",
+          "type": "gym",
+          "title": "Upper Body + Core",
+          "planned": "Monday Gym A\nDB Bench 2×6-8 / DB Row 2×6-8\nOHP 2×6-8 / Pull-ups 2×6-8\nBicep Curl 2×12 / Tricep Pushdown 2×12\nLateral Raise 2×15 / Face Pull 2×15\nCore Circuit 2 rounds",
+          "actual": "Ride 47.2 km · 1:35:14 · 29.7 km/h · 162 W avg · HR 165/187",
+          "status": "modified",
+          "notes": "Gym swapped for evening road ride."
+        },
+        {
+          "date": "2026-05-05",
+          "day": "Tue",
+          "type": "run",
+          "title": "Threshold: 3×8min @ 4:19-4:30",
+          "planned": "Tuesday Key Run — 11 km\nWarm up, then 3×8min at 4:19-4:30/km\n2-3 min jog recovery between intervals",
+          "actual": "3×8min on treadmill @ 4:29 / 4:25 / 4:20 — bang on prescription. Total 39 min. HR climbed 153→157→162; max 168 on rep 3.",
+          "status": "done",
+          "notes": "Textbook execution despite low recovery (44%). Use Apple Fitness splits for treadmill — Strava overshoots ~12%. HR ran 6–10 bpm under predicted threshold zone — Karvonen zones suspected conservative, hence the Wk 2 stamina + Wk 3 CV test substitutions."
+        },
+        {
+          "date": "2026-05-06",
+          "day": "Wed",
+          "type": "gym",
+          "title": "Lower Body (Squat week)",
+          "planned": "Wednesday Gym B\nBack Squat 2×6-8\nBulgarian Split Squat 2×8/leg\nHip Thrust 2×8\nSingle Calf Raise 2×15/leg\nTibialis Raise 2×15\nBanded Lateral Walk 2×12/side\nFoot Circuit 2 rounds",
+          "actual": "Done.",
+          "status": "done",
+          "notes": "Mild hamstring cramp on squats; eased off, finished, no lingering issue. Watch on Thursday's easy run."
+        },
+        {
+          "date": "2026-05-07",
+          "day": "Thu",
+          "type": "run",
+          "title": "Easy Z2 — 8 km",
+          "planned": "Thursday Easy Run\n5:35-6:10/km, HR 138-153",
+          "actual": "Run 9.89 km · 57:28 · 5:49/km · HR 152/167",
+          "status": "done",
+          "notes": "On-target Z2."
+        },
+        {
+          "date": "2026-05-08",
+          "day": "Fri",
+          "type": "gym",
+          "title": "Full Body + Stairmaster",
+          "planned": "Friday Gym C\nDB Incline Press 2×6-8 / Cable Row 2×6-8\nBox Jump or KB Swing\nWalking Lunge 2×8/leg\nAb Wheel + Side Plank\nStairmaster 20 min",
+          "actual": "Done. Stairmaster 20:21 · HR 166/177.",
+          "status": "done",
+          "notes": ""
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Sat",
+          "type": "run",
+          "title": "Long Run: Steady 26 km",
+          "planned": "Saturday Long Run\nSteady state ~5:40/km throughout",
+          "actual": "Ride 150.4 km · 5:42:08 moving (6:57:52 elapsed) · 26.4 km/h · 125 W avg · HR 138/176 · 473 m elev · Whoop strain 20.4",
+          "status": "modified",
+          "notes": "Long run swapped for long ride — fueling test session. ~385 g carbs over 6 h (~67 g/h) with zero GI issues — first 6-hour fueling block. Verdict: appropriate for Z1 intensity; gut training stimulus deferred to a tempo brick later in build."
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sun",
+          "type": "rest",
+          "title": "Rest Day",
+          "planned": "Recovery day\nSleep, foam roll, sauna if available",
+          "actual": null,
+          "status": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "weekNum": 2,
+      "phase": "Base",
+      "startDate": "2026-05-11",
+      "sessions": [
+        {
+          "date": "2026-05-11",
+          "day": "Mon",
+          "type": "gym",
+          "title": "Upper Body + Core",
+          "planned": "Monday Gym A",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-05-12",
+          "day": "Tue",
+          "type": "run",
+          "title": "Stamina: 25min @ 4:42-4:50 (track)",
+          "planned": "Tuesday Key Run — 12 km\nOn the track (zone-check data point)\n25 min sustained at 4:42-4:50/km, target HR 160-170\nMost ultra-specific session",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-05-13",
+          "day": "Wed",
+          "type": "gym",
+          "title": "Lower Body (Deadlift week)",
+          "planned": "Wednesday Gym B\nDeadlift 2×6-8\nBulgarian Split Squat 2×8/leg\nHip Thrust 2×8\nSingle Calf Raise 2×15/leg\nTibialis Raise 2×15\nBanded Lateral Walk 2×12/side\nFoot Circuit 2 rounds",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-05-14",
+          "day": "Thu",
+          "type": "run",
+          "title": "Easy Z2 — 9 km",
+          "planned": "Thursday Easy Run\n5:35-6:10/km, HR 138-153",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-05-15",
+          "day": "Fri",
+          "type": "gym",
+          "title": "Full Body + Stairmaster",
+          "planned": "Friday Gym C\nStairmaster 22 min",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Sat",
+          "type": "run",
+          "title": "Long Run: Progressive 29 km",
+          "planned": "Saturday Long Run\nStart 5:50 → finish 5:00/km",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sun",
+          "type": "rest",
+          "title": "Rest Day",
+          "planned": "Recovery day\nSleep, foam roll, sauna if available",
+          "actual": null,
+          "status": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "weekNum": 3,
+      "phase": "Base",
+      "startDate": "2026-05-18",
+      "sessions": [
+        {
+          "date": "2026-05-18",
+          "day": "Mon",
+          "type": "gym",
+          "title": "Upper Body + Core",
+          "planned": "Monday Gym A",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-05-19",
+          "day": "Tue",
+          "type": "run",
+          "title": "CV test (track): 3min + 12min all-out",
+          "planned": "Tuesday Key Run — 13 km — REPLACES VO2max session\nOn the track\n15 min Z2 warmup + drills + 4×100m strides\n3 min all-out (even pacing)\n30 min easy jog recovery\n12 min all-out (sustainably hard)\n15 min Z2 cooldown\nUsed to recalibrate threshold pace and HR zones\nCV = (D12 - D3) / 540s; threshold HR = avg HR over min 4-12 of the 12-min effort",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-05-20",
+          "day": "Wed",
+          "type": "gym",
+          "title": "Lower Body (Squat week)",
+          "planned": "Wednesday Gym B\nBack Squat 2×6-8",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-05-21",
+          "day": "Thu",
+          "type": "run",
+          "title": "Easy Z2 — 9 km",
+          "planned": "Thursday Easy Run\n5:35-6:10/km, HR 138-153",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-05-22",
+          "day": "Fri",
+          "type": "gym",
+          "title": "Full Body + Stairmaster",
+          "planned": "Friday Gym C\nStairmaster 25 min",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-05-23",
+          "day": "Sat",
+          "type": "run",
+          "title": "Long Run: Fast Finish 33 km",
+          "planned": "Saturday Long Run\nEasy for 70%, stamina pace (4:42-4:50) for last 30%",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-05-24",
+          "day": "Sun",
+          "type": "rest",
+          "title": "Rest Day",
+          "planned": "Recovery day\nSleep, foam roll, sauna if available",
+          "actual": null,
+          "status": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "weekNum": 4,
+      "phase": "Down",
+      "startDate": "2026-05-25",
+      "sessions": [
+        {
+          "date": "2026-05-25",
+          "day": "Mon",
+          "type": "gym",
+          "title": "Upper Body + Core",
+          "planned": "Monday Gym A — Down week",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-05-26",
+          "day": "Tue",
+          "type": "run",
+          "title": "Threshold: 2×8min @ 4:25-4:30",
+          "planned": "Tuesday Key Run — 9 km\nReduced volume down week",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-05-27",
+          "day": "Wed",
+          "type": "gym",
+          "title": "Lower Body (Deadlift week)",
+          "planned": "Wednesday Gym B — Down week",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-05-28",
+          "day": "Thu",
+          "type": "run",
+          "title": "Easy Z2 — 7 km",
+          "planned": "Thursday Easy Run — Down week",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-05-29",
+          "day": "Fri",
+          "type": "gym",
+          "title": "Full Body + Stairmaster",
+          "planned": "Friday Gym C\nStairmaster 30 min",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-05-30",
+          "day": "Sat",
+          "type": "run",
+          "title": "Long Run: Steady 24 km",
+          "planned": "Saturday Long Run — Down week",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-05-31",
+          "day": "Sun",
+          "type": "rest",
+          "title": "Rest Day",
+          "planned": "Recovery day\nSleep, foam roll, sauna if available",
+          "actual": null,
+          "status": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "weekNum": 5,
+      "phase": "Build",
+      "startDate": "2026-06-01",
+      "sessions": [
+        {
+          "date": "2026-06-01",
+          "day": "Mon",
+          "type": "gym",
+          "title": "Upper Body + Core",
+          "planned": "Monday Gym A",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-02",
+          "day": "Tue",
+          "type": "run",
+          "title": "Threshold: 3×10min @ 4:19-4:30",
+          "planned": "Tuesday Key Run — 13 km\n3×10min at threshold pace",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-03",
+          "day": "Wed",
+          "type": "gym",
+          "title": "Lower Body (Squat week)",
+          "planned": "Wednesday Gym B\nBack Squat 2×6-8",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-04",
+          "day": "Thu",
+          "type": "run",
+          "title": "Easy Z2 — 9 km",
+          "planned": "Thursday Easy Run",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-05",
+          "day": "Fri",
+          "type": "run",
+          "title": "Treadhill Intervals — 10 km",
+          "planned": "Friday Vert Session\n6×3min at 12-15% gradient\n2 min jog at 3% recovery",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-06",
+          "day": "Sat",
+          "type": "run",
+          "title": "Long Run: Steady 27 km",
+          "planned": "Saturday Long Run\nStart fueling practice: 200 cal/h",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-07",
+          "day": "Sun",
+          "type": "rest",
+          "title": "Rest Day",
+          "planned": "Recovery day\nSleep, foam roll, sauna if available",
+          "actual": null,
+          "status": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "weekNum": 6,
+      "phase": "Build",
+      "startDate": "2026-06-08",
+      "sessions": [
+        {
+          "date": "2026-06-08",
+          "day": "Mon",
+          "type": "gym",
+          "title": "Upper Body + Core",
+          "planned": "Monday Gym A",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-09",
+          "day": "Tue",
+          "type": "run",
+          "title": "Progression: 5:30 → 4:25",
+          "planned": "Tuesday Key Run — 13 km\nStart easy, drop pace every 10 min\nFinish last 10-15 min at threshold",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-10",
+          "day": "Wed",
+          "type": "gym",
+          "title": "Lower Body (SL RDL week)",
+          "planned": "Wednesday Gym B\nSingle-Leg RDL 2×6-8",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-11",
+          "day": "Thu",
+          "type": "run",
+          "title": "Easy Z2 — 9 km",
+          "planned": "Thursday Easy Run",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-12",
+          "day": "Fri",
+          "type": "run",
+          "title": "Sustained Climb 30min — 11 km",
+          "planned": "Friday Vert Session\n25-35 min continuous at 8-12% gradient",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-13",
+          "day": "Sat",
+          "type": "run",
+          "title": "Long Run: Progressive 32 km",
+          "planned": "Saturday Long Run\nStart 5:50 → finish 5:00/km\nPractice fueling",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sun",
+          "type": "rest",
+          "title": "Rest Day",
+          "planned": "Recovery day\nSleep, foam roll, sauna if available",
+          "actual": null,
+          "status": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "weekNum": 7,
+      "phase": "Build",
+      "startDate": "2026-06-15",
+      "sessions": [
+        {
+          "date": "2026-06-15",
+          "day": "Mon",
+          "type": "gym",
+          "title": "Upper Body + Core",
+          "planned": "Monday Gym A",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-16",
+          "day": "Tue",
+          "type": "run",
+          "title": "Stamina: 35min @ 4:42-4:50",
+          "planned": "Tuesday Key Run — 14 km\n35 min sustained stamina effort",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-17",
+          "day": "Wed",
+          "type": "gym",
+          "title": "Lower Body (Squat week)",
+          "planned": "Wednesday Gym B",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-18",
+          "day": "Thu",
+          "type": "run",
+          "title": "Easy Z2 — 10 km",
+          "planned": "Thursday Easy Run",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-19",
+          "day": "Fri",
+          "type": "run",
+          "title": "Never-ending Treadhill — 11 km",
+          "planned": "Friday Vert Session\nAlternate 8 min running at 5-6%\nwith 5 min power-hiking at 14-15%\n3-4 rounds. Most race-specific!",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-20",
+          "day": "Sat",
+          "type": "run",
+          "title": "Long Run: Fast Finish 35 km",
+          "planned": "Saturday Long Run\nEasy 70%, stamina pace last 30%",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sun",
+          "type": "rest",
+          "title": "Rest Day",
+          "planned": "Recovery day\nSleep, foam roll, sauna if available",
+          "actual": null,
+          "status": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "weekNum": 8,
+      "phase": "Down",
+      "startDate": "2026-06-22",
+      "sessions": [
+        {
+          "date": "2026-06-22",
+          "day": "Mon",
+          "type": "gym",
+          "title": "Upper Body + Core",
+          "planned": "Monday Gym A — Down week",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-23",
+          "day": "Tue",
+          "type": "run",
+          "title": "Threshold: 2×8min @ 4:25-4:30",
+          "planned": "Tuesday Key Run — 10 km\nDown week",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-24",
+          "day": "Wed",
+          "type": "gym",
+          "title": "Lower Body (SL RDL week)",
+          "planned": "Wednesday Gym B — Down week",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-25",
+          "day": "Thu",
+          "type": "run",
+          "title": "Easy Z2 — 8 km",
+          "planned": "Thursday Easy Run — Down week",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-26",
+          "day": "Fri",
+          "type": "run",
+          "title": "Easy Incline 20min — 8 km",
+          "planned": "Friday Easy Vert\nGentle incline treadmill",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-27",
+          "day": "Sat",
+          "type": "run",
+          "title": "Long Run: Steady 26 km",
+          "planned": "Saturday Long Run — Down week",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-28",
+          "day": "Sun",
+          "type": "rest",
+          "title": "Rest Day",
+          "planned": "Recovery day\nSleep, foam roll, sauna if available",
+          "actual": null,
+          "status": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "weekNum": 9,
+      "phase": "Peak",
+      "startDate": "2026-06-29",
+      "sessions": [
+        {
+          "date": "2026-06-29",
+          "day": "Mon",
+          "type": "gym",
+          "title": "Upper Body + Core",
+          "planned": "Monday Gym A",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-06-30",
+          "day": "Tue",
+          "type": "run",
+          "title": "Threshold: 3×10min @ 4:19-4:30",
+          "planned": "Tuesday Key Run — 14 km",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-07-01",
+          "day": "Wed",
+          "type": "gym",
+          "title": "Lower Body (Squat week)",
+          "planned": "Wednesday Gym B",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-07-02",
+          "day": "Thu",
+          "type": "run",
+          "title": "Easy Z2 — 10 km",
+          "planned": "Thursday Easy Run",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-07-03",
+          "day": "Fri",
+          "type": "run",
+          "title": "Treadhill Intervals — 10 km",
+          "planned": "Friday Vert Session\n6×3min at 14-15% gradient",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-07-04",
+          "day": "Sat",
+          "type": "run",
+          "title": "B2B #1: Steady 28 km",
+          "planned": "Saturday Long Run\nFuel at 250 cal/h — practice race nutrition",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-07-05",
+          "day": "Sun",
+          "type": "run",
+          "title": "B2B #2: Easy 16 km",
+          "planned": "Sunday Long Run on fatigued legs\nEasy effort, pace doesn't matter\nPractice eating/drinking at race frequency",
+          "actual": null,
+          "status": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "weekNum": 10,
+      "phase": "Peak",
+      "startDate": "2026-07-06",
+      "sessions": [
+        {
+          "date": "2026-07-06",
+          "day": "Mon",
+          "type": "gym",
+          "title": "Upper Body + Core",
+          "planned": "Monday Gym A",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-07-07",
+          "day": "Tue",
+          "type": "run",
+          "title": "Stamina: 40min @ 4:42-4:50",
+          "planned": "Tuesday Key Run — 14 km\n40 min sustained stamina — longest stamina effort",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-07-08",
+          "day": "Wed",
+          "type": "gym",
+          "title": "Lower Body (SL RDL week)",
+          "planned": "Wednesday Gym B",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-07-09",
+          "day": "Thu",
+          "type": "run",
+          "title": "Easy Z2 — 10 km",
+          "planned": "Thursday Easy Run",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-07-10",
+          "day": "Fri",
+          "type": "run",
+          "title": "Sustained Climb 35min — 11 km",
+          "planned": "Friday Vert Session\n35 min continuous at 8-12% gradient",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-07-11",
+          "day": "Sat",
+          "type": "run",
+          "title": "Long Run: 35 km",
+          "planned": "Saturday Single Long Run\nPractice full race fueling",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-07-12",
+          "day": "Sun",
+          "type": "rest",
+          "title": "Rest Day",
+          "planned": "Recovery day\nSleep, foam roll, sauna if available",
+          "actual": null,
+          "status": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "weekNum": 11,
+      "phase": "Peak",
+      "startDate": "2026-07-13",
+      "sessions": [
+        {
+          "date": "2026-07-13",
+          "day": "Mon",
+          "type": "gym",
+          "title": "Upper Body + Core",
+          "planned": "Monday Gym A",
+          "actual": null,
+          "status": null,
+          "notes": null,
+          "peakWeek": true
+        },
+        {
+          "date": "2026-07-14",
+          "day": "Tue",
+          "type": "run",
+          "title": "Progression: 5:30 → 4:20",
+          "planned": "Tuesday Key Run — 15 km\nBiggest Tuesday session of the plan",
+          "actual": null,
+          "status": null,
+          "notes": null,
+          "peakWeek": true
+        },
+        {
+          "date": "2026-07-15",
+          "day": "Wed",
+          "type": "gym",
+          "title": "Lower Body (Squat week)",
+          "planned": "Wednesday Gym B",
+          "actual": null,
+          "status": null,
+          "notes": null,
+          "peakWeek": true
+        },
+        {
+          "date": "2026-07-16",
+          "day": "Thu",
+          "type": "run",
+          "title": "Easy Z2 — 10 km",
+          "planned": "Thursday Easy Run",
+          "actual": null,
+          "status": null,
+          "notes": null,
+          "peakWeek": true
+        },
+        {
+          "date": "2026-07-17",
+          "day": "Fri",
+          "type": "run",
+          "title": "Never-ending Treadhill — 11 km",
+          "planned": "Friday Vert Session\nAlternate run/hike at varying gradients\n3-4 rounds",
+          "actual": null,
+          "status": null,
+          "notes": null,
+          "peakWeek": true
+        },
+        {
+          "date": "2026-07-18",
+          "day": "Sat",
+          "type": "run",
+          "title": "B2B #1: 36 km ⭐ PEAK",
+          "planned": "Saturday Long Run — PEAK WEEK\nFull race nutrition rehearsal\n250 cal/h, test all race-day gear",
+          "actual": null,
+          "status": null,
+          "notes": null,
+          "peakWeek": true
+        },
+        {
+          "date": "2026-07-19",
+          "day": "Sun",
+          "type": "run",
+          "title": "B2B #2: 24 km (race rehearsal)",
+          "planned": "Sunday Long Run on fatigued legs\nRace rehearsal — simulate second half of 100K\nTotal weekend: 60 km",
+          "actual": null,
+          "status": null,
+          "notes": null,
+          "peakWeek": true
+        }
+      ]
+    },
+    {
+      "weekNum": 12,
+      "phase": "Down",
+      "startDate": "2026-07-20",
+      "sessions": [
+        {
+          "date": "2026-07-20",
+          "day": "Mon",
+          "type": "gym",
+          "title": "Upper Body + Core",
+          "planned": "Monday Gym A — Down week",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-07-21",
+          "day": "Tue",
+          "type": "run",
+          "title": "Threshold: 2×10min @ 4:25",
+          "planned": "Tuesday Key Run — 11 km\nDown week",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-07-22",
+          "day": "Wed",
+          "type": "gym",
+          "title": "Lower Body (SL RDL week)",
+          "planned": "Wednesday Gym B — Down week",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-07-23",
+          "day": "Thu",
+          "type": "run",
+          "title": "Easy Z2 — 8 km",
+          "planned": "Thursday Easy Run — Down week",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-07-24",
+          "day": "Fri",
+          "type": "run",
+          "title": "Easy Incline 20min — 8 km",
+          "planned": "Friday Easy Vert — Down week",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-07-25",
+          "day": "Sat",
+          "type": "run",
+          "title": "Long Run: Steady 26 km",
+          "planned": "Saturday Long Run — Down week",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-07-26",
+          "day": "Sun",
+          "type": "rest",
+          "title": "Rest Day",
+          "planned": "Recovery day\nSleep, foam roll, sauna if available",
+          "actual": null,
+          "status": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "weekNum": 13,
+      "phase": "Taper",
+      "startDate": "2026-07-27",
+      "sessions": [
+        {
+          "date": "2026-07-27",
+          "day": "Mon",
+          "type": "gym",
+          "title": "Upper Body + Core",
+          "planned": "Monday Gym A — Taper\nReduced volume, maintain intensity",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-07-28",
+          "day": "Tue",
+          "type": "run",
+          "title": "Threshold: 2×8min @ 4:25",
+          "planned": "Tuesday Key Run — 10 km\nTaper — keep legs sharp",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-07-30",
+          "day": "Thu",
+          "type": "run",
+          "title": "Easy Z2 — 7 km",
+          "planned": "Thursday Easy Run — Taper",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-07-31",
+          "day": "Fri",
+          "type": "run",
+          "title": "Easy Jog — 6 km",
+          "planned": "Friday Easy Jog\nLoose and easy",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-08-01",
+          "day": "Sat",
+          "type": "run",
+          "title": "Long Run: Steady 20 km",
+          "planned": "Saturday Long Run — Taper\nLast long run before race",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-08-02",
+          "day": "Sun",
+          "type": "rest",
+          "title": "Rest Day",
+          "planned": "Recovery day\nSleep, foam roll, sauna if available",
+          "actual": null,
+          "status": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "weekNum": 14,
+      "phase": "Race",
+      "startDate": "2026-08-03",
+      "sessions": [
+        {
+          "date": "2026-08-04",
+          "day": "Tue",
+          "type": "run",
+          "title": "Shakeout 5 km + strides",
+          "planned": "Tuesday — Race week\nEasy 5 km with 4-6 strides\nStay loose, nothing hard",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-08-06",
+          "day": "Thu",
+          "type": "run",
+          "title": "Easy 3 km",
+          "planned": "Thursday — Race week\nGentle shakeout, last run before race",
+          "actual": null,
+          "status": null,
+          "notes": null
+        },
+        {
+          "date": "2026-08-07",
+          "day": "Fri",
+          "type": "race",
+          "title": "RACE DAY: Swiss Alps 100K",
+          "planned": "RACE DAY!\nSwiss Alps 100K Mountain Ultra\nFuel target: 250 cal/h\nHike anything >12-15% gradient\nEnjoy the mountains!",
+          "actual": null,
+          "status": null,
+          "notes": null
+        }
+      ]
+    }
+  ],
+  "zones": {
+    "current": {
+      "asOf": "2026-05-02",
+      "source": "Karvonen, derived from April 2026 marathon (3:17:21, avg HR 165, ~4:41/km)",
+      "rows": [
+        {
+          "zone": "Easy / Zone 2",
+          "pace": "5:35–6:10/km",
+          "hr": "138–153",
+          "use": "Thursday easy, warm-up/cool-down, Sunday B2B"
+        },
+        {
+          "zone": "Stamina",
+          "pace": "4:42–4:50/km",
+          "hr": "160–170",
+          "use": "Tuesday stamina, fast-finish long runs"
+        },
+        {
+          "zone": "Threshold",
+          "pace": "4:19–4:30/km",
+          "hr": "168–183",
+          "use": "Tuesday threshold intervals"
+        },
+        {
+          "zone": "VO2max",
+          "pace": "3:39–4:00/km",
+          "hr": "183–198",
+          "use": "Phase 1 only (week 3, replaced by CV test)"
+        }
+      ],
+      "status": "Under review — suspected conservative at faster paces (May 5 threshold ran HR 6–10 bpm under predicted zone at correct pace)."
+    },
+    "calibrationPlan": [
+      {
+        "date": "2026-05-12",
+        "kind": "data point",
+        "session": "Stamina 25 min @ 4:42–4:50 on the track",
+        "purpose": "Clean outdoor HR data point at a known pace. Sub-160 across the rep would confirm zones are conservative.",
+        "status": "scheduled"
+      },
+      {
+        "date": "2026-05-19",
+        "kind": "recalibration",
+        "session": "CV test (track): 15' WU → 3 min all-out → 30 min easy → 12 min all-out → 15' CD",
+        "purpose": "Outputs: Critical Velocity (true threshold pace), threshold HR (avg HR mins 4–12 of 12-min effort), D' (anaerobic reserve). Will be used to recalibrate Stamina + Threshold zones.",
+        "status": "scheduled"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-05-02",
+        "method": "Karvonen extrapolation from April 2026 marathon (3:17:21, avg HR 165, ~4:41/km)",
+        "summary": "Initial zone set established with the plan. HRmax ~190, HRrest ~44."
+      }
+    ]
+  },
+  "adjustments": [
+    {
+      "date": "2026-05-05",
+      "title": "Zone calibration substitutions (Wk 2 + Wk 3)",
+      "weeksTouched": [
+        2,
+        3
+      ],
+      "changes": [
+        {
+          "before": "Wk 2 Tue — Stamina 25 min @ 4:42–4:50, surface unspecified",
+          "after": "Wk 2 Tue — Stamina 25 min @ 4:42–4:50 on the track"
+        },
+        {
+          "before": "Wk 3 Tue — VO2max 6×2 min @ 3:39–4:00",
+          "after": "Wk 3 Tue — CV test on the track (3 min + 12 min all-out)"
+        }
+      ],
+      "reason": "May 5 threshold session ran HR 6–10 bpm under predicted zone at correct pace, suggesting marathon-derived Karvonen zones may be conservative at faster paces. Track stamina = clean data point; CV test = recalibration.",
+      "filesUpdated": [
+        "training-plan.md",
+        "training-plan.html",
+        "running.html",
+        "training-calendar.ics",
+        "training-data.json"
+      ]
+    }
+  ]
+};

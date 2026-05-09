@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mileage Plan - Swiss Alps 100K</title>
+    <title>Schedule - Swiss Alps 100K</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -22,18 +22,87 @@
     <nav>
         <ul>
             <li><a href="/">Overview</a></li>
-            <li><a href="/weekly-structure.html">Weekly Structure</a></li>
-            <li><a href="/mileage.html" class="active">Mileage</a></li>
+            <li><a href="/schedule.html" class="active">Schedule</a></li>
             <li><a href="/running.html">Running</a></li>
             <li><a href="/gym.html">Gym</a></li>
-            <li><a href="/hill-work.html">Hill Work</a></li>
-            <li><a href="/nutrition.html">Nutrition</a></li>
+            <li><a href="/training-log.html">Training Log</a></li>
+            <li><a href="/zones.html">Zones</a></li>
         </ul>
     </nav>
 
     <main>
-        <section>
+        <section id="weekly-structure">
+            <h2>Weekly Structure</h2>
+            <p>The day-by-day skeleton. Mondays, Wednesdays, Thursdays, and Saturdays are fixed; Friday and Sunday change with the phase as gym makes way for additional running volume.</p>
+
+            <h3>Fixed Days Across All Phases</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Day</th>
+                        <th>Phase 1 (Base)</th>
+                        <th>Phase 2 (Build)</th>
+                        <th>Phase 3 (Peak)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Monday</strong></td>
+                        <td><span class="badge badge-gym">Gym</span> Upper + Core</td>
+                        <td><span class="badge badge-gym">Gym</span> Upper + Core</td>
+                        <td><span class="badge badge-gym">Gym</span> Upper + Core</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Tuesday</strong></td>
+                        <td><span class="badge badge-run">Run</span> Key Run (intervals/tempo)</td>
+                        <td><span class="badge badge-run">Run</span> Key Run (intervals/tempo)</td>
+                        <td><span class="badge badge-run">Run</span> Key Run (race-pace)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Wednesday</strong></td>
+                        <td><span class="badge badge-gym">Gym</span> Lower Body</td>
+                        <td><span class="badge badge-gym">Gym</span> Lower Body</td>
+                        <td><span class="badge badge-gym">Gym</span> Lower Body</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Thursday</strong></td>
+                        <td><span class="badge badge-run">Run</span> Easy Run (Zone 2)</td>
+                        <td><span class="badge badge-run">Run</span> Easy Run (Zone 2)</td>
+                        <td><span class="badge badge-run">Run</span> Easy Run (Zone 2)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Friday</strong></td>
+                        <td><span class="badge badge-gym">Gym</span> Full Body + Stairmaster</td>
+                        <td><span class="badge badge-run">Run</span> Quality Run / Incline Treadmill</td>
+                        <td><span class="badge badge-run">Run</span> Vert Session / Incline Treadmill</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Saturday</strong></td>
+                        <td><span class="badge badge-run">Run</span> Long Run</td>
+                        <td><span class="badge badge-run">Run</span> Long Run</td>
+                        <td><span class="badge badge-run">Run</span> Long Run #1 (hard)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Sunday</strong></td>
+                        <td>Rest</td>
+                        <td>Rest or Easy</td>
+                        <td><span class="badge badge-run">Run</span> Long Run #2 (fatigued legs)</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h3>Key Design Decisions</h3>
+            <ul>
+                <li><strong>Upper body on Monday</strong> (not Wednesday) so legs are fresh for Tuesday's key quality run</li>
+                <li><strong>Gym tapers 3 -> 2 days</strong> as running volume ramps — upper body + core stays throughout for muscle retention</li>
+                <li><strong>Back-to-back weekend long runs</strong> in peak phase rather than ever-increasing single Saturday runs</li>
+                <li><strong>Amsterdam hill constraint:</strong> completely flat; hill work via stairmaster (Phase 1 Fri gym) and incline treadmill (Phase 2-3) — see <a href="/running.html#hill-work">Running → Hill Work</a></li>
+            </ul>
+        </section>
+
+        <section id="mileage">
             <h2>14-Week Mileage Plan</h2>
+            <p>Per-week running volume (km) by day. Saturday holds the long run; Sunday only adds volume during the two B2B weekends. Peak week (★) = 96 km.</p>
 
             <table>
                 <thead>
@@ -221,9 +290,7 @@
                     </tr>
                 </tbody>
             </table>
-        </section>
 
-        <section>
             <h3>Progression Rules</h3>
             <ul>
                 <li>Max 10% weekly volume increase</li>
