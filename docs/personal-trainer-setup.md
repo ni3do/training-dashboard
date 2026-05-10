@@ -66,7 +66,7 @@ Default behavior: log the session first, then recommend any next-session adjustm
 
 ### Sunday review
 
-Scheduled for Sunday 19:00 Europe/Zurich in OpenClaw cron. The cron creates a dated Discord thread in the training channel and posts the review there.
+Scheduled for Sunday 19:00 Europe/Zurich in OpenClaw cron. The cron creates a dated Discord thread under parent Discord text channel `1467157917752098936` and posts the review there; the Strava/WHOOP discussion itself is already a thread, so it cannot contain child threads.
 
 Every Sunday evening:
 

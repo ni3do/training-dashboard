@@ -19,7 +19,7 @@ Tasks:
    - 2+ key sessions missed or under-target
    - Simon reported slog feeling for 2+ weeks
    - phase boundary
-6. Create a Discord thread in channel `1502701820731195412` named `Training review — YYYY-MM-DD` where `YYYY-MM-DD` is the review date. Use the message tool's Discord thread creation/reply capability, then post the concise review summary inside that thread.
+6. Create a Discord thread in parent Discord text channel `1467157917752098936` named `Training review — YYYY-MM-DD` where `YYYY-MM-DD` is the review date. Use the message tool's Discord thread creation/reply capability, then post the concise review summary inside that thread.
 
 Thread summary must include:
    - planned vs actual
@@ -28,7 +28,7 @@ Thread summary must include:
    - recommendation for next week
    - any plan changes that need Simon's approval
 
-Do not post the normal review summary directly into the parent channel unless thread creation fails. If thread creation fails, post a short fallback summary in the parent channel and clearly say thread creation failed.
+Do not post the normal review summary directly into the parent channel unless thread creation fails. The current Strava/WHOOP conversation is itself a Discord thread (`1502701820731195412`), so do not attempt to create a child thread there; use parent text channel `1467157917752098936`. If thread creation fails, post a short fallback summary in the parent channel and clearly say thread creation failed.
 
 Rules:
 - Do not apply non-trivial plan/dashboard/calendar changes without Simon's explicit approval.
