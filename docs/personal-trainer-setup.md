@@ -66,7 +66,7 @@ Default behavior: log the session first, then recommend any next-session adjustm
 
 ### Sunday review
 
-Scheduled for Sunday 19:00 Europe/Zurich in OpenClaw cron.
+Scheduled for Sunday 19:00 Europe/Zurich in OpenClaw cron. The cron creates a dated Discord thread in the training channel and posts the review there.
 
 Every Sunday evening:
 
