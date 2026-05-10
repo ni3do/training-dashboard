@@ -81,9 +81,9 @@ window.trainingData =
           "type": "rest",
           "title": "Rest Day",
           "planned": "Recovery day\nSleep, foam roll, sauna if available",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Rest day — no run. WHOOP recovery 22% red after Saturday's 150 km ride.",
+          "status": "done",
+          "notes": "Correct recovery call; no chasing missed long-run volume. Recheck Monday recovery before upper-body gym and preserve Tuesday track stamina session if recovery rebounds."
         }
       ]
     },

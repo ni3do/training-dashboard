@@ -69,7 +69,7 @@ Each Sunday review fills in this template, newest week at the top.
 
 <!-- Newest week goes directly below this line. -->
 
-## Week of 2026-05-04 (Phase 1 — Week 1) — *in progress*
+## Week of 2026-05-04 (Phase 1 — Week 1)
 
 **Planned vs. actual**
 
@@ -81,16 +81,38 @@ Each Sunday review fills in this template, newest week at the top.
 | Thu 05-07 | Easy run (Z2, 45–60 min) | Run 9.89 km · 57:28 · 5:49/km · HR 152/167 | On-target Z2 |
 | Fri 05-08 | Full body + stairmaster vert (gym) | Done | Stairmaster 20:21 · HR 166/177 logged on Strava |
 | Sat 05-09 | Long run (90 min – 3h) | Ride 150.4 km · 5:42:08 moving (6:57:52 elapsed) · 26.4 km/h · 125 W avg · HR 138/176 · 473 m elev · Whoop strain 20.4 | Long run swapped for long ride — fueling test session, see notes below |
-| Sun 05-10 | Rest + Sunday review | **Rest day — no run** (Whoop recovery 22% 🔴) | Long-run replacement decision postponed to Sunday review based on autonomic load |
+| Sun 05-10 | Rest + Sunday review | **Rest day — no run** (WHOOP recovery 22% 🔴) | Correct call after Saturday's autonomic hit; no chasing missed run volume |
 
-**Load & recovery (Tuesday, partial week)**
+**Load & recovery**
 
-- Whoop morning recovery: **44%** (down from 68% Mon)
-- Whoop HRV: **107 ms** — *low* for Simon (baseline ~130+)
-- Whoop RHR: **51 bpm** — elevated 7 bpm vs. 44 baseline
-- Sleep last night: 8 h, 85% performance, 97% efficiency — solid
-- Tuesday strain: 12.3 (moderate)
-- Carryover load: Sat 87 km ride + Sun 47 km ride = quads still loaded
+- Strava weekly run volume: **17.9 km / 1h 36m**, 2 run sessions; planned run volume was **45 km**.
+- Total Strava logged endurance: **205.5 km cycling + 17.9 km running + 20:21 stair-stepper**, ~**9h 14m** moving time across 5 uploads.
+- WHOOP recovery available from captured checks: **avg ~56%**, range **22–88%** (Mon 68, Tue 44, Sat 88, Sun 22). Direct WHOOP MCP pull was blocked by missing local token cache / non-interactive OAuth, so this uses the week's captured WHOOP notes rather than a full 7-day export.
+- WHOOP sleep available from captured checks: roughly **8.0–8.7 h/night** on logged nights, with good efficiency; Saturday night showed high deep + REM as the body pushed repair after the long ride.
+- WHOOP strain available: Tue **12.3**; Sat ride **20.4 peak** (very high/all-out tier). Weekly strain export unavailable from MCP.
+- HRV trend: volatile and load-reactive — Tue **107 ms**, Sat **154 ms**, Sun **68 ms** vs. Simon baseline ~**130+ ms**. Sunday RHR **60 bpm** (+17 vs. baseline) confirmed a major autonomic hit.
+
+**Subjective notes (Simon)**
+
+- Saturday ride: first 6-hour fueling block; belly felt good, no GI issues; intake felt borderline overfueling for the low ride intensity.
+- No explicit "slog" report this week.
+
+**Trigger check**
+
+- [ ] Recovery <33% for 3+ days — **no**; one red day captured (Sun 22%).
+- [ ] 2+ key sessions missed/under-target — **no**; Tuesday key run was excellent, Saturday long run was modified/missed for run-specific load.
+- [ ] Slog feeling 2+ weeks — **no evidence**; week 1 only, no slog note.
+- [ ] Phase boundary — **no**; still Phase 1 Base.
+
+**Synthesis & recommendation**
+
+Week 1 produced a strong aerobic stimulus, but not the planned run-specific stimulus. Tuesday threshold was the clean win: prescribed paces hit exactly, and it gave useful zone-calibration evidence. Thursday Z2 and all gym/vert work were completed. The main miss is Saturday: the 150 km ride was a huge endurance + fueling session, but it does not replace the connective-tissue and fatigue-running purpose of the 26 km long run. Sunday's 22% recovery made rest non-negotiable.
+
+Recommendation for Week 2: **do not chase the missed 26 km**. Keep the plan intact if Monday recovery rebounds, especially the Tuesday track stamina session because it is the next zone-check data point. If Monday/Tuesday WHOOP remains red or Simon feels flat, downgrade Monday gym and keep Tuesday controlled rather than forcing volume.
+
+**Adjustments applied**
+
+- None from this review. Existing approved Wk 2 track stamina and Wk 3 CV test substitutions remain in place.
 
 **Mid-week notes (captured during the week)**
 
