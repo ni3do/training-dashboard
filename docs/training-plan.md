@@ -1,0 +1,220 @@
+# Swiss Alps 100K — Training Plan
+
+**Race:** Swiss Alps 100K Mountain Ultra  
+**Date:** August 7, 2026 (Friday)  
+**Location:** Swiss Alps  
+**Training base:** Amsterdam, Netherlands (flat — no hills)  
+**Athlete:** Simon
+
+---
+
+## Plan Overview
+
+14-week periodized plan across 3 phases, progressively shifting from strength to running volume. Gym work tapers from 3× to 2× to 0× per week. Running days increase from 3 to 5. Back-to-back long weekends in peak phase simulate racing on fatigued legs.
+
+---
+
+## Weekly Structure
+
+### Fixed Days
+
+| Day | Phase 1 (Base) | Phase 2 (Build) | Phase 3 (Peak) |
+|-----|----------------|-----------------|-----------------|
+| Mon | Gym: Upper + Core | Gym: Upper + Core | Gym: Upper + Core |
+| Tue | Key Run (intervals/tempo) | Key Run (intervals/tempo) | Key Run (race-pace) |
+| Wed | Gym: Lower Body (race-specific) | Gym: Lower Body | Gym: Lower Body (maintenance) |
+| Thu | Easy Run (Zone 2) | Easy Run (Zone 2) | Easy Run (Zone 2) |
+| Fri | Gym: Full Body + Stairmaster | Quality Run / Incline Treadmill | Vert Session / Incline Treadmill |
+| Sat | Long Run | Long Run | Long Run #1 (hard) |
+| Sun | Rest | Rest or Easy | Long Run #2 (fatigued legs) |
+
+### Key Design Decisions
+
+- **Upper body on Monday** (not Wednesday) so legs are fresh for Tuesday's key quality run
+- **Gym tapers 3 → 2 days** as running volume ramps — upper body + core stays throughout for muscle retention
+- **Back-to-back weekend long runs** in peak phase rather than ever-increasing single Saturday runs
+- **Amsterdam hill constraint:** completely flat, hill work via stairmaster (Phase 1 Fri gym) and incline treadmill (Phase 2–3)
+
+---
+
+## Phase Details
+
+### Phase 1: Base Building (May 2026)
+- **Sessions:** 3 gym + 3 runs = 6/week
+- **Volume:** 40–55 km/week
+- **Focus:** Aerobic foundation, strength base, establish weekly rhythm
+- **Gym:** Mon upper+core, Wed lower body race-specific, Fri full body + stairmaster
+- **Hill work:** 20–30 min stairmaster on Fridays
+
+### Phase 2: Build (June 2026)
+- **Sessions:** 2 gym + 4 runs = 6/week
+- **Volume:** 52–70 km/week
+- **Focus:** Increase running volume, add 4th run day, build long run duration
+- **Gym:** Mon upper+core, Wed lower body (Fri gym → quality run)
+- **Hill work:** Incline treadmill on Fridays, alternate Saturdays
+
+### Phase 3: Peak / High Mileage (July – Aug 7, 2026)
+- **Sessions:** 2 gym + 4–5 runs = 6–7/week
+- **Volume:** 53–96 km/week
+- **Focus:** Peak mileage, back-to-back weekends (2×), race simulation
+- **Gym:** Mon upper+core, Wed lower body (maintenance only)
+- **Hill work:** Weekly incline treadmill + cumulative vert via back-to-back long runs
+- **Key feature:** B2B weekends on weeks 9 + 11 only, single long run on weeks 10 + 12
+
+---
+
+## 14-Week Mileage Plan
+
+| Wk | Dates | Phase | Tue | Thu | Fri | Sat | Sun | Total | Gym |
+|----|-------|-------|-----|-----|-----|-----|-----|-------|-----|
+| 1 | May 4–10 | Base | 11 | 8 | — | 26 | — | 45 | 3× |
+| 2 | May 11–17 | Base | 12 | 9 | — | 29 | — | 50 | 3× |
+| 3 | May 18–24 | Base | 13 | 9 | — | 33 | — | 55 | 3× |
+| 4 | May 25–31 | Down | 9 | 7 | — | 24 | — | 40 | 3× |
+| 5 | Jun 1–7 | Build | 13 | 9 | 10 | 27 | — | 59 | 2× |
+| 6 | Jun 8–14 | Build | 13 | 9 | 11 | 32 | — | 65 | 2× |
+| 7 | Jun 15–21 | Build | 14 | 10 | 11 | 35 | — | 70 | 2× |
+| 8 | Jun 22–28 | Down | 10 | 8 | 8 | 26 | — | 52 | 2× |
+| 9 | Jun 29–Jul 5 | Peak | 14 | 10 | 10 | 28 | 16 | 78 | 2× |
+| 10 | Jul 6–12 | Peak | 14 | 10 | 11 | 35 | — | 70 | 2× |
+| 11 | Jul 13–19 | Peak ★ | 15 | 10 | 11 | 36 | 24 | 96 | 2× |
+| 12 | Jul 20–26 | Down | 11 | 8 | 8 | 26 | — | 53 | 2× |
+| 13 | Jul 27–Aug 2 | Taper | 10 | 7 | 6 | 20 | — | 43 | 1× |
+| 14 | Aug 3–7 | Race | 5 | 3 | 🏔️ | — | — | 8+race | 0× |
+
+### Progression Rules
+- Max 10% weekly volume increase
+- Down week every 3–4 weeks (~25–30% reduction)
+- 2-week taper before race day
+- Peak week (Wk 11) = 96 km
+
+### Averages
+- Base phase: ~50 km/week
+- Build phase: ~65 km/week
+- Peak phase: ~81 km/week (excl. down weeks)
+
+---
+
+## Hill Work Strategy (Amsterdam)
+
+Since Amsterdam is completely flat, vertical gain must be simulated indoors:
+
+1. **Stairmaster** (Phase 1, Friday gym): 20–30 min, build duration over 4 weeks. Simulates sustained climbing.
+2. **Incline treadmill** (Phase 2–3): 8–15% gradient, used during Friday quality runs and alternating Saturday long runs. Practice hiking pace at steep gradients (>12%) as this is what you'll do on race day.
+3. **Back-to-back long runs** (Phase 3): Cumulative fatigue from Sat+Sun simulates the sustained effort and muscle breakdown of mountain terrain.
+
+---
+
+## Gym Program
+
+All exercises: **2 working sets, close to failure (RPE 8–9).** Warm-up sets on main compounds don't count. Supersets (A1/A2 pairs) keep sessions to ~40–45 min. Compounds stay in the **6–8 rep range** for strength; isolations at **12–15 reps** for hypertrophy and joint health.
+
+### Monday — Upper Body + Core (all phases, ~40 min)
+
+| # | Exercise | Sets × Reps | Notes |
+|---|----------|-------------|-------|
+| A1 | DB Bench Press | 2×6–8 | + warm-up sets |
+| A2 | DB Row | 2×6–8 | Superset w/ bench |
+| B1 | OHP | 2×6–8 | Standing barbell |
+| B2 | Pull-ups | 2×6–8 | Superset w/ OHP · add weight if needed |
+| C1 | Bicep Curl | 2×12 | DB or barbell |
+| C2 | Tricep Pushdown | 2×12 | Superset w/ curls |
+| D1 | Lateral Raise | 2×15 | Light, controlled |
+| D2 | Face Pull | 2×15 | Shoulder health · superset w/ lat raise |
+| E | Core Circuit | 2 rounds | Hanging leg raise + Pallof press + Farmer carry 40m |
+
+### Wednesday — Lower Body / Race-Specific (all phases, ~45 min)
+
+**Squat and Deadlift alternate weekly** (Week A = Squat, Week B = Deadlift/SL RDL). This avoids stacking two heavy compounds in one session and keeps Thursday's easy run manageable.
+
+| # | Exercise | Sets × Reps | Notes |
+|---|----------|-------------|-------|
+| A | Back Squat (Week A) **or** Deadlift/SL RDL (Week B) | 2×6–8 | + warm-up sets · Deadlift in P1, SL RDL from P2 |
+| B | Bulgarian Split Squat | 2×8/leg | Key exercise — single-leg strength for mountains |
+| C | Hip Thrust | 2×8 | Glute power for climbs |
+| D | Single Calf Raise | 2×15/leg | Slow eccentric (3 sec down) |
+| E | Tibialis Raise | 2×15 | Injury prevention — always keep |
+| F | Banded Lateral Walk | 2×12/side | Glute med / hip stability |
+| G | Foot Circuit | 2 rounds | Short-foot + toe splay + SL balance |
+
+### Friday — Full Body + Stairmaster (Phase 1 only, ~45 min)
+
+| # | Exercise | Sets × Reps | Notes |
+|---|----------|-------------|-------|
+| A1 | DB Incline Press | 2×6–8 | Lighter than Monday — supplemental volume |
+| A2 | Cable Row | 2×6–8 | Superset with press |
+| B | Box Jump or KB Swing | 2×8 / 2×15 | Explosive power — alternate weekly |
+| C | Walking Lunge | 2×8/leg | Climbing prep — hold heavy DBs |
+| D | Ab Wheel + Side Plank | 2 rounds | Quick core finisher before stairmaster |
+| E | Stairmaster | 20–30 min | Wk1: 20 min → Wk4: 30 min · Level 8–12 |
+
+---
+
+## Running Workouts
+
+### Pace Zones (derived from marathon: 3:17:21, avg 4:41/km, avg HR 167)
+
+| Zone | Pace | HR | Use |
+|------|------|----|-----|
+| Easy / Zone 2 | 5:35–6:10/km | 138–153 | Thursday easy runs, warm-up/cool-down, Sunday B2B |
+| Stamina | 4:42–4:50/km | 160–170 | Tuesday stamina runs, fast-finish long runs |
+| Threshold | 4:19–4:30/km | 168–183 | Tuesday threshold intervals |
+| VO2max | 3:39–4:00/km | 183–198 | Phase 1 only (week 3) |
+
+### Tuesday Key Run Types
+
+1. **Threshold Intervals** — 2–3 × 8–12 min at 4:19–4:30/km with 2–3 min jog recovery. Engine builder — raises lactate turnpoint.
+2. **Stamina Run** — 20–40 min sustained at 4:42–4:50/km. Most ultra-specific session — teaches sustained effort just below threshold. Duration builds across phases.
+3. **Progression Run** — Start at 5:30/km, drop pace every 10 min, finish last 10–15 min at threshold (4:25). Pacing discipline and running fast on tired legs.
+4. **VO2max Maintenance** — 6 × 2 min at 3:39–4:00/km with 2 min jog. Phase 1 only (week 3). Keeps top-end sharp without accumulating fatigue.
+
+### Friday Vert Session Types (Phase 2–3)
+
+1. **Treadhill Intervals** — 6 × 3 min at 12–15% gradient (run or power-hike), 2 min jog at 3% recovery. Build to 14–15% in Phase 3.
+2. **Sustained Climb** — 25–35 min continuous at 8–12% gradient, moderate effort. Build duration weekly.
+3. **Never-ending Treadhill** — Alternate 8 min running at 5–6% with 5 min power-hiking at 14–15%. 3–4 rounds. Most race-specific session — mimics rolling mountain profile.
+
+Power-hike technique: lean from ankles, active hand push on thighs, short cadence. Walk/run transition on race day typically at 12–15% gradient.
+
+### Saturday Long Run Types
+
+1. **Steady State** — Even pace (~5:40/km) throughout. Focus on fueling practice from Phase 2 onward.
+2. **Progressive** — Start at 5:50, finish at 5:00/km. Drop pace gradually over distance.
+3. **Fast Finish** — Easy for 70% of distance, stamina pace (4:42–4:50) for last 30%. Simulates pushing when tired.
+
+### Sunday Long Run #2 (Phase 3, B2B weekends only — Weeks 9 + 11)
+
+Easy effort on fatigued legs. Pace doesn't matter — time on feet does. Practice eating and drinking at race-like frequency (200–250 cal/h target). Back-to-back weekends limited to 2 times to manage fatigue.
+
+### 14-Week Workout Schedule
+
+| Wk | Phase | Tuesday Key Run | Thursday | Friday | Saturday Long | Sunday |
+|----|-------|----------------|----------|--------|--------------|--------|
+| 1 | Base | Threshold: 3×8min @ 4:19–4:30 | Z2 8km | — (gym) | Steady 26km | Rest |
+| 2 | Base | Stamina: 25min @ 4:42–4:50 (track) | Z2 9km | — (gym) | Progressive 29km | Rest |
+| 3 | Base | CV test (track): 3min + 12min all-out | Z2 9km | — (gym) | Fast finish 33km | Rest |
+| 4 | Down | Threshold: 2×8min @ 4:25–4:30 | Z2 7km | — (gym) | Steady 24km | Rest |
+| 5 | Build | Threshold: 3×10min @ 4:19–4:30 | Z2 9km | Treadhill intervals 10km | Steady 27km | Rest |
+| 6 | Build | Progression: 5:30 → 4:25 | Z2 9km | Sustained climb 30min 11km | Progressive 32km | Rest |
+| 7 | Build | Stamina: 35min @ 4:42–4:50 | Z2 10km | Never-ending treadhill 11km | Fast finish 35km | Rest |
+| 8 | Down | Threshold: 2×8min @ 4:25–4:30 | Z2 8km | Easy incline 20min 8km | Steady 26km | Rest |
+| 9 | Peak | Threshold: 3×10min @ 4:19–4:30 | Z2 10km | Treadhill intervals 10km | B2B: Steady 28km (fuel 250cal/h) | B2B: Easy 16km (fuel) |
+| 10 | Peak | Stamina: 40min @ 4:42–4:50 | Z2 10km | Sustained climb 35min 11km | Single long 35km (fuel) | Rest |
+| 11 | Peak ★ | Progression: 5:30 → 4:20 | Z2 10km | Never-ending treadhill 11km | B2B: 36km (full race fuel) | B2B: 24km (race rehearsal) |
+| 12 | Down | Threshold: 2×10min @ 4:25 | Z2 8km | Easy incline 20min 8km | Steady 26km | Rest |
+| 13 | Taper | Threshold: 2×8min @ 4:25 | Z2 7km | Easy jog 6km | Steady 20km | Rest |
+| 14 | Race | Shakeout 5km + strides | Easy 3km | 🏔️ RACE DAY | — | — |
+
+### Nutrition Practice (To Be Discussed)
+
+Start fueling practice on Saturday long runs from Phase 2 (week 5). Target 200 cal/h initially, build to 250 cal/h by Phase 3. Full race nutrition rehearsal on B2B weekends (weeks 9, 11). Details TBD.
+
+---
+
+*Plan created May 2, 2026. To be updated as training progresses and adjusted based on Whoop recovery data.*
+
+---
+
+## Plan Adjustments Log
+
+- **2026-05-05** — Wk 2 stamina session moved to track (was unspecified surface), used as zone-check data point. Wk 3 VO2max session replaced with CV test (3 min + 12 min all-out on track) to recalibrate zones — May 5 threshold session ran HR 6–10 bpm under predicted zone at correct pace, suggesting marathon-derived Karvonen zones may be conservative at faster paces.
