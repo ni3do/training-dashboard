@@ -116,6 +116,10 @@ Recommendation for Week 2: **do not chase the missed 26 km**. Keep the plan inta
 
 **Mid-week notes (captured during the week)**
 
+### 2026-05-10 — Recovery modalities
+
+Simon did sauna, red light therapy, and Normatec massage today as recovery support after the 150 km ride / red WHOOP recovery morning.
+
 ### 2026-05-10 — Sunday morning recovery check (post-150 km ride)
 
 **Whoop recovery (this morning):**
