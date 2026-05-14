@@ -69,6 +69,45 @@ Each Sunday review fills in this template, newest week at the top.
 
 <!-- Newest week goes directly below this line. -->
 
+## Week of 2026-05-11 (Phase 1 — Week 2)
+
+**Mid-week notes (captured during the week)**
+
+### 2026-05-12 — Tuesday stamina run
+
+Planned: 12 km with 25 min sustained at 4:42–4:50/km, target HR 160–170.
+
+Actual: Morning Run, 45:48 total; Strava summary shows 9.01 km. The key workout block was completed as prescribed: **25:00 stamina segment**, using the recommended **0.5% treadmill incline**, with lap HR **162.8 avg / 170 max**. Subjective RPE: **7–8/10**.
+
+Read: successful key session despite slightly lower total distance. Do not judge this one by the whole-upload average; the prescribed physiological stimulus was the 25-minute stamina block, and that landed in the intended HR band. RPE 7–8 is appropriate for a controlled stamina session: hard enough to be meaningful, not so hard that it becomes threshold/race-day stupidity. This supports keeping the Week 2 plan intact unless WHOOP recovery or leg feedback says otherwise.
+
+### 2026-05-13 — Wednesday ride instead of lower-body gym
+
+Planned: Lower-body gym, deadlift week.
+
+Actual: Afternoon Ride, **52.74 km** in **2:03:21 moving** / 2:11:35 elapsed, **25.7 km/h**, **91 m elevation**, **115 W avg**, **HR 126 avg**, calories 1,133. Laps were mostly steady/easy: HR generally 110–138 by 5 km split. Strava summary max HR 228 is almost certainly sensor artifact; stream max was 155 and the late lap spikes are physiologically inconsistent.
+
+Subjective note: **very chill**.
+
+Read: good aerobic addition, not a smashfest. This adds endurance load after Tuesday's key run but does not replace lower-body strength. Recommendation: Thursday should stay easy and controlled; if doing both run + gym tomorrow, run first and keep lower-body gym maintenance-level rather than heavy.
+
+
+### 2026-05-14 — Thursday easy Z2 run
+
+Planned: Easy Z2 run, **9 km** at **5:35–6:10/km**, target HR **138–153**.
+
+Actual: Lunch Run, **9.63 km** in **54:58 moving** / 56:02 elapsed, **5:43/km**, **17 m elevation**, **HR 146 avg / 161 max**, cadence **79.9**, power **241 W avg**, HOKA Clifton 10. Laps: first 5.00 km at **HR 145 avg**, final 4.63 km at **HR 147 avg**. WHOOP recovery before the run was **71%** with **HRV 136 ms** and **RHR 46**; current cycle strain after the run was **13.2**.
+
+Read: exactly the kind of boring useful run we want. Slightly long (+0.63 km), pace centered in the easy range, HR average safely in Z2, and only mild upward drift. The max HR/late uptick is not a problem, but after Tuesday's stamina run plus Wednesday's 52.7 km ride, do not turn Friday into a hero session. Keep gym/stairmaster controlled and preserve Saturday's progressive long run.
+
+### 2026-05-14 — Skipped catch-up lower-body gym
+
+Planned/carryover: Lower-body gym from Wednesday was still theoretically available as a catch-up after the Thursday run.
+
+Actual: **Skipped due to time**, not due to soreness or recovery concern. Subjective note from Simon: **legs feel fine**.
+
+Read: low concern. This is a logistics miss, not a body-warning signal. Do not try to cram the missed lower-body session into Friday if it compromises the stairmaster/full-body work or Saturday's 29 km progressive long run. If anything gets protected this week, protect Saturday.
+
 ## Week of 2026-05-04 (Phase 1 — Week 1)
 
 **Planned vs. actual**

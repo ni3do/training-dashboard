@@ -108,9 +108,9 @@ window.trainingData =
           "type": "run",
           "title": "Stamina: 25min @ 4:42-4:50 (track)",
           "planned": "Tuesday Key Run — 12 km\nOn the track (zone-check data point)\n25 min sustained at 4:42-4:50/km, target HR 160-170\nMost ultra-specific session",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Morning Run — 45:48 total, Strava activity 9.01 km. Main stamina block completed as prescribed: 25:00 at target effort/pace with 0.5% incline; lap HR 162.8 avg / 170 max.",
+          "status": "done",
+          "notes": "Slightly short on total distance, but key 25-min stamina segment was executed correctly. Judge this as a successful key session; do not over-weight whole-upload average pace. 0.5% incline used per coaching suggestion. Subjective RPE: 7-8/10."
         },
         {
           "date": "2026-05-13",
@@ -118,9 +118,9 @@ window.trainingData =
           "type": "gym",
           "title": "Lower Body (Deadlift week)",
           "planned": "Wednesday Gym B\nDeadlift 2×6-8\nBulgarian Split Squat 2×8/leg\nHip Thrust 2×8\nSingle Calf Raise 2×15/leg\nTibialis Raise 2×15\nBanded Lateral Walk 2×12/side\nFoot Circuit 2 rounds",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Afternoon Ride — 52.74 km · 2:03:21 moving · 25.7 km/h · 91 m elev · 115 W avg · HR 126 avg. Lower-body gym skipped rather than caught up.",
+          "status": "modified",
+          "notes": "Good aerobic ride after Tuesday's stamina run: mostly easy by HR/power. Simon described it as very chill. Strava summary max HR 228 appears to be a sensor artifact; stream max was 155 and lap maxima include implausible spikes. Lower-body gym was later skipped due to time, not leg soreness; legs felt fine. Treat as a logistics miss, not a recovery warning."
         },
         {
           "date": "2026-05-14",
@@ -128,9 +128,9 @@ window.trainingData =
           "type": "run",
           "title": "Easy Z2 — 9 km",
           "planned": "Thursday Easy Run\n5:35-6:10/km, HR 138-153",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Lunch Run — 9.63 km · 54:58 moving / 56:02 elapsed · 5:43/km · 17 m elev · HR 146 avg / 161 max · cadence 79.9 · 241 W avg · HOKA Clifton 10.",
+          "status": "done",
+          "notes": "On-plan easy Z2 run, slightly over target distance (+0.63 km) and right in pace range. HR average sat comfortably in Z2; max 161 reflects short rises/finish rather than sustained intensity. Split stability good: 5.00 km at HR 145, final 4.63 km at HR 147. Keep Friday gym/stairmaster controlled because this follows Tuesday key run + Wednesday 52.7 km ride."
         },
         {
           "date": "2026-05-15",
