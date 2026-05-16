@@ -142,6 +142,12 @@ Subjective notes from Simon: **legs felt pretty good throughout**. Toward the en
 
 Read: excellent completion and good pacing shape — slightly over target distance, with a real progressive finish. The main caveat is cost: HR averaged high for a long run and WHOOP strain hit **20+**, so this is a major endurance stimulus. Protect the adaptation. Sunday stays a true rest day. Monday upper/core is acceptable only if legs still feel normal; avoid sneaky lower-body loading. Tuesday's CV test should be gated by recovery and leg feel — run it only if HRV/recovery and subjective freshness rebound.
 
+### 2026-05-16 — Recovery modalities after progressive long run
+
+Simon did **sauna**, **Normatec**, and **red light therapy** today as recovery support after the 30.45 km progressive long run / WHOOP strain 20+ day.
+
+Read: good recovery hygiene. These are supportive modalities, not permission to add extra training load; Sunday still stays rest or, at most, a very easy recovery spin if morning recovery and legs look good.
+
 ## Week of 2026-05-04 (Phase 1 — Week 1)
 
 **Planned vs. actual**
