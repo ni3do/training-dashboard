@@ -108,6 +108,40 @@ Actual: **Skipped due to time**, not due to soreness or recovery concern. Subjec
 
 Read: low concern. This is a logistics miss, not a body-warning signal. Do not try to cram the missed lower-body session into Friday if it compromises the stairmaster/full-body work or Saturday's 29 km progressive long run. If anything gets protected this week, protect Saturday.
 
+### 2026-05-16 — Saturday progressive long run
+
+Planned: Saturday long run, **29 km progressive**, start around **5:50/km** and finish around **5:00/km**.
+
+Actual: Morning Run, **30.45 km** in **2:48:06 moving** / 2:57:15 elapsed, **5:31/km avg**, **37 m elevation**, **HR 157 avg / 175 max** on Strava (WHOOP max 179), cadence **82.2**, power **247 W avg**, HOKA Clifton 10. WHOOP logged the workout at **20.3 strain**; current day strain reached **20.5**.
+
+Lap/progression read:
+
+| Segment | Distance | Moving pace | Avg HR | Avg power | Read |
+| --- | ---: | ---: | ---: | ---: | --- |
+| Lap 1 | 10.00 km | ~5:45/km | 149 | 237 W | Controlled opening, broadly easy/Z2 |
+| Lap 2 | 11.00 km | ~5:25/km | 160 | 252 W | Clear progression into steady/stamina effort |
+| Lap 3 | 4.00 km | ~5:14/km | 162 | 261 W | First faster finish block, controlled |
+| Lap 4 | 4.00 km | ~5:08/km | 163 | 267 W | Strongest block; HR rose but did not explode |
+| Lap 5 | 1.45 km | ~6:37/km | 156 | 206 W | Cooldown / easing off |
+
+Recovery context before the run: WHOOP recovery **48%**, HRV **105 ms**, RHR **43 bpm**, sleep performance **93%**. This was not a green-light day, but sleep was solid and RHR was normal. The run therefore counts as a successful session with a high recovery cost, not a casual mileage day.
+
+Fueling during the run, rough estimate from Simon:
+
+| Item | Estimated carbs |
+| --- | ---: |
+| Carb drink | ~60 g |
+| Gummy bears, ~2 handfuls | unmeasured |
+| Gel | ~30 g |
+| Bars / other food | ~30 g |
+| **Known minimum** | **~120 g + gummies** |
+
+Intake rate: over **2.8 h moving**, known minimum is roughly **43 g/h + gummies**. Depending on the gummy amount, likely closer to the lower-middle endurance range. For future long runs with progressive or race-specific finish work, aim to make this more deliberate: roughly **60–75 g/h** as the next practical step, then later gut-training sessions can push higher.
+
+Subjective notes from Simon: **legs felt pretty good throughout**. Toward the end it got harder, but still felt fine and manageable. Before the last increasing-pace section there was slight awareness in the knees and right hamstring, but nothing severe and nothing that changed the session; post-run, legs feel fine.
+
+Read: excellent completion and good pacing shape — slightly over target distance, with a real progressive finish. The main caveat is cost: HR averaged high for a long run and WHOOP strain hit **20+**, so this is a major endurance stimulus. Protect the adaptation. Sunday stays a true rest day. Monday upper/core is acceptable only if legs still feel normal; avoid sneaky lower-body loading. Tuesday's CV test should be gated by recovery and leg feel — run it only if HRV/recovery and subjective freshness rebound.
+
 ## Week of 2026-05-04 (Phase 1 — Week 1)
 
 **Planned vs. actual**

@@ -148,9 +148,9 @@ window.trainingData =
           "type": "run",
           "title": "Long Run: Progressive 29 km",
           "planned": "Saturday Long Run\nStart 5:50 → finish 5:00/km",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Morning Run — 30.45 km · 2:48:06 moving / 2:57:15 elapsed · 5:31/km avg · 37 m elev · HR 157 avg / 175 max · cadence 82.2 · 247 W avg · HOKA Clifton 10.",
+          "status": "done",
+          "notes": "Progressive long run completed slightly over target distance. Laps progressed from ~5:45/km for first 10 km at HR 149, to ~5:25/km for next 11 km at HR 160, then ~5:14/km and ~5:08/km for the final 2×4 km quality blocks before a short cooldown. WHOOP: 48% recovery pre-run, HRV 105 ms, RHR 43; workout strain 20.3 and day strain 20.5, so this was a very large stimulus. Fueling: ~60 g carbs from drink, two handfuls gummy bears, one 30 g gel, plus ~30 g carbs from bars/other food. Subjective: legs felt pretty good throughout; final section got hard but remained fine/manageable. Before the last pace increase there was slight knee and right-hamstring awareness, not severe and still manageable; post-run legs feel fine. Protect Sunday rest and gate Tuesday CV test on recovery/legs."
         },
         {
           "date": "2026-05-17",
