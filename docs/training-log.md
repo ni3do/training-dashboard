@@ -71,6 +71,34 @@ Each Sunday review fills in this template, newest week at the top.
 
 ## Week of 2026-05-11 (Phase 1 — Week 2)
 
+**Planned vs. actual**
+
+| Day | Planned | Actual | Notes |
+| --- | --- | --- | --- |
+| Mon 05-11 | Upper + Core (gym) | Not captured in Strava | No gym note available in the log |
+| **Tue 05-12** | **Key run — stamina 25 min @ 4:42–4:50/km on track, target HR 160–170** | **Run 9.01 km · 45:48 · 5:05/km · HR 153/170; 25:00 stamina block HR 163/170** | Key physiological block completed as prescribed on 0.5% treadmill incline; RPE 7–8/10 |
+| Wed 05-13 | Lower body / deadlift week (gym) | Ride 52.74 km · 2:03:21 · 25.7 km/h · 115 W avg · HR 126 avg | Lower-body gym not completed; ride was chill aerobic load, max HR spike likely sensor artifact |
+| Thu 05-14 | Easy Z2 — 9 km | Run 9.63 km · 54:58 · 5:43/km · HR 146/161 | On-target Z2; lower-body catch-up skipped due to time, legs felt fine |
+| Fri 05-15 | Full body + Stairmaster 22 min | Stair-stepper 22:00 · HR 163/172 | Stairmaster completed; full gym work not captured in Strava/log |
+| Sat 05-16 | Long run — progressive 29 km, start 5:50 → finish 5:00/km | Run 30.45 km · 2:48:06 · 5:31/km · HR 157/175 · WHOOP workout strain 20.3 | Progressive structure executed well; slight knee/right hamstring awareness late but no post-run issue reported |
+| Sun 05-17 | Rest day | Rest day — no Strava activity | Correct default after the 30 km / strain 20+ long run |
+
+**Load & recovery**
+
+- Strava weekly run volume: **49.1 km / 4h 29m**, 3 run sessions; planned run volume was **50 km**.
+- Total Strava logged endurance: **49.1 km running + 52.7 km cycling + 22:00 stair-stepper**, ~**6h 54m** moving time across 5 uploads.
+- WHOOP recovery captured in-week: Thu **71%** (HRV 136 ms, RHR 46) and Sat pre-long-run **48%** (HRV 105 ms, RHR 43, sleep performance 93%). Full 7-day export was unavailable because direct MCP found no ~/.whoop-mcp/tokens.json and fell into interactive OAuth.
+- WHOOP strain captured in-week: Thu cycle strain **13.2** after the easy run; Sat workout strain **20.3**, day strain **20.5** after the progressive long run.
+- HRV trend from captured checks: **136 ms Thu → 105 ms Sat**, showing accumulated fatigue before the long run despite normal RHR and good sleep.
+
+**Subjective notes (Simon)**
+
+- Tue stamina: RPE **7–8/10**.
+- Wed ride: **very chill**.
+- Thu after skipped lower-body catch-up: **legs feel fine**.
+- Sat long run: **legs felt pretty good throughout**; harder toward the end but manageable. Slight knee/right hamstring awareness before the last faster section; post-run legs felt fine.
+- No explicit "slog" report captured.
+
 **Mid-week notes (captured during the week)**
 
 ### 2026-05-12 — Tuesday stamina run
@@ -155,6 +183,23 @@ Read: low concern. Do not catch this up on Tuesday; keep the CV test protected. 
 Simon did **sauna**, **Normatec**, and **red light therapy** today as recovery support after the 30.45 km progressive long run / WHOOP strain 20+ day.
 
 Read: good recovery hygiene. These are supportive modalities, not permission to add extra training load; Sunday still stays rest or, at most, a very easy recovery spin if morning recovery and legs look good.
+
+**Trigger check**
+
+- [ ] Recovery <33% for 3+ days — **no evidence from captured checks**. Available WHOOP recovery values were 71% and 48%; full 7-day export was unavailable.
+- [ ] 2+ key sessions missed/under-target — **no**. Tuesday's key stamina block landed in the target HR band; Saturday's progressive long run was completed.
+- [ ] Slog feeling 2+ weeks — **no evidence**. Week 2 subjective notes were mostly positive/controlled.
+- [ ] Phase boundary — **no**. Still Phase 1 Base; next boundary is end of May.
+
+**Synthesis & recommendation**
+
+Week 2 restored the run-specific stimulus that Week 1 missed, without chasing extra volume. Tuesday's key session delivered the intended 25-minute stamina block, Thursday was a clean Z2 run, and Saturday's 30.45 km progressive long run was the week's biggest success. The main cost signal is Saturday: WHOOP recovery was only 48% beforehand and strain reached 20+, so this should be treated as a major adaptation stimulus rather than a casual long run.
+
+Recommendation for Week 3: **keep the plan intact only if recovery and leg feel rebound**, especially before Tuesday's CV test. Monday upper/core is fine if legs feel normal, but avoid sneaky lower-body loading. If WHOOP is <40% or the right hamstring/knees are still noticeable, downgrade Tuesday to easy running and reschedule the CV test. No extra volume.
+
+**Adjustments applied**
+
+- None. No plan/dashboard/calendar changes applied.
 
 ## Week of 2026-05-04 (Phase 1 — Week 1)
 
