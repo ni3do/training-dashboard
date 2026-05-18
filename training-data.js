@@ -98,9 +98,9 @@ window.trainingData =
           "type": "gym",
           "title": "Upper Body + Core",
           "planned": "Monday Gym A",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Skipped due to logistics/time. Focus shifted to protecting Tuesday's CV test rather than catching up gym.",
+          "status": "skipped",
+          "notes": "Low concern. Do not catch up this gym session on Tuesday; preserve freshness for the key run. Track is preferred for the CV test because clean distance makes the calibration useful, with treadmill acceptable only as a fallback."
         },
         {
           "date": "2026-05-12",

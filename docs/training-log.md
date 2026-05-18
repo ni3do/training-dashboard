@@ -142,6 +142,14 @@ Subjective notes from Simon: **legs felt pretty good throughout**. Toward the en
 
 Read: excellent completion and good pacing shape — slightly over target distance, with a real progressive finish. The main caveat is cost: HR averaged high for a long run and WHOOP strain hit **20+**, so this is a major endurance stimulus. Protect the adaptation. Sunday stays a true rest day. Monday upper/core is acceptable only if legs still feel normal; avoid sneaky lower-body loading. Tuesday's CV test should be gated by recovery and leg feel — run it only if HRV/recovery and subjective freshness rebound.
 
+### 2026-05-18 — Skipped Monday upper/core gym
+
+Planned: Upper Body + Core.
+
+Actual: skipped due to logistics/time. Simon decided to focus on Tuesday's key run instead.
+
+Read: low concern. Do not catch this up on Tuesday; keep the CV test protected. Track is preferred for this specific session because clean distance makes the 3-minute and 12-minute efforts useful for calibration. Treadmill is acceptable only as a fallback if the track would cause the workout to be skipped or rushed; use Apple Fitness/GymKit as truth if treadmill is used.
+
 ### 2026-05-16 — Recovery modalities after progressive long run
 
 Simon did **sauna**, **Normatec**, and **red light therapy** today as recovery support after the 30.45 km progressive long run / WHOOP strain 20+ day.
@@ -421,4 +429,3 @@ Strong start to the build. Tuesday's quality session was executed cleanly despit
 **Adjustments applied this week**
 
 - Wk 2 Tue and Wk 3 Tue substitutions (stamina → track; VO2max → CV test) — see Plan Adjustments Log entry dated 2026-05-05 in `training-plan.md`.
-
