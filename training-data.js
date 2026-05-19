@@ -185,9 +185,9 @@ window.trainingData =
           "type": "run",
           "title": "CV test (track): 3min + 12min all-out",
           "planned": "Tuesday Key Run — 13 km — REPLACES VO2max session\nOn the track\n15 min Z2 warmup + drills + 4×100m strides\n3 min all-out (even pacing)\n30 min easy jog recovery\n12 min all-out (sustainably hard)\n15 min Z2 cooldown\nUsed to recalibrate threshold pace and HR zones\nCV = (D12 - D3) / 540s; threshold HR = avg HR over min 4-12 of the 12-min effort",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Lunch Run — 12.20 km · 1:10:21 moving / 1:14:48 elapsed · 5:46/km avg · 16 m elev · HR 157 avg / 186 max · cadence 79.3 · 241 W avg · HOKA Clifton 10. CV test completed: 3 min = 0.903 km at 3:19/km, HR 171 avg / 185 max, 406 W avg; 12 min = 2.974 km at 4:02/km, HR 176 avg / 186 max, 334 W avg.",
+          "status": "done",
+          "notes": "Strong execution of the track CV test. Critical Velocity estimate: (2974 m - 903 m) / 540 s = 3.84 m/s, about 4:21/km. Threshold HR estimate from minutes 4-12 of the 12-min effort: ~178 bpm. Interpretation: previous threshold pace band was not too fast; if anything, marathon-derived HR zones were conservative at faster work. Keep weekly structure intact, but recalibrate intensity anchors: threshold work should center around ~4:20-4:25/km, stamina remains ~4:42-4:50/km, easy work stays easy by HR/feel. Because this came three days after a 30 km / WHOOP strain 20+ long run and max HR hit 186, keep Wednesday lower body conservative unless recovery and legs are clearly good."
         },
         {
           "date": "2026-05-20",
@@ -337,7 +337,7 @@ window.trainingData =
           "date": "2026-06-02",
           "day": "Tue",
           "type": "run",
-          "title": "Threshold: 3×10min @ 4:19-4:30",
+          "title": "Threshold: 3×10min @ 4:20-4:25",
           "planned": "Tuesday Key Run — 13 km\n3×10min at threshold pace",
           "actual": null,
           "status": null,
@@ -645,7 +645,7 @@ window.trainingData =
           "date": "2026-06-30",
           "day": "Tue",
           "type": "run",
-          "title": "Threshold: 3×10min @ 4:19-4:30",
+          "title": "Threshold: 3×10min @ 4:20-4:25",
           "planned": "Tuesday Key Run — 14 km",
           "actual": null,
           "status": null,
@@ -1048,8 +1048,8 @@ window.trainingData =
   ],
   "zones": {
     "current": {
-      "asOf": "2026-05-02",
-      "source": "Karvonen, derived from April 2026 marathon (3:17:21, avg HR 165, ~4:41/km)",
+      "asOf": "2026-05-19",
+      "source": "CV field test on 2026-05-19, cross-checked against April 2026 marathon and May 12 stamina session",
       "rows": [
         {
           "zone": "Easy / Zone 2",
@@ -1060,13 +1060,13 @@ window.trainingData =
         {
           "zone": "Stamina",
           "pace": "4:42–4:50/km",
-          "hr": "160–170",
+          "hr": "160–172",
           "use": "Tuesday stamina, fast-finish long runs"
         },
         {
           "zone": "Threshold",
-          "pace": "4:19–4:30/km",
-          "hr": "168–183",
+          "pace": "4:20–4:25/km",
+          "hr": "174–184",
           "use": "Tuesday threshold intervals"
         },
         {
@@ -1076,7 +1076,7 @@ window.trainingData =
           "use": "Phase 1 only (week 3, replaced by CV test)"
         }
       ],
-      "status": "Under review — suspected conservative at faster paces (May 5 threshold ran HR 6–10 bpm under predicted zone at correct pace)."
+      "status": "Updated from May 19 CV test. Keep easy pace/HR conservative; use the new threshold anchor for workouts, not as permission to add volume."
     },
     "calibrationPlan": [
       {
@@ -1084,14 +1084,14 @@ window.trainingData =
         "kind": "data point",
         "session": "Stamina 25 min @ 4:42–4:50 on the track",
         "purpose": "Clean outdoor HR data point at a known pace. Sub-160 across the rep would confirm zones are conservative.",
-        "status": "scheduled"
+        "status": "completed — treadmill/0.5% incline; 25 min block HR 163 avg / 170 max"
       },
       {
         "date": "2026-05-19",
         "kind": "recalibration",
         "session": "CV test (track): 15' WU → 3 min all-out → 30 min easy → 12 min all-out → 15' CD",
         "purpose": "Outputs: Critical Velocity (true threshold pace), threshold HR (avg HR mins 4–12 of 12-min effort), D' (anaerobic reserve). Will be used to recalibrate Stamina + Threshold zones.",
-        "status": "scheduled"
+        "status": "completed — D3 903 m, D12 2974 m, CV ~4:21/km, threshold HR ~178 bpm"
       }
     ],
     "history": [
@@ -1099,6 +1099,11 @@ window.trainingData =
         "date": "2026-05-02",
         "method": "Karvonen extrapolation from April 2026 marathon (3:17:21, avg HR 165, ~4:41/km)",
         "summary": "Initial zone set established with the plan. HRmax ~190, HRrest ~44."
+      },
+      {
+        "date": "2026-05-19",
+        "method": "Track CV test: 3 min all-out plus 12 min all-out, CV = (D12 - D3) / 540 s",
+        "summary": "3 min: 903 m at 3:19/km, HR 171/185, 406 W. 12 min: 2974 m at 4:02/km, HR 176/186, 334 W. CV ~4:21/km; threshold HR from minutes 4-12 ~178 bpm. Updated threshold pace/HR anchors while keeping easy and stamina work conservative."
       }
     ]
   },

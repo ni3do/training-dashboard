@@ -69,6 +69,76 @@ Each Sunday review fills in this template, newest week at the top.
 
 <!-- Newest week goes directly below this line. -->
 
+## Week of 2026-05-18 (Phase 1 — Week 3)
+
+**Planned vs. actual**
+
+| Day | Planned | Actual | Notes |
+| --- | --- | --- | --- |
+| Mon 05-18 | Upper + Core (gym) | Skipped due to logistics/time | Low concern; protected Tuesday key run |
+| **Tue 05-19** | **CV test — 3 min + 12 min all-out on track** | **Run 12.20 km · 1:10:21 · HR 157/186; 3 min 0.903 km @ 3:19/km; 12 min 2.974 km @ 4:02/km** | Strong execution; CV estimate ~4:21/km, threshold HR estimate ~178 bpm |
+| Wed 05-20 | Lower body / squat week (gym) | Pending | Keep conservative unless WHOOP and legs are clearly good |
+| Thu 05-21 | Easy Z2 — 9 km | Pending | Keep genuinely easy; no compensation for missed Monday gym |
+| Fri 05-22 | Full body + Stairmaster 25 min | Pending | Keep controlled ahead of Saturday long run |
+| Sat 05-23 | Fast-finish long run — 33 km | Pending | Use updated stamina anchor; gate on recovery and leg feel |
+| Sun 05-24 | Rest day | Pending | Protect recovery |
+
+**Load & recovery**
+
+- Strava captured so far: **12.20 km running / 1h 10m**, 1 run session.
+- WHOOP pull was unavailable at the time of analysis: local `~/.whoop-mcp/tokens.json` was missing, so no current recovery/sleep/strain values were available.
+- Context entering the workout: Saturday 05-16 was a **30.45 km progressive long run** with WHOOP workout strain **20.3** / day strain **20.5**, so this CV test came on a meaningful fatigue background.
+
+**Subjective notes (Simon)**
+
+- None captured yet for the CV test. Add RPE, legs, and any knee/right-hamstring feedback if available.
+
+**Mid-week notes (captured during the week)**
+
+### 2026-05-18 — Skipped Monday upper/core gym
+
+Planned: Upper Body + Core.
+
+Actual: skipped due to logistics/time. Simon decided to focus on Tuesday's key run instead.
+
+Read: low concern. Do not catch this up on Tuesday; keep the CV test protected. Track is preferred for this specific session because clean distance makes the 3-minute and 12-minute efforts useful for calibration. Treadmill is acceptable only as a fallback if the track would cause the workout to be skipped or rushed; use Apple Fitness/GymKit as truth if treadmill is used.
+
+### 2026-05-19 — Tuesday CV test
+
+Planned: Tuesday Key Run, **13 km**, on the track: 15 min Z2 warmup + drills + 4x100 m strides; **3 min all-out**; 30 min easy jog recovery; **12 min all-out**; 15 min Z2 cooldown. Purpose: recalibrate threshold pace and HR zones.
+
+Actual: Lunch Run, **12.20 km** in **1:10:21 moving** / 1:14:48 elapsed, **16 m elevation**, **HR 157 avg / 186 max**, cadence **79.3**, power **241 W avg**, HOKA Clifton 10.
+
+Key test outputs:
+
+| Segment | Result | Pace | Avg HR | Max HR | Avg power |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| 3 min all-out | 0.903 km | 3:19/km | 171 | 185 | 406 W |
+| 12 min all-out | 2.974 km | 4:02/km | 176 | 186 | 334 W |
+| Threshold HR estimate | min 4-12 of 12-min effort | - | ~178 | 186 | ~327 W |
+
+CV calculation: **(2974 m - 903 m) / 540 s = 3.84 m/s**, or about **4:21/km**. D' estimate: about **213 m**.
+
+Read: strong execution. The 3-minute effort was properly hard without ruining the 12-minute effort. The 12-minute pace is faster than threshold and should not become a training target by itself; the useful training anchor is the CV estimate around **4:21/km**. This confirms the earlier suspicion that the marathon-derived HR zones were conservative at faster work. Updated guidance: threshold intervals should center around **4:20-4:25/km** with HR often **174-184**, stamina remains **4:42-4:50/km**, and easy runs stay governed by easy HR/feel rather than by ego.
+
+Immediate plan adjustment: **keep the Week 3 structure intact but reduce recovery risk**. Wednesday lower-body gym should be maintenance-level if done at all: no grinding squats, no heavy eccentric hero work, and stop if knees/right hamstring speak up. Thursday stays easy Z2. Saturday's 33 km fast-finish long run remains on the plan, but it should be gated by WHOOP/recovery and leg feel because this key session plus Saturday's prior 30 km long run is a real load stack.
+
+**Trigger check**
+
+- [ ] Recovery <33% for 3+ days — unknown; current WHOOP pull unavailable.
+- [ ] 2+ key sessions missed/under-target — **no**. Tuesday CV test was completed well.
+- [ ] Slog feeling 2+ weeks — no evidence.
+- [ ] Phase boundary — no.
+
+**Synthesis & recommendation**
+
+The CV test did its job: it gives a better threshold anchor without requiring a wholesale plan rewrite. The main change is intensity calibration, not volume. Keep easy days easy, keep stamina work close to the old range, and use **~4:21/km** as the threshold reference for future threshold intervals. The next risk is stacking too much musculoskeletal load before Saturday, so the midweek gym work should support the long run rather than compete with it.
+
+**Adjustments applied**
+
+- Updated dashboard zone calibration from the May 19 CV test: threshold anchor **~4:21/km**, threshold HR estimate **~178 bpm**.
+- No weekly volume changes applied.
+
 ## Week of 2026-05-11 (Phase 1 — Week 2)
 
 **Planned vs. actual**

@@ -152,18 +152,18 @@ All exercises: **2 working sets, close to failure (RPE 8–9).** Warm-up sets on
 
 ## Running Workouts
 
-### Pace Zones (derived from marathon: 3:17:21, avg 4:41/km, avg HR 167)
+### Pace Zones (updated after May 19 CV test)
 
 | Zone | Pace | HR | Use |
 |------|------|----|-----|
 | Easy / Zone 2 | 5:35–6:10/km | 138–153 | Thursday easy runs, warm-up/cool-down, Sunday B2B |
-| Stamina | 4:42–4:50/km | 160–170 | Tuesday stamina runs, fast-finish long runs |
-| Threshold | 4:19–4:30/km | 168–183 | Tuesday threshold intervals |
+| Stamina | 4:42–4:50/km | 160–172 | Tuesday stamina runs, fast-finish long runs |
+| Threshold | 4:20–4:25/km | 174–184 | Tuesday threshold intervals |
 | VO2max | 3:39–4:00/km | 183–198 | Phase 1 only (week 3) |
 
 ### Tuesday Key Run Types
 
-1. **Threshold Intervals** — 2–3 × 8–12 min at 4:19–4:30/km with 2–3 min jog recovery. Engine builder — raises lactate turnpoint.
+1. **Threshold Intervals** — 2–3 × 8–12 min at 4:20–4:25/km with 2–3 min jog recovery. Engine builder — raises lactate turnpoint.
 2. **Stamina Run** — 20–40 min sustained at 4:42–4:50/km. Most ultra-specific session — teaches sustained effort just below threshold. Duration builds across phases.
 3. **Progression Run** — Start at 5:30/km, drop pace every 10 min, finish last 10–15 min at threshold (4:25). Pacing discipline and running fast on tired legs.
 4. **VO2max Maintenance** — 6 × 2 min at 3:39–4:00/km with 2 min jog. Phase 1 only (week 3). Keeps top-end sharp without accumulating fatigue.
@@ -194,11 +194,11 @@ Easy effort on fatigued legs. Pace doesn't matter — time on feet does. Practic
 | 2 | Base | Stamina: 25min @ 4:42–4:50 (track) | Z2 9km | — (gym) | Progressive 29km | Rest |
 | 3 | Base | CV test (track): 3min + 12min all-out | Z2 9km | — (gym) | Fast finish 33km | Rest |
 | 4 | Down | Threshold: 2×8min @ 4:25–4:30 | Z2 7km | — (gym) | Steady 24km | Rest |
-| 5 | Build | Threshold: 3×10min @ 4:19–4:30 | Z2 9km | Treadhill intervals 10km | Steady 27km | Rest |
+| 5 | Build | Threshold: 3×10min @ 4:20–4:25 | Z2 9km | Treadhill intervals 10km | Steady 27km | Rest |
 | 6 | Build | Progression: 5:30 → 4:25 | Z2 9km | Sustained climb 30min 11km | Progressive 32km | Rest |
 | 7 | Build | Stamina: 35min @ 4:42–4:50 | Z2 10km | Never-ending treadhill 11km | Fast finish 35km | Rest |
 | 8 | Down | Threshold: 2×8min @ 4:25–4:30 | Z2 8km | Easy incline 20min 8km | Steady 26km | Rest |
-| 9 | Peak | Threshold: 3×10min @ 4:19–4:30 | Z2 10km | Treadhill intervals 10km | B2B: Steady 28km (fuel 250cal/h) | B2B: Easy 16km (fuel) |
+| 9 | Peak | Threshold: 3×10min @ 4:20–4:25 | Z2 10km | Treadhill intervals 10km | B2B: Steady 28km (fuel 250cal/h) | B2B: Easy 16km (fuel) |
 | 10 | Peak | Stamina: 40min @ 4:42–4:50 | Z2 10km | Sustained climb 35min 11km | Single long 35km (fuel) | Rest |
 | 11 | Peak ★ | Progression: 5:30 → 4:20 | Z2 10km | Never-ending treadhill 11km | B2B: 36km (full race fuel) | B2B: 24km (race rehearsal) |
 | 12 | Down | Threshold: 2×10min @ 4:25 | Z2 8km | Easy incline 20min 8km | Steady 26km | Rest |
@@ -218,3 +218,4 @@ Start fueling practice on Saturday long runs from Phase 2 (week 5). Target 200 c
 ## Plan Adjustments Log
 
 - **2026-05-05** — Wk 2 stamina session moved to track (was unspecified surface), used as zone-check data point. Wk 3 VO2max session replaced with CV test (3 min + 12 min all-out on track) to recalibrate zones — May 5 threshold session ran HR 6–10 bpm under predicted zone at correct pace, suggesting marathon-derived Karvonen zones may be conservative at faster paces.
+- **2026-05-19** — CV test completed: 3 min = 903 m at 3:19/km, 12 min = 2974 m at 4:02/km. Critical Velocity estimate = ~4:21/km; threshold HR estimate = ~178 bpm from minutes 4–12 of the 12-min effort. Updated threshold anchor to 4:20–4:25/km / HR 174–184 and stamina HR ceiling to 172. No volume or weekly structure changes applied.
