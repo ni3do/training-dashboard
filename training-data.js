@@ -195,9 +195,9 @@ window.trainingData =
           "type": "gym",
           "title": "Lower Body (Squat week)",
           "planned": "Wednesday Gym B\nBack Squat 2×6-8",
-          "actual": "Modified before session after hamstring feedback: do skipped Monday upper body + core instead of lower-body squat work.",
-          "status": "modified",
-          "notes": "Simon reported he can feel his hamstring a bit after the recent load stack: 30 km progressive long run, skipped Monday gym, then Tuesday CV test. Treat as a warning, not a crisis. Avoid squats, RDL/deadlift patterns, split squats, walking lunges, KB swings, and hard eccentric hamstring/calf loading today. Upper body + core is the better choice. Thursday easy Z2 only if the hamstring is quiet during warm-up; otherwise easy bike/rest. Saturday fast-finish long run is gated on hamstring quietness."
+          "actual": "Completed the Monday upper-body + core session instead of lower-body squat work. Added hamstring stretching.",
+          "status": "done",
+          "notes": "Modified from lower body after Simon reported he could feel his hamstring a bit after the recent load stack: 30 km progressive long run, skipped Monday gym, then Tuesday CV test. Session was good. Keep Thursday easy Z2 only if the hamstring is quiet during warm-up; otherwise easy bike/rest. Saturday fast-finish long run remains gated on hamstring quietness."
         },
         {
           "date": "2026-05-21",
