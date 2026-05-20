@@ -77,7 +77,7 @@ Each Sunday review fills in this template, newest week at the top.
 | --- | --- | --- | --- |
 | Mon 05-18 | Upper + Core (gym) | Skipped due to logistics/time | Low concern; protected Tuesday key run |
 | **Tue 05-19** | **CV test — 3 min + 12 min all-out on track** | **Run 12.20 km · 1:10:21 · HR 157/186; 3 min 0.903 km @ 3:19/km; 12 min 2.974 km @ 4:02/km** | Strong execution; CV estimate ~4:21/km, threshold HR estimate ~178 bpm |
-| Wed 05-20 | Lower body / squat week (gym) | Pending | Keep conservative unless WHOOP and legs are clearly good |
+| Wed 05-20 | Lower body / squat week (gym) | Upper body / core recommended instead; lower-body deferred/modified due to hamstring feedback | Do not load hamstring today; protect Saturday |
 | Thu 05-21 | Easy Z2 — 9 km | Pending | Keep genuinely easy; no compensation for missed Monday gym |
 | Fri 05-22 | Full body + Stairmaster 25 min | Pending | Keep controlled ahead of Saturday long run |
 | Sat 05-23 | Fast-finish long run — 33 km | Pending | Use updated stamina anchor; gate on recovery and leg feel |
@@ -91,7 +91,7 @@ Each Sunday review fills in this template, newest week at the top.
 
 **Subjective notes (Simon)**
 
-- None captured yet for the CV test. Add RPE, legs, and any knee/right-hamstring feedback if available.
+- Wed 05-20: Simon reports he can feel his hamstring a bit after the CV test / recent load stack.
 
 **Mid-week notes (captured during the week)**
 
@@ -122,6 +122,16 @@ CV calculation: **(2974 m - 903 m) / 540 s = 3.84 m/s**, or about **4:21/km**. D
 Read: strong execution. The 3-minute effort was properly hard without ruining the 12-minute effort. The 12-minute pace is faster than threshold and should not become a training target by itself; the useful training anchor is the CV estimate around **4:21/km**. This confirms the earlier suspicion that the marathon-derived HR zones were conservative at faster work. Updated guidance: threshold intervals should center around **4:20-4:25/km** with HR often **174-184**, stamina remains **4:42-4:50/km**, and easy runs stay governed by easy HR/feel rather than by ego.
 
 Immediate plan adjustment: **keep the Week 3 structure intact but reduce recovery risk**. Wednesday lower-body gym should be maintenance-level if done at all: no grinding squats, no heavy eccentric hero work, and stop if knees/right hamstring speak up. Thursday stays easy Z2. Saturday's 33 km fast-finish long run remains on the plan, but it should be gated by WHOOP/recovery and leg feel because this key session plus Saturday's prior 30 km long run is a real load stack.
+
+### 2026-05-20 — Hamstring feedback / Wednesday gym adjustment
+
+Planned: Lower Body / Squat week.
+
+Subjective: Simon reports he can feel his hamstring a bit and asked whether to do the skipped Monday upper-body session or continue with lower body carefully.
+
+Read: take the hamstring seriously. This is not a panic signal, but it is exactly the kind of small warning that becomes expensive if loaded with squats, split squats, RDL/deadlift patterns, walking lunges, or hard eccentric calf/hamstring work two days after a max CV test and four days after a 30 km progressive long run.
+
+Adjustment: do **upper body + core today** instead of lower body. Keep it clean: presses/rows/pull-ups/arms/shoulders plus anti-rotation/core. Avoid loaded carries if they make the hamstring brace hard, and avoid any lower-body accessories. Thursday remains easy Z2 only if the hamstring is quiet while warming up; otherwise replace it with 30-45 min easy bike or rest. Friday should stay upper/full-body light and skip lunges/KB swings if the hamstring is still noticeable. Saturday's fast-finish long run is now gated: do the full 33 km only if the hamstring is quiet by Friday/Saturday warm-up.
 
 **Trigger check**
 
