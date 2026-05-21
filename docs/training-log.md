@@ -78,7 +78,7 @@ Each Sunday review fills in this template, newest week at the top.
 | Mon 05-18 | Upper + Core (gym) | Skipped due to logistics/time | Low concern; protected Tuesday key run |
 | **Tue 05-19** | **CV test — 3 min + 12 min all-out on track** | **Run 12.20 km · 1:10:21 · HR 157/186; 3 min 0.903 km @ 3:19/km; 12 min 2.974 km @ 4:02/km** | Strong execution; CV estimate ~4:21/km, threshold HR estimate ~178 bpm |
 | Wed 05-20 | Lower body / squat week (gym) | Upper body + core completed; hamstring stretching done | Modified from lower body due to hamstring awareness; session felt good |
-| Thu 05-21 | Easy Z2 — 9 km | Pending | Keep genuinely easy; no compensation for missed Monday gym |
+| Thu 05-21 | Easy Z2 — 9 km | Missed — no Strava/WHOOP workout recorded | WHOOP green, but no catch-up volume recommended |
 | Fri 05-22 | Full body + Stairmaster 25 min | Pending | Keep controlled ahead of Saturday long run |
 | Sat 05-23 | Fast-finish long run — 33 km | Pending | Use updated stamina anchor; gate on recovery and leg feel |
 | Sun 05-24 | Rest day | Pending | Protect recovery |
@@ -86,7 +86,7 @@ Each Sunday review fills in this template, newest week at the top.
 **Load & recovery**
 
 - Strava captured so far: **12.20 km running / 1h 10m**, 1 run session.
-- WHOOP pull was unavailable at the time of analysis: local `~/.whoop-mcp/tokens.json` was missing, so no current recovery/sleep/strain values were available.
+- WHOOP captured Thu 05-21: recovery **75%**, HRV **137.9 ms**, RHR **41 bpm**, sleep performance **96%**, sleep consistency **91%**, sleep efficiency **93.7%**, current day strain **4.4**; no WHOOP workout recorded.
 - Context entering the workout: Saturday 05-16 was a **30.45 km progressive long run** with WHOOP workout strain **20.3** / day strain **20.5**, so this CV test came on a meaningful fatigue background.
 
 **Subjective notes (Simon)**
@@ -136,9 +136,19 @@ Adjustment: do **upper body + core today** instead of lower body. Keep it clean:
 
 Actual: Simon completed the Monday upper-body session and did some hamstring stretching. Session was good.
 
+### 2026-05-21 — Thursday easy run missed
+
+Planned: Easy Z2 run, **9 km** at **5:35–6:10/km**, target HR **138–153**.
+
+Actual: Missed. Strava shows no 2026-05-21 activity and WHOOP shows no workout for the day.
+
+WHOOP context: recovery **75%**, HRV **137.9 ms**, RHR **41 bpm**, sleep performance **96%**, sleep consistency **91%**, sleep efficiency **93.7%**, respiratory rate **16.1**, current day strain **4.4**, average HR **52**, max HR **135**.
+
+Read: recovery telemetry is solid, but the missed easy run should stay missed. Do not stack catch-up volume onto Friday/Saturday, especially with hamstring awareness. Preserve Saturday's long-run option; downgrade it if the hamstring is still clearly present.
+
 **Trigger check**
 
-- [ ] Recovery <33% for 3+ days — unknown; current WHOOP pull unavailable.
+- [ ] Recovery <33% for 3+ days — **no evidence**. Thu recovery was 75%.
 - [ ] 2+ key sessions missed/under-target — **no**. Tuesday CV test was completed well.
 - [ ] Slog feeling 2+ weeks — no evidence.
 - [ ] Phase boundary — no.
