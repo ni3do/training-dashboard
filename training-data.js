@@ -205,9 +205,9 @@ window.trainingData =
           "type": "run",
           "title": "Easy Z2 — 9 km",
           "planned": "Thursday Easy Run\n5:35-6:10/km, HR 138-153",
-          "actual": "Skipped.",
-          "status": "skipped",
-          "notes": "No Strava activity recorded. Do not chase this volume before Saturday's long run."
+          "actual": "Missed — no run recorded. WHOOP recovery 75% green, HRV 138 ms, RHR 41, sleep performance 96%; current day strain 4.4 and no WHOOP workout recorded.",
+          "status": "missed",
+          "notes": "Do not chase the missed easy run. Given hamstring awareness and Saturday's planned fast-finish long run, preserve freshness rather than adding catch-up volume."
         },
         {
           "date": "2026-05-22",
