@@ -205,9 +205,9 @@ window.trainingData =
           "type": "run",
           "title": "Easy Z2 — 9 km",
           "planned": "Thursday Easy Run\n5:35-6:10/km, HR 138-153",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Skipped.",
+          "status": "skipped",
+          "notes": "No Strava activity recorded. Do not chase this volume before Saturday's long run."
         },
         {
           "date": "2026-05-22",
@@ -215,9 +215,9 @@ window.trainingData =
           "type": "gym",
           "title": "Full Body + Stairmaster",
           "planned": "Friday Gym C\nStairmaster 25 min",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Skipped. WHOOP only captured a short 15 min walk.",
+          "status": "skipped",
+          "notes": "Gym and Stairmaster skipped. Low concern by itself; do not catch up before the Saturday long run."
         },
         {
           "date": "2026-05-23",
@@ -225,9 +225,9 @@ window.trainingData =
           "type": "run",
           "title": "Long Run: Fast Finish 33 km",
           "planned": "Saturday Long Run\nEasy for 70%, stamina pace (4:42-4:50) for last 30%",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Morning Run — 28.72 km · 2:49:41 moving / 3:34:06 elapsed · 5:54/km moving avg · 33 m elev · HR 156 avg / 180 max · cadence 81.1 · 231 W avg · HOKA Clifton 10.",
+          "status": "modified",
+          "notes": "Fast-finish prescription not completed. Simon reported rough heat/sun exposure, early knee discomfort in the first few km, some walking in the first 20 km, gels were fine, honey felt unpleasant/pasty in the mouth, and the final 10 km quality block was abandoned. Splits support the subjective read: first 20 km stayed around HR 149-157, then HR rose to ~166 avg for the 23-28 km block despite lower power than early miles, consistent with heat/cardiac drift. WHOOP was green pre-run: 95% recovery, HRV 167 ms, RHR 43, sleep performance 100%; workout strain 20.3 and day strain 20.5. Count as a strong endurance stimulus, not a successful fast-finish execution. Protect Sunday rest and keep Monday lower-body loading conservative if knee/hamstring are not quiet."
         },
         {
           "date": "2026-05-24",

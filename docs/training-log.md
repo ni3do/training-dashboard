@@ -78,21 +78,23 @@ Each Sunday review fills in this template, newest week at the top.
 | Mon 05-18 | Upper + Core (gym) | Skipped due to logistics/time | Low concern; protected Tuesday key run |
 | **Tue 05-19** | **CV test — 3 min + 12 min all-out on track** | **Run 12.20 km · 1:10:21 · HR 157/186; 3 min 0.903 km @ 3:19/km; 12 min 2.974 km @ 4:02/km** | Strong execution; CV estimate ~4:21/km, threshold HR estimate ~178 bpm |
 | Wed 05-20 | Lower body / squat week (gym) | Upper body + core completed; hamstring stretching done | Modified from lower body due to hamstring awareness; session felt good |
-| Thu 05-21 | Easy Z2 — 9 km | Pending | Keep genuinely easy; no compensation for missed Monday gym |
-| Fri 05-22 | Full body + Stairmaster 25 min | Pending | Keep controlled ahead of Saturday long run |
-| Sat 05-23 | Fast-finish long run — 33 km | Pending | Use updated stamina anchor; gate on recovery and leg feel |
+| Thu 05-21 | Easy Z2 — 9 km | Skipped | Do not chase the missed volume |
+| Fri 05-22 | Full body + Stairmaster 25 min | Skipped; WHOOP captured only a short 15 min walk | Low concern by itself; no catch-up before the long run |
+| Sat 05-23 | Fast-finish long run — 33 km | Run 28.72 km · 2:49:41 moving / 3:34:06 elapsed · HR 156/180 · 231 W avg | Modified: large endurance stimulus, but fast-finish block abandoned due to heat/sun, early knee feedback, and rising HR cost |
 | Sun 05-24 | Rest day | Pending | Protect recovery |
 
 **Load & recovery**
 
-- Strava captured so far: **12.20 km running / 1h 10m**, 1 run session.
-- WHOOP pull was unavailable at the time of analysis: local `~/.whoop-mcp/tokens.json` was missing, so no current recovery/sleep/strain values were available.
+- Strava captured so far: **40.92 km running / 4h 00m moving**, 2 run sessions.
+- WHOOP before Saturday's long run was strongly green: **95% recovery**, HRV **167 ms**, RHR **43 bpm**, sleep performance **100%**.
+- Saturday long run produced another very large load: WHOOP workout strain **20.3**, day strain **20.5**, HR **150 avg / 180 max**.
 - Context entering the workout: Saturday 05-16 was a **30.45 km progressive long run** with WHOOP workout strain **20.3** / day strain **20.5**, so this CV test came on a meaningful fatigue background.
 
 **Subjective notes (Simon)**
 
 - Wed 05-20: Simon reports he can feel his hamstring a bit after the CV test / recent load stack.
 - Wed 05-20 after gym: completed the Monday upper-body session plus hamstring stretching. Session was good.
+- Sat 05-23: long run felt rough in heat and direct sun. Gels seemed fine; honey felt unpleasant/pasty in the mouth. Knee felt bad for the first few km, then improved. Simon walked a bit in the first 20 km and skipped the proper final 10 km fast-finish block.
 
 **Mid-week notes (captured during the week)**
 
@@ -136,20 +138,35 @@ Adjustment: do **upper body + core today** instead of lower body. Keep it clean:
 
 Actual: Simon completed the Monday upper-body session and did some hamstring stretching. Session was good.
 
+### 2026-05-23 — Saturday fast-finish long run
+
+Planned: **33 km** long run: easy for roughly 70%, then the last 30% at stamina pace (**4:42-4:50/km**).
+
+Actual: Morning Run, **28.72 km** in **2:49:41 moving** / **3:34:06 elapsed**, **5:54/km moving average**, **33 m elevation**, **HR 156 avg / 180 max**, cadence **81.1**, power **231 W avg**, HOKA Clifton 10.
+
+WHOOP: pre-run recovery was excellent: **95%**, HRV **167 ms**, RHR **43 bpm**, sleep performance **100%**. Workout strain was **20.3** and day strain reached **20.5**.
+
+Split read: first 20 km were controlled enough by long-run standards (**5 km lap HRs 149 / 157 / 155 / 153**). The final recorded 5 km block rose to **166 avg HR / 180 max** while power sat lower than early miles, which points to heat/cardiac drift rather than simply under-fitness. The planned final 10 km quality block was not completed.
+
+Subjective: rough day with too much heat and sun. Gels seemed fine. Honey did not feel good in the mouth, described as pasty. Knee felt bad for the first few km and improved later. Some walking in the first 20 km.
+
+Read: count this as a **modified long run with a large aerobic/endurance stimulus**, not as a successful fast-finish session. Abandoning the final 10 km quality block was the right call once heat cost and knee feedback were both present. Do not chase the missed 4-5 km or the missed quality block on Sunday/Monday.
+
 **Trigger check**
 
-- [ ] Recovery <33% for 3+ days — unknown; current WHOOP pull unavailable.
-- [ ] 2+ key sessions missed/under-target — **no**. Tuesday CV test was completed well.
+- [ ] Recovery <33% for 3+ days — **no**. Recent recoveries: 75%, 71%, 95%.
+- [ ] 2+ key sessions missed/under-target — **borderline but not a formal trigger**. Tuesday CV test was completed well; Saturday long run was under-target/modified. Thursday and Friday were missed support sessions, not key sessions.
 - [ ] Slog feeling 2+ weeks — no evidence.
 - [ ] Phase boundary — no.
 
 **Synthesis & recommendation**
 
-The CV test did its job: it gives a better threshold anchor without requiring a wholesale plan rewrite. The main change is intensity calibration, not volume. Keep easy days easy, keep stamina work close to the old range, and use **~4:21/km** as the threshold reference for future threshold intervals. The next risk is stacking too much musculoskeletal load before Saturday, so the midweek gym work should support the long run rather than compete with it.
+The CV test did its job: it gives a better threshold anchor without requiring a wholesale plan rewrite. Saturday then added another huge long-run load, but heat turned the fast-finish prescription into the wrong target. The next risk is not aerobic fitness; it is musculoskeletal tolerance after repeated high-strain Saturdays plus knee/hamstring signals. Keep Sunday as full rest. Monday should be upper body/core or very conservative lower-body only if the knee and hamstring are quiet.
 
 **Adjustments applied**
 
 - Updated dashboard zone calibration from the May 19 CV test: threshold anchor **~4:21/km**, threshold HR estimate **~178 bpm**.
+- Logged Thursday missed run, Friday skipped gym/Stairmaster, and Saturday modified long run.
 - No weekly volume changes applied.
 
 ## Week of 2026-05-11 (Phase 1 — Week 2)
