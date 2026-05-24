@@ -175,9 +175,9 @@ window.trainingData =
           "type": "gym",
           "title": "Upper Body + Core",
           "planned": "Monday Gym A",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Skipped due to logistics/time.",
+          "status": "skipped",
+          "notes": "Low concern; Simon protected Tuesday's CV test rather than catching up gym volume."
         },
         {
           "date": "2026-05-19",
@@ -235,9 +235,9 @@ window.trainingData =
           "type": "rest",
           "title": "Rest Day",
           "planned": "Recovery day\nSleep, foam roll, sauna if available",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Rest day — no Strava activity recorded by review time.",
+          "status": "done",
+          "notes": "Correct default after Saturday's modified long run and WHOOP strain 20+ load. Do not chase the missed Week 3 volume or quality block."
         }
       ]
     },

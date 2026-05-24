@@ -81,14 +81,15 @@ Each Sunday review fills in this template, newest week at the top.
 | Thu 05-21 | Easy Z2 — 9 km | Missed — no Strava/WHOOP workout recorded | WHOOP green, but no catch-up volume recommended |
 | Fri 05-22 | Full body + Stairmaster 25 min | Skipped; WHOOP captured only a short 15 min walk | Low concern by itself; no catch-up before the long run |
 | Sat 05-23 | Fast-finish long run — 33 km | Run 28.72 km · 2:49:41 moving / 3:34:06 elapsed · HR 156/180 · 231 W avg | Modified: large endurance stimulus, but fast-finish block abandoned due to heat/sun, early knee feedback, and rising HR cost |
-| Sun 05-24 | Rest day | Pending | Protect recovery |
+| Sun 05-24 | Rest day | Rest day — no Strava activity recorded by review time | Correct default after Saturday's strain 20+ long run |
 
 **Load & recovery**
 
-- Strava captured so far: **40.92 km running / 4h 00m moving**, 2 run sessions.
+- Strava weekly run volume: **40.92 km / 4h 00m moving**, 2 run sessions; planned run volume was **55 km**.
 - WHOOP captured Thu 05-21: recovery **75%**, HRV **137.9 ms**, RHR **41 bpm**, sleep performance **96%**, sleep consistency **91%**, sleep efficiency **93.7%**, current day strain **4.4**; no WHOOP workout recorded.
 - WHOOP before Saturday's long run was strongly green: **95% recovery**, HRV **167 ms**, RHR **43 bpm**, sleep performance **100%**.
 - Saturday long run produced another very large load: WHOOP workout strain **20.3**, day strain **20.5**, HR **150 avg / 180 max**.
+- Full 7-day WHOOP export was unavailable in this cron run because the direct MCP server was offline and no local token cache was present at `~/.whoop-mcp/tokens.json`; this review uses the captured in-week WHOOP notes.
 - Context entering the workout: Saturday 05-16 was a **30.45 km progressive long run** with WHOOP workout strain **20.3** / day strain **20.5**, so this CV test came on a meaningful fatigue background.
 
 **Subjective notes (Simon)**
@@ -168,11 +169,13 @@ Read: count this as a **modified long run with a large aerobic/endurance stimulu
 - [ ] Recovery <33% for 3+ days — **no**. Recent recoveries: 75%, 71%, 95%.
 - [ ] 2+ key sessions missed/under-target — **borderline but not a formal trigger**. Tuesday CV test was completed well; Saturday long run was under-target/modified. Thursday and Friday were missed support sessions, not key sessions.
 - [ ] Slog feeling 2+ weeks — no evidence.
-- [ ] Phase boundary — no.
+- [ ] Phase boundary — no. Down week starts 2026-05-25, but the Base → Build phase boundary is after Week 4.
 
 **Synthesis & recommendation**
 
-The CV test did its job: it gives a better threshold anchor without requiring a wholesale plan rewrite. Saturday then added another huge long-run load, but heat turned the fast-finish prescription into the wrong target. The next risk is not aerobic fitness; it is musculoskeletal tolerance after repeated high-strain Saturdays plus knee/hamstring signals. Keep Sunday as full rest. Monday should be upper body/core or very conservative lower-body only if the knee and hamstring are quiet.
+The CV test did its job: it gives a better threshold anchor without requiring a wholesale plan rewrite. Saturday then added another huge long-run load, but heat turned the fast-finish prescription into the wrong target. The next risk is not aerobic fitness; it is musculoskeletal tolerance after repeated high-strain Saturdays plus knee/hamstring signals.
+
+Recommendation for Week 4: treat the scheduled down week as real. Preserve Tuesday's 2x8 min threshold session only if knee/hamstring feel normal and recovery is at least acceptable; otherwise convert it to easy Z2 and do not chase the missed Week 3 volume. Keep Saturday's 24 km steady long run easy, with no fast-finish makeup. No formal plan change applied without Simon's approval.
 
 **Adjustments applied**
 
