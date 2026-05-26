@@ -69,6 +69,28 @@ Each Sunday review fills in this template, newest week at the top.
 
 <!-- Newest week goes directly below this line. -->
 
+## Week of 2026-05-25 (Phase 1 — Week 4)
+
+**Planned vs. actual**
+
+| Day | Planned | Actual | Notes |
+| --- | --- | --- | --- |
+| Mon 05-25 | Upper + Core (gym) | Missed | Do not catch up; preserve the down week and give the knee a break |
+| Tue 05-26 | Easy Z2 — 7 km | Pending | Swapped with Thursday threshold for knee management |
+| Wed 05-27 | Lower Body / Deadlift week (gym) | Pending | Keep conservative if the knee is still talking |
+| Thu 05-28 | Threshold: 2×8 min @ 4:25–4:30 | Pending | Moved from Tuesday; reduced-volume down-week key session |
+| Fri 05-29 | Full Body + Stairmaster 30 min | Pending | |
+| Sat 05-30 | Long Run: Steady 24 km | Pending | Down-week long run |
+| Sun 05-31 | Rest day | Pending | |
+
+**Mid-week notes (captured during the week)**
+
+### 2026-05-26 — Week 4 knee-management swap
+
+Simon asked to switch today's threshold session with Thursday's Z2 run to give the knee a bit of a break. Applied: Tuesday becomes easy Z2 7 km; Thursday becomes the reduced-volume threshold session. Monday's upper-body/core gym session was marked missed.
+
+Read: sensible down-week adjustment. Do not catch up Monday's gym. Keep Tuesday genuinely easy and use Thursday threshold only if the knee is quiet through warm-up; otherwise downgrade to easy aerobic work.
+
 ## Week of 2026-05-18 (Phase 1 — Week 3)
 
 **Planned vs. actual**

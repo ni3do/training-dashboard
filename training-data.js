@@ -252,19 +252,19 @@ window.trainingData =
           "type": "gym",
           "title": "Upper Body + Core",
           "planned": "Monday Gym A — Down week",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Missed.",
+          "status": "missed",
+          "notes": "Missed session. Do not catch up this gym work during the down week; priority is giving the knee a small break while preserving the key run stimulus."
         },
         {
           "date": "2026-05-26",
           "day": "Tue",
           "type": "run",
-          "title": "Threshold: 2×8min @ 4:25-4:30",
-          "planned": "Tuesday Key Run — 9 km\nReduced volume down week",
+          "title": "Easy Z2 — 7 km",
+          "planned": "Thursday Easy Run — Down week\nMoved to Tuesday to give the knee a lower-impact day before the key threshold session.",
           "actual": null,
           "status": null,
-          "notes": null
+          "notes": "Swapped with Thursday threshold session for knee management."
         },
         {
           "date": "2026-05-27",
@@ -280,11 +280,11 @@ window.trainingData =
           "date": "2026-05-28",
           "day": "Thu",
           "type": "run",
-          "title": "Easy Z2 — 7 km",
-          "planned": "Thursday Easy Run — Down week",
+          "title": "Threshold: 2×8min @ 4:25-4:30",
+          "planned": "Tuesday Key Run — 9 km\nReduced volume down week\nMoved from Tuesday to Thursday to give the knee a short break.",
           "actual": null,
           "status": null,
-          "notes": null
+          "notes": "Swapped with Tuesday easy Z2 run for knee management."
         },
         {
           "date": "2026-05-29",

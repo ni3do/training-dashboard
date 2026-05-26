@@ -193,7 +193,7 @@ Easy effort on fatigued legs. Pace doesn't matter — time on feet does. Practic
 | 1 | Base | Threshold: 3×8min @ 4:19–4:30 | Z2 8km | — (gym) | Steady 26km | Rest |
 | 2 | Base | Stamina: 25min @ 4:42–4:50 (track) | Z2 9km | — (gym) | Progressive 29km | Rest |
 | 3 | Base | CV test (track): 3min + 12min all-out | Z2 9km | — (gym) | Fast finish 33km | Rest |
-| 4 | Down | Threshold: 2×8min @ 4:25–4:30 | Z2 7km | — (gym) | Steady 24km | Rest |
+| 4 | Down | Z2 7km | Threshold: 2×8min @ 4:25–4:30 | — (gym) | Steady 24km | Rest |
 | 5 | Build | Threshold: 3×10min @ 4:20–4:25 | Z2 9km | Treadhill intervals 10km | Steady 27km | Rest |
 | 6 | Build | Progression: 5:30 → 4:25 | Z2 9km | Sustained climb 30min 11km | Progressive 32km | Rest |
 | 7 | Build | Stamina: 35min @ 4:42–4:50 | Z2 10km | Never-ending treadhill 11km | Fast finish 35km | Rest |
@@ -220,3 +220,4 @@ Start fueling practice on Saturday long runs from Phase 2 (week 5). Target 200 c
 - **2026-05-05** — Wk 2 stamina session moved to track (was unspecified surface), used as zone-check data point. Wk 3 VO2max session replaced with CV test (3 min + 12 min all-out on track) to recalibrate zones — May 5 threshold session ran HR 6–10 bpm under predicted zone at correct pace, suggesting marathon-derived Karvonen zones may be conservative at faster paces.
 - **2026-05-19** — CV test completed: 3 min = 903 m at 3:19/km, 12 min = 2974 m at 4:02/km. Critical Velocity estimate = ~4:21/km; threshold HR estimate = ~178 bpm from minutes 4–12 of the 12-min effort. Updated threshold anchor to 4:20–4:25/km / HR 174–184 and stamina HR ceiling to 172. No volume or weekly structure changes applied.
 - **2026-05-20** — Wk 3 Wednesday lower-body squat session modified after Simon reported hamstring awareness. Recommendation: do the skipped Monday upper-body/core session instead; defer lower-body loading and gate Thu/Fri/Sat on hamstring quietness. Avoid squats, RDL/deadlift patterns, lunges, KB swings, and hard eccentric hamstring/calf loading until symptoms settle.
+- **2026-05-26** — Wk 4 down-week run order swapped for knee management: Tuesday becomes easy Z2 7 km and Thursday becomes the reduced-volume threshold session. Monday upper-body/core gym marked missed; do not catch it up during the down week.

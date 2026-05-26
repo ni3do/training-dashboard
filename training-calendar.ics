@@ -179,8 +179,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
-SUMMARY:🏃 Threshold: 2×8min @ 4:25-4:30
-DESCRIPTION:Tuesday Key Run — 9 km\nReduced volume down week
+SUMMARY:🏃 Easy Z2 — 7 km
+DESCRIPTION:Thursday Easy Run — Down week\nMoved to Tuesday to give the knee a lower-impact day before the key threshold session.
 UID:bb1a0e22-7137-48b0-8c62-2de5df8d223c
 DTSTAMP:20260503T082148Z
 TRANSP:TRANSPARENT
@@ -197,8 +197,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
-SUMMARY:🏃 Easy Z2 — 7 km
-DESCRIPTION:Thursday Easy Run — Down week
+SUMMARY:🏃 Threshold: 2×8min @ 4:25-4:30
+DESCRIPTION:Tuesday Key Run — 9 km\nReduced volume down week\nMoved from Tuesday to Thursday to give the knee a short break.
 UID:fda221f1-ad8e-4c94-a936-79b8701bd15e
 DTSTAMP:20260503T082148Z
 TRANSP:TRANSPARENT
