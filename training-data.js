@@ -262,9 +262,9 @@ window.trainingData =
           "type": "run",
           "title": "Easy Z2 — 7 km",
           "planned": "Thursday Easy Run — Down week\nMoved to Tuesday to give the knee a lower-impact day before the key threshold session.",
-          "actual": null,
-          "status": null,
-          "notes": "Swapped with Thursday threshold session for knee management."
+          "actual": "Treadmill 1 km only; stopped because the knee was still noticeable. Simon could have done more but chose the conservative stop.",
+          "status": "modified",
+          "notes": "Correct call: aborting at 1 km is better than turning a down-week knee signal into a bigger issue. Treat this as a knee-management miss, not a fitness problem. Thursday threshold should be downgraded unless the knee is quiet during normal walking and the warm-up."
         },
         {
           "date": "2026-05-27",
@@ -284,7 +284,7 @@ window.trainingData =
           "planned": "Tuesday Key Run — 9 km\nReduced volume down week\nMoved from Tuesday to Thursday to give the knee a short break.",
           "actual": null,
           "status": null,
-          "notes": "Swapped with Tuesday easy Z2 run for knee management."
+          "notes": "Swapped with Tuesday easy Z2 run for knee management. After Tuesday's 1 km aborted treadmill attempt, only attempt this if the knee is quiet during normal walking and warm-up; otherwise downgrade to easy bike/rest."
         },
         {
           "date": "2026-05-29",
