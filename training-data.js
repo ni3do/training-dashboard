@@ -282,9 +282,9 @@ window.trainingData =
           "type": "run",
           "title": "Threshold: 2×8min @ 4:25-4:30",
           "planned": "Tuesday Key Run — 9 km\nReduced volume down week\nMoved from Tuesday to Thursday to give the knee a short break.",
-          "actual": null,
-          "status": null,
-          "notes": "Swapped with Tuesday easy Z2 run for knee management. After Tuesday's 1 km aborted treadmill attempt, only attempt this if the knee is quiet during normal walking and warm-up; otherwise downgrade to easy bike/rest."
+          "actual": "Run stopped after about 1 km because the knee started to hurt a bit; sauna afterward.",
+          "status": "modified",
+          "notes": "Threshold session aborted for knee management. Correct call: stop early rather than force intensity through knee pain. Treat as a second knee-check miss in the down week, not as a fitness issue. No catch-up intensity; reassess before Friday Stairmaster and Saturday's long run."
         },
         {
           "date": "2026-05-29",
