@@ -272,9 +272,9 @@ window.trainingData =
           "type": "gym",
           "title": "Lower Body (Deadlift week)",
           "planned": "Wednesday Gym B — Down week",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Skipped.",
+          "status": "skipped",
+          "notes": "Skipped during the down week. Do not catch up this lower-body session; keep the priority on knee management and only attempt Thursday threshold if the knee is quiet."
         },
         {
           "date": "2026-05-28",

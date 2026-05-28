@@ -77,7 +77,7 @@ Each Sunday review fills in this template, newest week at the top.
 | --- | --- | --- | --- |
 | Mon 05-25 | Upper + Core (gym) | Missed | Do not catch up; preserve the down week and give the knee a break |
 | Tue 05-26 | Easy Z2 — 7 km | Treadmill 1 km, then stopped | Knee still noticeable; correct conservative stop |
-| Wed 05-27 | Lower Body / Deadlift week (gym) | Pending | Keep conservative if the knee is still talking |
+| Wed 05-27 | Lower Body / Deadlift week (gym) | Skipped | Do not catch up; keep the priority on knee management |
 | Thu 05-28 | Threshold: 2×8 min @ 4:25–4:30 | Pending | Moved from Tuesday; reduced-volume down-week key session |
 | Fri 05-29 | Full Body + Stairmaster 30 min | Pending | |
 | Sat 05-30 | Long Run: Steady 24 km | Pending | Down-week long run |
@@ -92,6 +92,8 @@ Simon asked to switch today's threshold session with Thursday's Z2 run to give t
 Read: sensible down-week adjustment. Do not catch up Monday's gym. Keep Tuesday genuinely easy and use Thursday threshold only if the knee is quiet through warm-up; otherwise downgrade to easy aerobic work.
 
 Update after the treadmill attempt: Simon stopped after **1 km** because the knee was still noticeable, despite feeling he could have done more. This was the right decision. Treat today as an aborted/easy knee-check, not as failed training. Thursday threshold should now be considered provisional: only attempt it if the knee is quiet during normal walking and the warm-up; otherwise choose easy bike/rest.
+
+Update 2026-05-28: Wednesday's lower-body / deadlift-week gym session was also skipped. Do not catch it up before the Thursday threshold or Saturday down-week long run.
 
 ## Week of 2026-05-18 (Phase 1 — Week 3)
 
