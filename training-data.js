@@ -299,22 +299,22 @@ window.trainingData =
         {
           "date": "2026-05-30",
           "day": "Sat",
-          "type": "run",
-          "title": "Long Run: Steady 24 km",
-          "planned": "Saturday Long Run — Down week",
+          "type": "rest",
+          "title": "Rest Day",
+          "planned": "Swapped from Sunday to give the knee another day before the long run.",
           "actual": null,
           "status": null,
-          "notes": null
+          "notes": "Keep this as real rest/recovery. No catch-up gym or run volume."
         },
         {
           "date": "2026-05-31",
           "day": "Sun",
-          "type": "rest",
-          "title": "Rest Day",
-          "planned": "Recovery day\nSleep, foam roll, sauna if available",
+          "type": "run",
+          "title": "Long Run: Steady 24 km",
+          "planned": "Saturday Long Run — Down week\nMoved to Sunday after Friday Stairmaster and knee-management run aborts.",
           "actual": null,
           "status": null,
-          "notes": null
+          "notes": "Attempt only if the knee is quiet in normal walking and through the warm-up. Keep it easy/steady, no fast finish, and stop early if knee pain appears."
         }
       ]
     },
