@@ -79,7 +79,7 @@ Each Sunday review fills in this template, newest week at the top.
 | Tue 05-26 | Easy Z2 — 7 km | Treadmill 1 km, then stopped | Knee still noticeable; correct conservative stop |
 | Wed 05-27 | Lower Body / Deadlift week (gym) | Skipped | Do not catch up; keep the priority on knee management |
 | Thu 05-28 | Threshold: 2×8 min @ 4:25–4:30 | Stopped after ~1 km | Knee started to hurt a bit; sauna afterward; no catch-up intensity |
-| Fri 05-29 | Full Body + Stairmaster 30 min | Pending | |
+| Fri 05-29 | Full Body + Stairmaster 30 min | Stair-stepper 29:59 | HR 149/172; gym work not captured, Simon did Stairmaster only |
 | Sat 05-30 | Long Run: Steady 24 km | Pending | Down-week long run |
 | Sun 05-31 | Rest day | Pending | |
 
@@ -96,6 +96,8 @@ Update after the treadmill attempt: Simon stopped after **1 km** because the kne
 Update 2026-05-28: Wednesday's lower-body / deadlift-week gym session was also skipped. Do not catch it up before the Thursday threshold or Saturday down-week long run.
 
 Update after Thursday run attempt: Simon started the moved threshold session but stopped after about **1 km** because the knee started to hurt a bit, then went for sauna. Correct conservative decision. Treat this as another knee-management abort in the down week, not a failed workout. Do not catch up the threshold work; reassess knee response before Friday Stairmaster and Saturday's steady 24 km.
+
+Update 2026-05-29: Simon completed **Stair-stepper 29:59** on Strava (avg HR **149**, max **172**, **367 kcal**) and did Stairmaster only. This is a sensible knee-friendly substitution after the aborted run attempts: count the vertical stimulus as done, but do not treat it as a green light for catch-up running. Saturday's 24 km steady long run remains conditional on the knee being quiet in daily movement and during the warm-up.
 
 ## Week of 2026-05-18 (Phase 1 — Week 3)
 

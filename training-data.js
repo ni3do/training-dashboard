@@ -292,9 +292,9 @@ window.trainingData =
           "type": "gym",
           "title": "Full Body + Stairmaster",
           "planned": "Friday Gym C\nStairmaster 30 min",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Stair-stepper 29:59 · HR 149/172 · 367 kcal. Full gym work not captured; Simon did Stairmaster only.",
+          "status": "modified",
+          "notes": "Good knee-management choice after two aborted run attempts. The planned 30 min vertical stimulus was completed almost exactly, but HR rose into a moderately hard range late. Count this as the Friday vert support session, not as a reason to catch up missed running or lower-body gym. Saturday long run should be gated by knee response."
         },
         {
           "date": "2026-05-30",
