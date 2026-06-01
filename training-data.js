@@ -329,9 +329,9 @@ window.trainingData =
           "type": "gym",
           "title": "Upper Body + Core",
           "planned": "Monday Gym A",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Done.",
+          "status": "done",
+          "notes": "Upper-body/core gym session completed."
         },
         {
           "date": "2026-06-02",
