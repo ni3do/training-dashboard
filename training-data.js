@@ -339,9 +339,9 @@ window.trainingData =
           "type": "run",
           "title": "Threshold: 3×10min @ 4:20-4:25",
           "planned": "Tuesday Key Run — 13 km\n3×10min at threshold pace",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Threshold run aborted during first 10-min block after knee and hamstring became noticeable around 6 min. Switched to glute bridges and wall sits.",
+          "status": "modified",
+          "notes": "Correct conservative stop. Treat as a body-warning signal, not a failed session. Do not attempt further threshold reps today; reassess Wednesday/Thursday and consider reducing lower-body and/or Friday vert load if knee/hamstring remain noticeable."
         },
         {
           "date": "2026-06-03",

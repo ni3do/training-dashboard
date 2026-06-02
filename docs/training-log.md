@@ -69,6 +69,30 @@ Each Sunday review fills in this template, newest week at the top.
 
 <!-- Newest week goes directly below this line. -->
 
+## Week of 2026-06-01 (Phase 2 — Week 5)
+
+**Planned vs. actual**
+
+| Day | Planned | Actual | Notes |
+| --- | --- | --- | --- |
+| Mon 06-01 | Upper + Core (gym) | Done | Upper-body/core completed |
+| Tue 06-02 | Threshold: 3×10 min @ 4:20–4:25 | Aborted during first rep | Knee and hamstring noticeable around 6 min; switched to glute bridges and wall sits |
+| Wed 06-03 | Lower Body / Squat week | Pending | Reassess based on knee/hamstring; avoid heavy lower-body if still noticeable |
+| Thu 06-04 | Easy Z2 — 9 km | Pending | Only run if knee/hamstring are quiet in daily movement and warm-up |
+| Fri 06-05 | Treadhill intervals — 10 km | Pending | Provisional; downgrade if symptoms persist |
+| Sat 06-06 | Long Run: Steady 27 km | Pending | Keep conditional on quiet knee/hamstring |
+| Sun 06-07 | Rest day | Pending | Recovery day |
+
+**Mid-week notes (captured during the week)**
+
+### 2026-06-02 — Tuesday threshold abort / knee + hamstring signal
+
+Planned: **3×10 min threshold at 4:20–4:25/km** inside a ~13 km key run.
+
+Actual: Simon stopped during the first 10-minute block after the knee and hamstring became noticeable around **6 minutes**, then did **glute bridges and wall sits** instead.
+
+Read: this was the correct conservative decision. Count the session as **modified/aborted for tissue-management**, not as failed training. Do not retry the threshold reps today. The signal matters because Week 4 already contained repeated knee-management aborts and this is the first Build-week key run; protect the next 48–72 hours before deciding whether Friday treadhills or Saturday long-run volume should stay intact.
+
 ## Week of 2026-05-25 (Phase 1 — Week 4)
 
 **Planned vs. actual**
