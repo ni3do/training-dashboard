@@ -361,7 +361,7 @@ window.trainingData =
           "planned": "Thursday Easy Run",
           "actual": null,
           "status": null,
-          "notes": null
+          "notes": "Physio check: knee not swollen; small fluid below kneecap. Hamstring likely compensatory from knee pain. Return to slow easy running is okay if pain-free; roll hamstring/calf. Keep this genuinely easy and stop if knee or hamstring pain appears."
         },
         {
           "date": "2026-06-05",
@@ -371,7 +371,7 @@ window.trainingData =
           "planned": "Friday Vert Session\n6×3min at 12-15% gradient\n2 min jog at 3% recovery",
           "actual": null,
           "status": null,
-          "notes": null
+          "notes": "Provisional after physio. Prefer easy volume or reduced vert over hard intervals unless Thursday's return run is pain-free and symptoms stay quiet afterward."
         },
         {
           "date": "2026-06-06",
@@ -381,7 +381,7 @@ window.trainingData =
           "planned": "Saturday Long Run\nStart fueling practice: 200 cal/h",
           "actual": null,
           "status": null,
-          "notes": null
+          "notes": "Keep conditional. Goal is rebuilding pain-free volume, not proving fitness. Consider shortening/splitting if knee or hamstring reacts to the first return run."
         },
         {
           "date": "2026-06-07",

@@ -93,6 +93,14 @@ Actual: Simon stopped during the first 10-minute block after the knee and hamstr
 
 Read: this was the correct conservative decision. Count the session as **modified/aborted for tissue-management**, not as failed training. Do not retry the threshold reps today. The signal matters because Week 4 already contained repeated knee-management aborts and this is the first Build-week key run; protect the next 48–72 hours before deciding whether Friday treadhills or Saturday long-run volume should stay intact.
 
+### 2026-06-04 — Physio check: knee/hamstring return-to-run guidance
+
+Simon had a physio appointment for the knee and hamstring pain. Physio read: hamstring likely became irritated because it had to work more after knee pain; knee is **not swollen**, but there is a bit of fluid below the kneecap. Expected full healing window is about **28 days**, but training earlier is fine if there is **no pain**.
+
+Guidance captured: restart running at **slow/easy pace** to rebuild volume, stop if pain appears, and roll out hamstring and calf. Add more stability/prehab work: BOSU-ball squats, single-leg stands on BOSU, and more downhill-impact preparation such as box drops/jumps, possibly weighted later, plus dynamic lunges and BOSU variations.
+
+Read: this supports a cautious return-to-run rather than continued full rest. For Week 5, prioritize pain-free easy volume over threshold/vert heroics. Downhill-impact plyometrics should be reintroduced progressively after symptoms are quiet, not loaded aggressively while fluid/pain are still recent.
+
 ## Week of 2026-05-25 (Phase 1 — Week 4)
 
 **Planned vs. actual**
