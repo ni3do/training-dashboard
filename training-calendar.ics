@@ -341,8 +341,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
-SUMMARY:🏃 Stamina: 35min @ 4:42-4:50
-DESCRIPTION:Tuesday Key Run — 14 km\n35 min sustained stamina effort
+SUMMARY:🏃 Easy Z2 re-entry — 8-10 km + strides
+DESCRIPTION:Tuesday re-entry run — 8-10 km easy Z2\nOptional 4-6 x 20 sec relaxed strides only if knee is silent\nNo stamina block / no speedwork
 UID:72904214-dbe9-4269-86bd-14c59831d805
 DTSTAMP:20260503T082148Z
 TRANSP:TRANSPARENT
@@ -350,8 +350,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
-SUMMARY:🏋️ Lower Body (Squat week)
-DESCRIPTION:Wednesday Gym B
+SUMMARY:🏋️ Lower Body — prehab/stability
+DESCRIPTION:Controlled strength + prehab\nNo heavy squats/deadlifts or aggressive plyometrics
 UID:80327c49-6c9b-4e68-8874-a5933545ad69
 DTSTAMP:20260503T082148Z
 TRANSP:TRANSPARENT
@@ -368,8 +368,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
-SUMMARY:🏃 Never-ending Treadhill — 11 km
-DESCRIPTION:Friday Vert Session\nAlternate 8 min running at 5-6%\nwith 5 min power-hiking at 14-15%\n3-4 rounds. Most race-specific!
+SUMMARY:🏃 Easy incline / power-hike — 30-40 min
+DESCRIPTION:Friday vert re-entry\nIncline treadmill power-hike / easy jog\nModerate effort, no hard treadhill workout
 UID:3214436b-aab8-42a6-b3ee-3a3e98833091
 DTSTAMP:20260503T082148Z
 TRANSP:TRANSPARENT
@@ -377,8 +377,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
-SUMMARY:🏃 Long Run: Fast Finish 35 km
-DESCRIPTION:Saturday Long Run\nEasy 70%\, stamina pace last 30%
+SUMMARY:🏃 Long Run: Easy 24-28 km
+DESCRIPTION:Saturday Long Run\nEasy only, fueling practice\nNo fast finish; finish with more in reserve
 UID:271490f2-8a2e-4fc2-8b8d-0878cb079d48
 DTSTAMP:20260503T082148Z
 TRANSP:TRANSPARENT

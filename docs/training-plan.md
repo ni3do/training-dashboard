@@ -73,7 +73,7 @@
 | 4 | May 25–31 | Down | 9 | 7 | — | 24 | — | 40 | 3× |
 | 5 | Jun 1–7 | Build | 13 | 9 | 10 | 27 | — | 59 | 2× |
 | 6 | Jun 8–14 | Build | 13 | 9 | 11 | 32 | — | 65 | 2× |
-| 7 | Jun 15–21 | Build | 14 | 10 | 11 | 35 | — | 70 | 2× |
+| 7 | Jun 15–21 | Build re-entry | 8–10 | 10 | 30–40 min incline | 24–28 | — | ~42–48 | 2× modified |
 | 8 | Jun 22–28 | Down | 10 | 8 | 8 | 26 | — | 52 | 2× |
 | 9 | Jun 29–Jul 5 | Peak | 14 | 10 | 10 | 28 | 16 | 78 | 2× |
 | 10 | Jul 6–12 | Peak | 14 | 10 | 11 | 35 | — | 70 | 2× |
@@ -196,7 +196,7 @@ Easy effort on fatigued legs. Pace doesn't matter — time on feet does. Practic
 | 4 | Down | Z2 7km | Threshold: 2×8min @ 4:25–4:30 | — (gym) | Steady 24km | Rest |
 | 5 | Build | Threshold: 3×10min @ 4:20–4:25 | Z2 9km | Treadhill intervals 10km | Steady 27km | Rest |
 | 6 | Build | Progression: 5:30 → 4:25 | Z2 9km | Sustained climb 30min 11km | Progressive 32km | Rest |
-| 7 | Build | Stamina: 35min @ 4:42–4:50 | Z2 10km | Never-ending treadhill 11km | Fast finish 35km | Rest |
+| 7 | Build re-entry | Easy Z2 8–10km + optional relaxed strides | Z2 10km | Easy incline / power-hike 30–40min | Easy long 24–28km (fuel), no fast finish | Rest |
 | 8 | Down | Threshold: 2×8min @ 4:25–4:30 | Z2 8km | Easy incline 20min 8km | Steady 26km | Rest |
 | 9 | Peak | Threshold: 3×10min @ 4:20–4:25 | Z2 10km | Treadhill intervals 10km | B2B: Steady 28km (fuel 250cal/h) | B2B: Easy 16km (fuel) |
 | 10 | Peak | Stamina: 40min @ 4:42–4:50 | Z2 10km | Sustained climb 35min 11km | Single long 35km (fuel) | Rest |
@@ -221,3 +221,5 @@ Start fueling practice on Saturday long runs from Phase 2 (week 5). Target 200 c
 - **2026-05-19** — CV test completed: 3 min = 903 m at 3:19/km, 12 min = 2974 m at 4:02/km. Critical Velocity estimate = ~4:21/km; threshold HR estimate = ~178 bpm from minutes 4–12 of the 12-min effort. Updated threshold anchor to 4:20–4:25/km / HR 174–184 and stamina HR ceiling to 172. No volume or weekly structure changes applied.
 - **2026-05-20** — Wk 3 Wednesday lower-body squat session modified after Simon reported hamstring awareness. Recommendation: do the skipped Monday upper-body/core session instead; defer lower-body loading and gate Thu/Fri/Sat on hamstring quietness. Avoid squats, RDL/deadlift patterns, lunges, KB swings, and hard eccentric hamstring/calf loading until symptoms settle.
 - **2026-05-26** — Wk 4 down-week run order swapped for knee management: Tuesday becomes easy Z2 7 km and Thursday becomes the reduced-volume threshold session. Monday upper-body/core gym marked missed; do not catch it up during the down week.
+
+- **2026-06-15** — Wk 7 adjusted as knee re-entry after Wk 6 knee-rest/logistics week: Tuesday stamina run replaced with 8–10 km easy Z2 plus optional 4–6 × 20 sec relaxed strides only if knee is silent; Wednesday lower body changed to controlled prehab/stability with no heavy squats/deadlifts; Friday never-ending treadhill replaced by 30–40 min easy incline/power-hike; Saturday 35 km fast-finish downgraded to 24–28 km easy with fueling practice. Goal: meaningful load (~42–48 km plus vert stimulus) without provoking the knee before the long run.

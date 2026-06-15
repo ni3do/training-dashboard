@@ -491,51 +491,51 @@ window.trainingData =
           "date": "2026-06-16",
           "day": "Tue",
           "type": "run",
-          "title": "Stamina: 35min @ 4:42-4:50",
-          "planned": "Tuesday Key Run — 14 km\n35 min sustained stamina effort",
+          "title": "Easy Z2 re-entry — 8–10 km + optional strides",
+          "planned": "Tuesday re-entry run — 8–10 km easy Z2\nOptional only if knee is silent: 4–6 × 20 sec relaxed strides with full recovery\nNo stamina block / no speedwork",
           "actual": null,
           "status": null,
-          "notes": null
+          "notes": "Adjusted after knee-rest week: get training in without testing the knee on day 1. Keep conversational; stop if knee/hamstring pain appears or gait changes."
         },
         {
           "date": "2026-06-17",
           "day": "Wed",
           "type": "gym",
-          "title": "Lower Body (Squat week)",
-          "planned": "Wednesday Gym B",
+          "title": "Lower Body — controlled prehab / stability",
+          "planned": "Wednesday Gym B modified\nControlled strength + prehab: BOSU squats / single-leg stability / glute med / calf-hamstring mobility\nNo heavy squats/deadlifts or aggressive plyometrics",
           "actual": null,
           "status": null,
-          "notes": null
+          "notes": "Protect return-to-run. Keep lower body submaximal and stability-focused; avoid heavy axial loading or grinding reps."
         },
         {
           "date": "2026-06-18",
           "day": "Thu",
           "type": "run",
           "title": "Easy Z2 — 10 km",
-          "planned": "Thursday Easy Run",
+          "planned": "Thursday Easy Run\n10 km easy Z2, conversational, flat if possible",
           "actual": null,
           "status": null,
-          "notes": null
+          "notes": "Proceed only if Tuesday and Wednesday leave the knee quiet. Keep this as aerobic volume, not intensity."
         },
         {
           "date": "2026-06-19",
           "day": "Fri",
           "type": "run",
-          "title": "Never-ending Treadhill — 11 km",
-          "planned": "Friday Vert Session\nAlternate 8 min running at 5-6%\nwith 5 min power-hiking at 14-15%\n3-4 rounds. Most race-specific!",
+          "title": "Easy incline / power-hike — 30–40 min",
+          "planned": "Friday vert re-entry\n30–40 min incline treadmill power-hike / easy jog, moderate effort\nNo hard never-ending treadhill workout",
           "actual": null,
           "status": null,
-          "notes": null
+          "notes": "Keep vertical stimulus but remove intensity. If knee reacts to Tue/Thu, replace with easy bike/Stairmaster or rest."
         },
         {
           "date": "2026-06-20",
           "day": "Sat",
           "type": "run",
-          "title": "Long Run: Fast Finish 35 km",
-          "planned": "Saturday Long Run\nEasy 70%, stamina pace last 30%",
+          "title": "Long Run: Easy 24–28 km",
+          "planned": "Saturday Long Run\n24–28 km easy, fueling practice\nNo fast finish; finish feeling like more was available",
           "actual": null,
           "status": null,
-          "notes": null
+          "notes": "Downgraded from 35 km fast-finish after knee-rest week. This is still the key endurance session; protect it by keeping Tue/Fri controlled."
         },
         {
           "date": "2026-06-21",

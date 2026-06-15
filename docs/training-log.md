@@ -76,11 +76,11 @@ Each Sunday review fills in this template, newest week at the top.
 | Day | Planned | Actual | Notes |
 | --- | --- | --- | --- |
 | Mon 06-15 | Upper + Core (gym) | Done | First session back after intentional low-load week |
-| Tue 06-16 | Stamina: 35 min @ 4:42–4:50 | Pending | Only run if knee is quiet; no catch-up volume |
-| Wed 06-17 | Lower Body / Squat week | Pending | Keep conservative if knee/hamstring signal persists |
-| Thu 06-18 | Easy Z2 — 10 km | Pending | Easy only |
-| Fri 06-19 | Never-ending Treadhill — 11 km | Pending | Conditional on pain-free run return |
-| Sat 06-20 | Long Run: Fast Finish 35 km | Pending | Reassess; likely downgrade if knee not clearly settled |
+| Tue 06-16 | Easy Z2 re-entry — 8–10 km + optional 4–6×20 sec relaxed strides | Pending | No stamina block/speedwork; strides only if knee is silent |
+| Wed 06-17 | Lower Body — controlled prehab/stability | Pending | No heavy squats/deadlifts; keep submaximal and knee-friendly |
+| Thu 06-18 | Easy Z2 — 10 km | Pending | Proceed if Tuesday/Wednesday leave knee quiet |
+| Fri 06-19 | Easy incline / power-hike — 30–40 min | Pending | Moderate vert stimulus; no hard treadhill workout |
+| Sat 06-20 | Long Run: Easy 24–28 km | Pending | Fueling practice; no fast finish; finish with more in reserve |
 | Sun 06-21 | Rest day | Pending | Recovery day |
 
 **Mid-week notes (captured during the week)**
@@ -89,7 +89,16 @@ Each Sunday review fills in this template, newest week at the top.
 
 Simon completed today's **Upper + Core gym** session. Last week was intentionally very light: only Monday's gym session was completed, with the remaining sessions skipped to rest the knee and because Steffi and Tobi were visiting.
 
-Read: this was a sensible reset, not a failure. Do **not** catch up Week 6 volume. Resume Week 7 conservatively: Tuesday's stamina run should only happen if the knee is quiet in daily movement and warm-up; otherwise downgrade to easy bike/rest or a short pain-free jog.
+Read: this was a sensible reset, not a failure. Do **not** catch up Week 6 volume. Resume Week 7 with training load, but remove early-week intensity and protect Saturday's endurance option.
+
+### 2026-06-15 — Week 7 re-entry adjustment applied
+
+Simon wants to restart training and still get meaningful load in, but agreed to remove Tuesday speedwork. Applied a one-week re-entry adjustment rather than resuming Week 7 exactly as written.
+
+Updated plan for Week 7: Tuesday becomes **8–10 km easy Z2** with optional **4–6 × 20 sec relaxed strides** only if the knee is silent; Wednesday lower body becomes controlled prehab/stability rather than heavy squat work; Friday becomes **30–40 min easy incline / power-hike** instead of hard never-ending treadhills; Saturday becomes **24–28 km easy long run** with fueling practice and **no fast finish**.
+
+Read: this is not a rest week. It preserves roughly 42–48 km plus vert stimulus while reducing the chance that the knee gets provoked before the Saturday endurance session.
+
 
 ## Week of 2026-06-08 (Phase 2 — Week 6)
 
