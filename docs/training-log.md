@@ -69,6 +69,50 @@ Each Sunday review fills in this template, newest week at the top.
 
 <!-- Newest week goes directly below this line. -->
 
+## Week of 2026-06-15 (Phase 2 — Week 7)
+
+**Planned vs. actual**
+
+| Day | Planned | Actual | Notes |
+| --- | --- | --- | --- |
+| Mon 06-15 | Upper + Core (gym) | Done | First session back after intentional low-load week |
+| Tue 06-16 | Stamina: 35 min @ 4:42–4:50 | Pending | Only run if knee is quiet; no catch-up volume |
+| Wed 06-17 | Lower Body / Squat week | Pending | Keep conservative if knee/hamstring signal persists |
+| Thu 06-18 | Easy Z2 — 10 km | Pending | Easy only |
+| Fri 06-19 | Never-ending Treadhill — 11 km | Pending | Conditional on pain-free run return |
+| Sat 06-20 | Long Run: Fast Finish 35 km | Pending | Reassess; likely downgrade if knee not clearly settled |
+| Sun 06-21 | Rest day | Pending | Recovery day |
+
+**Mid-week notes (captured during the week)**
+
+### 2026-06-15 — Monday gym completed / restart after knee-rest week
+
+Simon completed today's **Upper + Core gym** session. Last week was intentionally very light: only Monday's gym session was completed, with the remaining sessions skipped to rest the knee and because Steffi and Tobi were visiting.
+
+Read: this was a sensible reset, not a failure. Do **not** catch up Week 6 volume. Resume Week 7 conservatively: Tuesday's stamina run should only happen if the knee is quiet in daily movement and warm-up; otherwise downgrade to easy bike/rest or a short pain-free jog.
+
+## Week of 2026-06-08 (Phase 2 — Week 6)
+
+**Planned vs. actual**
+
+| Day | Planned | Actual | Notes |
+| --- | --- | --- | --- |
+| Mon 06-08 | Upper + Core (gym) | Done | Only completed session of the week |
+| Tue 06-09 | Progression: 5:30 → 4:25 | Skipped | Intentional knee-rest week; Steffi and Tobi visiting |
+| Wed 06-10 | Lower Body / SL RDL week | Skipped | Intentional skip; do not catch up |
+| Thu 06-11 | Easy Z2 — 9 km | Skipped | Knee rest and guest logistics |
+| Fri 06-12 | Sustained Climb 30 min — 11 km | Skipped | Knee rest and guest logistics |
+| Sat 06-13 | Long Run: Progressive 32 km | Skipped | Knee rest and guest logistics |
+| Sun 06-14 | Rest day | Rest day | Low-load week completed |
+
+**Mid-week notes (captured during the week)**
+
+### 2026-06-15 — Week 6 recap entered retroactively
+
+Simon skipped everything last week except Monday's gym session. Reason: deliberate rest for the knee plus Steffi and Tobi visiting.
+
+Read: given the recent knee/hamstring pattern, this should be treated as an intentional recovery/reset week. Do not chase the missed progression, climb, or 32 km long run. The priority is a pain-free return-to-run and rebuilding continuity.
+
 ## Week of 2026-06-01 (Phase 2 — Week 5)
 
 **Planned vs. actual**

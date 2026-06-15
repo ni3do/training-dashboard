@@ -406,9 +406,9 @@ window.trainingData =
           "type": "gym",
           "title": "Upper Body + Core",
           "planned": "Monday Gym A",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Done — Monday upper-body/core gym session completed.",
+          "status": "done",
+          "notes": "Only completed session of the week. Simon intentionally skipped the rest of the week to rest the knee and because Steffi and Tobi were visiting."
         },
         {
           "date": "2026-06-09",
@@ -416,9 +416,9 @@ window.trainingData =
           "type": "run",
           "title": "Progression: 5:30 → 4:25",
           "planned": "Tuesday Key Run — 13 km\nStart easy, drop pace every 10 min\nFinish last 10-15 min at threshold",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Skipped.",
+          "status": "skipped",
+          "notes": "Intentional skip: knee rest plus Steffi and Tobi visiting. Do not catch up; resume conservatively."
         },
         {
           "date": "2026-06-10",
@@ -426,9 +426,9 @@ window.trainingData =
           "type": "gym",
           "title": "Lower Body (SL RDL week)",
           "planned": "Wednesday Gym B\nSingle-Leg RDL 2×6-8",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Skipped.",
+          "status": "skipped",
+          "notes": "Intentional skip: knee rest plus Steffi and Tobi visiting. Do not catch up; resume conservatively."
         },
         {
           "date": "2026-06-11",
@@ -436,9 +436,9 @@ window.trainingData =
           "type": "run",
           "title": "Easy Z2 — 9 km",
           "planned": "Thursday Easy Run",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Skipped.",
+          "status": "skipped",
+          "notes": "Intentional skip: knee rest plus Steffi and Tobi visiting. Do not catch up; resume conservatively."
         },
         {
           "date": "2026-06-12",
@@ -446,9 +446,9 @@ window.trainingData =
           "type": "run",
           "title": "Sustained Climb 30min — 11 km",
           "planned": "Friday Vert Session\n25-35 min continuous at 8-12% gradient",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Skipped.",
+          "status": "skipped",
+          "notes": "Intentional skip: knee rest plus Steffi and Tobi visiting. Do not catch up; resume conservatively."
         },
         {
           "date": "2026-06-13",
@@ -456,9 +456,9 @@ window.trainingData =
           "type": "run",
           "title": "Long Run: Progressive 32 km",
           "planned": "Saturday Long Run\nStart 5:50 → finish 5:00/km\nPractice fueling",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Skipped.",
+          "status": "skipped",
+          "notes": "Intentional skip: knee rest plus Steffi and Tobi visiting. Do not catch up; resume conservatively."
         },
         {
           "date": "2026-06-14",
@@ -466,9 +466,9 @@ window.trainingData =
           "type": "rest",
           "title": "Rest Day",
           "planned": "Recovery day\nSleep, foam roll, sauna if available",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Rest day.",
+          "status": "done",
+          "notes": "Part of intentional low-load week for knee recovery and guest logistics."
         }
       ]
     },
@@ -483,9 +483,9 @@ window.trainingData =
           "type": "gym",
           "title": "Upper Body + Core",
           "planned": "Monday Gym A",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Done — Monday upper-body/core gym session completed.",
+          "status": "done",
+          "notes": "First session back after intentional low-load week. Keep Tuesday run conditional on knee being quiet; no catch-up volume from Week 6."
         },
         {
           "date": "2026-06-16",
