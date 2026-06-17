@@ -493,9 +493,9 @@ window.trainingData =
           "type": "run",
           "title": "Easy Z2 re-entry — 8–10 km + optional strides",
           "planned": "Tuesday re-entry run — 8–10 km easy Z2\nOptional only if knee is silent: 4–6 × 20 sec relaxed strides with full recovery\nNo stamina block / no speedwork",
-          "actual": null,
-          "status": null,
-          "notes": "Adjusted after knee-rest week: get training in without testing the knee on day 1. Keep conversational; stop if knee/hamstring pain appears or gait changes."
+          "actual": "Run 9.23 km · 52:08 moving / 1:01:57 elapsed · 5:39/km · HR 154/165 · 5 m elev · 242 W avg · HOKA Clifton 10.",
+          "status": "done",
+          "notes": "Completed the re-entry run inside the planned 8–10 km range. Effort landed at the upper edge of easy/Z2 by HR, but no speedwork/stamina block was recorded. Good restart; keep Wednesday lower-body controlled and knee-friendly."
         },
         {
           "date": "2026-06-17",

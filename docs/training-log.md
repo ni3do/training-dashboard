@@ -76,7 +76,7 @@ Each Sunday review fills in this template, newest week at the top.
 | Day | Planned | Actual | Notes |
 | --- | --- | --- | --- |
 | Mon 06-15 | Upper + Core (gym) | Done | First session back after intentional low-load week |
-| Tue 06-16 | Easy Z2 re-entry — 8–10 km + optional 4–6×20 sec relaxed strides | Pending | No stamina block/speedwork; strides only if knee is silent |
+| Tue 06-16 | Easy Z2 re-entry — 8–10 km + optional 4–6×20 sec relaxed strides | Done: 9.23 km · 52:08 · 5:39/km · HR 154/165 | Completed inside planned range; upper edge of easy/Z2; no speedwork recorded |
 | Wed 06-17 | Lower Body — controlled prehab/stability | Pending | No heavy squats/deadlifts; keep submaximal and knee-friendly |
 | Thu 06-18 | Easy Z2 — 10 km | Pending | Proceed if Tuesday/Wednesday leave knee quiet |
 | Fri 06-19 | Easy incline / power-hike — 30–40 min | Pending | Moderate vert stimulus; no hard treadhill workout |
@@ -84,6 +84,12 @@ Each Sunday review fills in this template, newest week at the top.
 | Sun 06-21 | Rest day | Pending | Recovery day |
 
 **Mid-week notes (captured during the week)**
+
+### 2026-06-17 — Tuesday re-entry run completed
+
+Strava: **Afternoon Run**, **9.23 km** in **52:08 moving** / **1:01:57 elapsed**, **5:39/km**, **5 m elevation**, **HR 154 avg / 165 max**, **242 W avg**, HOKA Clifton 10.
+
+Read: this lands neatly in the adjusted **8–10 km re-entry** target. HR was just above the formal easy cap on average, so call it upper-easy / steady aerobic rather than pure low Z2, but importantly there was **no stamina block or speedwork**. Good restart. Today’s lower-body session should stay controlled/prehab-focused so Thursday and Saturday remain protected.
 
 ### 2026-06-15 — Monday gym completed / restart after knee-rest week
 
