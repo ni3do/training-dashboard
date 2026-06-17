@@ -77,13 +77,19 @@ Each Sunday review fills in this template, newest week at the top.
 | --- | --- | --- | --- |
 | Mon 06-15 | Upper + Core (gym) | Done | First session back after intentional low-load week |
 | Tue 06-16 | Easy Z2 re-entry — 8–10 km + optional 4–6×20 sec relaxed strides | Done: 9.23 km · 52:08 · 5:39/km · HR 154/165 | Completed inside planned range; upper edge of easy/Z2; no speedwork recorded |
-| Wed 06-17 | Lower Body — controlled prehab/stability | Pending | No heavy squats/deadlifts; keep submaximal and knee-friendly |
+| Wed 06-17 | Lower Body — controlled prehab/stability | Done | BOSU squats 12 kg, single-leg control, hip thrusts, calf raises, hamstring/calf rolling |
 | Thu 06-18 | Easy Z2 — 10 km | Pending | Proceed if Tuesday/Wednesday leave knee quiet |
 | Fri 06-19 | Easy incline / power-hike — 30–40 min | Pending | Moderate vert stimulus; no hard treadhill workout |
 | Sat 06-20 | Long Run: Easy 24–28 km | Pending | Fueling practice; no fast finish; finish with more in reserve |
 | Sun 06-21 | Rest day | Pending | Recovery day |
 
 **Mid-week notes (captured during the week)**
+
+### 2026-06-17 — Controlled lower-body/prehab completed
+
+Simon completed the adjusted lower-body session: **BOSU squats with 12 kg**, **single-leg control 3 reps each side**, **hip thrusts 2 sets**, **calf raises 2 sets**, plus **hamstring and calf rolling**.
+
+Read: good execution for the re-entry week. This gives knee/stability, glute, calf, and tissue-care stimulus without turning today into a heavy leg day. If the knee stays quiet tonight and tomorrow morning, Thursday’s **10 km easy Z2** remains appropriate.
 
 ### 2026-06-17 — Tuesday re-entry run completed
 

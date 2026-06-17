@@ -503,9 +503,9 @@ window.trainingData =
           "type": "gym",
           "title": "Lower Body — controlled prehab / stability",
           "planned": "Wednesday Gym B modified\nControlled strength + prehab: BOSU squats / single-leg stability / glute med / calf-hamstring mobility\nNo heavy squats/deadlifts or aggressive plyometrics",
-          "actual": null,
-          "status": null,
-          "notes": "Protect return-to-run. Keep lower body submaximal and stability-focused; avoid heavy axial loading or grinding reps."
+          "actual": "Done — BOSU squats with 12 kg; single-leg control 3 reps each side; hip thrusts 2 sets; calf raises 2 sets; hamstring and calf rolling.",
+          "status": "done",
+          "notes": "Completed the planned controlled lower-body/prehab session. Kept it knee-friendly with stability, glute, calf, and mobility work; no heavy squat/deadlift loading recorded. Good setup for Thursday easy run if knee stays quiet."
         },
         {
           "date": "2026-06-18",
