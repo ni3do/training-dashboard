@@ -513,9 +513,9 @@ window.trainingData =
           "type": "run",
           "title": "Easy Z2 — 10 km",
           "planned": "Thursday Easy Run\n10 km easy Z2, conversational, flat if possible",
-          "actual": null,
-          "status": null,
-          "notes": "Proceed only if Tuesday and Wednesday leave the knee quiet. Keep this as aerobic volume, not intensity."
+          "actual": "Moved to Fri 06-19; not missed.",
+          "status": "modified",
+          "notes": "Thursday easy Z2 run shifted one day later. Treat as schedule compression, not catch-up volume."
         },
         {
           "date": "2026-06-19",
@@ -523,9 +523,9 @@ window.trainingData =
           "type": "run",
           "title": "Easy incline / power-hike — 30–40 min",
           "planned": "Friday vert re-entry\n30–40 min incline treadmill power-hike / easy jog, moderate effort\nNo hard never-ending treadhill workout",
-          "actual": null,
-          "status": null,
-          "notes": "Keep vertical stimulus but remove intensity. If knee reacts to Tue/Thu, replace with easy bike/Stairmaster or rest."
+          "actual": "Run 9.48 km · 53:15 moving / 55:13 elapsed · 5:37/km · HR 156/168 · 7 m elev · 238 W avg · HOKA Clifton 10.",
+          "status": "modified",
+          "notes": "Completed the moved Thursday easy run this morning and skipped the planned incline treadmill. Sensible load management: aerobic volume banked, extra treadmill stress removed before Saturday long run."
         },
         {
           "date": "2026-06-20",

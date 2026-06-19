@@ -78,12 +78,18 @@ Each Sunday review fills in this template, newest week at the top.
 | Mon 06-15 | Upper + Core (gym) | Done | First session back after intentional low-load week |
 | Tue 06-16 | Easy Z2 re-entry — 8–10 km + optional 4–6×20 sec relaxed strides | Done: 9.23 km · 52:08 · 5:39/km · HR 154/165 | Completed inside planned range; upper edge of easy/Z2; no speedwork recorded |
 | Wed 06-17 | Lower Body — controlled prehab/stability | Done | BOSU squats 12 kg, single-leg control, hip thrusts, calf raises, hamstring/calf rolling |
-| Thu 06-18 | Easy Z2 — 10 km | Pending | Proceed if Tuesday/Wednesday leave knee quiet |
-| Fri 06-19 | Easy incline / power-hike — 30–40 min | Pending | Moderate vert stimulus; no hard treadhill workout |
+| Thu 06-18 | Easy Z2 — 10 km | Moved to Fri 06-19 | Schedule shift, not a missed run |
+| Fri 06-19 | Easy incline / power-hike — 30–40 min | Modified: moved easy run completed — 9.48 km · 53:15 · 5:37/km · HR 156/168 | Skipped treadmill; sensible load management before Saturday |
 | Sat 06-20 | Long Run: Easy 24–28 km | Pending | Fueling practice; no fast finish; finish with more in reserve |
 | Sun 06-21 | Rest day | Pending | Recovery day |
 
 **Mid-week notes (captured during the week)**
+
+### 2026-06-19 — Moved Thursday easy run completed; treadmill skipped
+
+Strava: **Morning Run**, **9.48 km** in **53:15 moving** / **55:13 elapsed**, **5:37/km**, **7 m elevation**, **HR 156 avg / 168 max**, **238 W avg**, HOKA Clifton 10.
+
+Read: this effectively completes Thursday's **10 km easy Z2** one day late. It was a little above pure easy by HR, with the second half drifting from **152.5 bpm** avg to **160.3 bpm** avg, so skipping today's incline treadmill is the right call. Aerobic volume is banked; do not stack extra treadmill stress before Saturday's long run.
 
 ### 2026-06-17 — Controlled lower-body/prehab completed
 
