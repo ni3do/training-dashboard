@@ -69,6 +69,40 @@ Each Sunday review fills in this template, newest week at the top.
 
 <!-- Newest week goes directly below this line. -->
 
+## Week of 2026-06-22 (Phase 2 — Week 8)
+
+**Planned vs. actual**
+
+| Day | Planned | Actual | Notes |
+| --- | --- | --- | --- |
+| Mon 06-22 | Upper Body + Core (gym) | Skipped | Down week logistics miss; no catch-up needed |
+| Tue 06-23 | Threshold: 2×8min @ 4:25–4:30 | Done, split by firedrill pause | Strava shows two runs: Pre Firedrill 3.84 km and Post Firedrill 3.23 km; key session still completed |
+| Wed 06-24 | Lower Body (SL RDL week) | Done | Similar gym session to last week |
+| Thu 06-25 | Easy Z2 — 8 km | Done: 6.92 km · 41:37 · 6:01/km · HR 138/150 | Clean Z2 run; no knee issue flagged |
+| Fri 06-26 | Easy Incline 20 min — 8 km | Done: 3.50 km · 27:24 · 7:49/km · HR 142/157 | Treadmill incline ~7–7.5% at ~7 km/h, plus 1 km after ~20 min; no pain/issues reported |
+| Sat 06-27 | Long Run: Steady 26 km | Pending | Down week long run |
+| Sun 06-28 | Rest day | Pending | Recovery day |
+
+**Mid-week notes (captured during the week)**
+
+### 2026-06-26 — Friday incline treadmill completed
+
+Strava: **Morning Run**, **3.50 km** in **27:24**, **7:49/km**, **HR 142 avg / 157 max**, HOKA Clifton 10. Treadmill incline was reported at **~7–7.5%** around **7 km/h**, with **1 km added after ~20 minutes**. Strava recorded treadmill elevation as **0 m**, so vertical load is from the session report rather than GPS elevation.
+
+Read: controlled uphill aerobic stimulus, no pain or issues reported. Resume the full training structure, but avoid stacking aggressive downhill/speed stress immediately after the first green session back.
+
+### 2026-06-25 — Thursday easy Z2 completed
+
+Strava: **Morning Run**, **6.92 km** in **41:37 moving** / **44:24 elapsed**, **6:01/km**, **11 m elevation**, **HR 138 avg / 150 max**, **227.6 W avg**, HOKA Clifton 10.
+
+Read: clean easy aerobic work and the knee stayed quiet.
+
+### 2026-06-23 — Tuesday key run completed despite firedrill interruption
+
+Strava shows the run split into two pieces because of the interruption: **Pre Firedrill** (**3.84 km** in **20:36**, **5:22/km**, **HR 141 avg / 168 max**) and **Post Firedrill** (**3.23 km** in **16:27**, **5:05/km**, **HR 149 avg / 164 max**).
+
+Read: treat this as a completed key run with an external pause, not a missed workout.
+
 ## Week of 2026-06-15 (Phase 2 — Week 7)
 
 **Planned vs. actual**

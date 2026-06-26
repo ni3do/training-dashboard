@@ -560,9 +560,9 @@ window.trainingData =
           "type": "gym",
           "title": "Upper Body + Core",
           "planned": "Monday Gym A — Down week",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Skipped.",
+          "status": "skipped",
+          "notes": "Logistics / missed session. No catch-up needed in a down week."
         },
         {
           "date": "2026-06-23",
@@ -570,9 +570,9 @@ window.trainingData =
           "type": "run",
           "title": "Threshold: 2×8min @ 4:25-4:30",
           "planned": "Tuesday Key Run — 10 km\nDown week",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Morning Run (split by a firedrill pause) — Strava shows 2 runs: Pre Firedrill 3.84 km · 20:36 · 5:22/km · HR 141 avg / 168 max; Post Firedrill 3.23 km · 16:27 · 5:05/km · HR 149 avg / 164 max.",
+          "status": "done",
+          "notes": "Key run completed despite the interruption. Treat the pause as an external interruption, not a failed workout."
         },
         {
           "date": "2026-06-24",
@@ -580,9 +580,9 @@ window.trainingData =
           "type": "gym",
           "title": "Lower Body (SL RDL week)",
           "planned": "Wednesday Gym B — Down week",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Done — similar gym session to last week.",
+          "status": "done",
+          "notes": "Kept the week moving without adding extra load."
         },
         {
           "date": "2026-06-25",
@@ -590,9 +590,9 @@ window.trainingData =
           "type": "run",
           "title": "Easy Z2 — 8 km",
           "planned": "Thursday Easy Run — Down week",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Morning Run — 6.92 km · 41:37 moving / 44:24 elapsed · 6:01/km · 11 m elev · HR 138 avg / 150 max · 227.6 W avg · HOKA Clifton 10.",
+          "status": "done",
+          "notes": "Clean Z2 run. Good easy aerobic work, no knee issue flagged."
         },
         {
           "date": "2026-06-26",
@@ -600,9 +600,9 @@ window.trainingData =
           "type": "run",
           "title": "Easy Incline 20min — 8 km",
           "planned": "Friday Easy Vert\nGentle incline treadmill",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Morning Run — 3.50 km · 27:24 · 7:49/km · HR 142 avg / 157 max · treadmill incline ~7–7.5% at ~7 km/h, plus 1 km after ~20 min · HOKA Clifton 10.",
+          "status": "done",
+          "notes": "Controlled incline aerobic session. No pain or issues reported; clear enough to resume full training structure with sensible ramp guardrails. Strava treadmill elevation recorded as 0 m."
         },
         {
           "date": "2026-06-27",
