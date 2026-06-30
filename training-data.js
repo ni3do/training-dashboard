@@ -647,9 +647,9 @@ window.trainingData =
           "type": "run",
           "title": "Threshold: 3×10min @ 4:20-4:25",
           "planned": "Tuesday Key Run — 14 km",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Morning Run — 12.17 km · 1:05:52 moving · 5:25/km overall · HR 156/183 · 267 W avg · HOKA Clifton 10",
+          "status": "done",
+          "notes": "Key threshold block completed despite total distance landing ~1.8 km short of nominal 14 km. Laps: 10:00 @ ~4:26/km, HR 163 avg / 177 max / 310 W; 10:00 @ ~4:22/km, HR 173 avg / 183 max / 313 W; 10:00 @ ~4:18/km, HR 175 avg / 182 max / 316 W, with 3:00 recoveries. Good progression; do not chase the missing distance during first peak/B2B week."
         },
         {
           "date": "2026-07-01",

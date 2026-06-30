@@ -69,6 +69,30 @@ Each Sunday review fills in this template, newest week at the top.
 
 <!-- Newest week goes directly below this line. -->
 
+## Week of 2026-06-29 (Phase 3 — Week 9)
+
+**Planned vs. actual**
+
+| Day | Planned | Actual | Notes |
+| --- | --- | --- | --- |
+| Mon 06-29 | Upper Body + Core (gym) | Pending | Peak phase starts; not logged yet |
+| Tue 06-30 | Threshold: 3×10min @ 4:20–4:25 — 14 km | Done: 12.17 km · 1:05:52 · 5:25/km overall · HR 156/183 | Key work completed: 3×10 min at ~4:26, 4:22, 4:18/km with 3 min recoveries; total distance short of 14 km but quality block landed |
+| Wed 07-01 | Lower Body (Squat week) | Pending | Keep controlled; protect Thu/Fri/Sat/Sun run stack |
+| Thu 07-02 | Easy Z2 — 10 km | Pending | |
+| Fri 07-03 | Treadhill intervals — 10 km | Pending | 6×3 min at 14–15% gradient |
+| Sat 07-04 | B2B #1: Steady 28 km | Pending | Fuel at 250 cal/h |
+| Sun 07-05 | B2B #2: Easy 16 km | Pending | Easy fatigued-legs run |
+
+**Mid-week notes (captured during the week)**
+
+### 2026-06-30 — Tuesday threshold completed
+
+Strava: **Morning Run**, **12.17 km** in **1:05:52 moving** / **1:10:01 elapsed**, **5:25/km overall**, **6 m elevation**, **HR 156 avg / 183 max**, **267 W avg**, HOKA Clifton 10.
+
+Lap structure shows the planned quality block was effectively completed: **10:00 @ ~4:26/km, HR 163 avg / 177 max / 310 W**, **10:00 @ ~4:22/km, HR 173 avg / 183 max / 313 W**, **10:00 @ ~4:18/km, HR 175 avg / 182 max / 316 W**, with **3:00 jog/walk recoveries** between reps. Warm-up was **2.91 km** and cool-down **1.87 km**.
+
+Read: good threshold execution and a clear progression across reps. HR climbed hard by reps 2–3, so this was a real quality session, not just aerobic cruising. Treat as **key session done** even though total distance landed **~1.8 km short** of the nominal 14 km. Because Week 9 is the first peak / B2B week, do not chase the missing distance; protect the next four-run stack.
+
 ## Week of 2026-06-22 (Phase 2 — Week 8)
 
 **Planned vs. actual**
