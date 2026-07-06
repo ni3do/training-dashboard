@@ -667,9 +667,9 @@ window.trainingData =
           "type": "run",
           "title": "Easy Z2 — 10 km",
           "planned": "Thursday Easy Run",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Morning Run — 9.02 km · 53:56 moving / 57:24 elapsed · 5:59/km · 23 m elev · HR 145/157 · 228 W avg · HOKA Clifton 10",
+          "status": "done",
+          "notes": "Easy Z2 run landed slightly short of nominal 10 km but cleanly in easy range by HR. No catch-up needed; preserves the first peak/B2B week stack."
         },
         {
           "date": "2026-07-03",
@@ -677,9 +677,9 @@ window.trainingData =
           "type": "run",
           "title": "Treadhill Intervals — 10 km",
           "planned": "Friday Vert Session\n6×3min at 14-15% gradient",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Morning Run — 6.51 km · 47:52 moving / 47:52 elapsed · 7:21/km · 0 m elev · HR 151/177 · HOKA Clifton 10",
+          "status": "modified",
+          "notes": "Treadmill vert session completed as a shorter treadmill run/incline stimulus rather than full 10 km treadhill intervals. HR rose high late (max 177), so count useful vert/aerobic load and do not chase missing distance before the B2B weekend."
         },
         {
           "date": "2026-07-04",
@@ -687,9 +687,9 @@ window.trainingData =
           "type": "run",
           "title": "B2B #1: Steady 28 km",
           "planned": "Saturday Long Run\nFuel at 250 cal/h — practice race nutrition",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Morning Run — 28.08 km · 2:57:22 moving / 3:21:11 elapsed · 6:19/km · 51 m elev · HR 157/170 · 217 W avg · HOKA Clifton 10",
+          "status": "done",
+          "notes": "B2B long run #1 completed essentially on target distance with major endurance load. Pace was easy/steady overall; relative effort high, so fueling/recovery mattered more than extra intensity."
         },
         {
           "date": "2026-07-05",
@@ -697,9 +697,9 @@ window.trainingData =
           "type": "run",
           "title": "B2B #2: Easy 16 km",
           "planned": "Sunday Long Run on fatigued legs\nEasy effort, pace doesn't matter\nPractice eating/drinking at race frequency",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Morning Run — 16.38 km · 1:38:47 moving / 1:41:15 elapsed · 6:02/km · 21 m elev · HR 142/155 · 224 W avg · HOKA Clifton 10",
+          "status": "done",
+          "notes": "B2B long run #2 completed on target on fatigued legs. Easy HR and full 16 km stimulus landed; strong completion of first peak back-to-back weekend."
         }
       ]
     },
