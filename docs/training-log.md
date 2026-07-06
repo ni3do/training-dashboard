@@ -69,22 +69,44 @@ Each Sunday review fills in this template, newest week at the top.
 
 <!-- Newest week goes directly below this line. -->
 
+## Week of 2026-07-06 (Phase 3 — Week 10)
+
+**Planned vs. actual**
+
+| Day | Planned | Actual | Notes |
+| --- | --- | --- | --- |
+| Mon 07-06 | Upper Body + Core (gym) | Skipped — intentional rest | Simon confirmed rest day after Week 9 B2B weekend; treat as load management before Tuesday stamina, not a missed session |
+| Tue 07-07 | Stamina: 40min @ 4:42–4:50 — 14 km | Pending | Longest stamina effort in the plan |
+| Wed 07-08 | Lower Body (SL RDL week) | Pending | |
+| Thu 07-09 | Easy Z2 — 10 km | Pending | |
+| Fri 07-10 | Sustained Climb 35min — 11 km | Pending | 35 min continuous at 8–12% gradient |
+| Sat 07-11 | Long Run: Easy 24 km | Pending | Recovery long run |
+| Sun 07-12 | Rest day | Pending | Recovery day |
+
+**Mid-week notes (captured during the week)**
+
+### 2026-07-06 — Monday rest after B2B weekend
+
+Simon confirmed Monday upper/core was skipped intentionally as a rest day after the first Peak/B2B weekend.
+
+Read: sensible load management. This is not a missed session to catch up; preserve freshness for Tuesday’s 40-minute stamina run.
+
 ## Week of 2026-06-29 (Phase 3 — Week 9)
 
 **Planned vs. actual**
 
 | Day | Planned | Actual | Notes |
 | --- | --- | --- | --- |
-| Mon 06-29 | Upper Body + Core (gym) | Pending | Not in Strava; leave unconfirmed until Simon logs it |
+| Mon 06-29 | Upper Body + Core (gym) | Skipped — intentional rest | Simon confirmed rest day after weekend load; no catch-up needed |
 | Tue 06-30 | Threshold: 3×10min @ 4:20–4:25 — 14 km | Done: 12.17 km · 1:05:52 · 5:25/km overall · HR 156/183 | Key work completed: 3×10 min at ~4:26, 4:22, 4:18/km with 3 min recoveries; total distance short of 14 km but quality block landed |
-| Wed 07-01 | Lower Body (Squat week) | Pending | Not in Strava; leave unconfirmed until Simon logs it |
+| Wed 07-01 | Lower Body (Squat week) | Done: WHOOP weightlifting/MSK — 1:11:20 · strain 5.7 · HR 96/130 | Confirmed in WHOOP; low cardiovascular strain, appropriate support work between quality run and easy run |
 | Thu 07-02 | Easy Z2 — 10 km | Done: 9.02 km · 53:56 · 5:59/km · HR 145/157 | Clean easy Z2 run, slightly short of nominal distance; no catch-up needed |
 | Fri 07-03 | Treadhill intervals — 10 km | Modified: treadmill run/vert stimulus — 6.51 km · 47:52 · 7:21/km · HR 151/177 | Shorter than planned treadhill intervals, but useful treadmill uphill/aerobic load; HR max suggests not trivial |
 | Sat 07-04 | B2B #1: Steady 28 km | Done: 28.08 km · 2:57:22 · 6:19/km · HR 157/170 | On-target first B2B long run; large load / relative effort 271 |
 | Sun 07-05 | B2B #2: Easy 16 km | Done: 16.38 km · 1:38:47 · 6:02/km · HR 142/155 | On-target fatigued-legs run; easy HR and strong completion of B2B weekend |
 
 **Load & recovery**
-- Strava weekly run volume: **72.16 km / 7h 24m moving**, 5 run sessions; planned run volume was **78 km**.
+- Strava weekly run volume: **72.16 km / 7h 24m moving**, 5 run sessions; planned run volume was **78 km**. WHOOP also confirms **one gym session**: Wed lower-body/weightlifting, **1:11:20**, strain **5.7**.
 - Planned run structure mostly landed: Tuesday threshold quality, Thursday easy, Friday vert stimulus modified/short, Saturday/Sunday B2B completed.
 - WHOOP recoveries across logged week: **87%, 81%, 65%, 56%, 63%, 66%, 89%** from Jun 30–Jul 6; no red-streak trigger.
 - WHOOP captured the biggest loads on Sat/Sun: Sat run strain **20.4**, Sun run strain **14.5** plus walk strain **5.1**.
@@ -115,6 +137,12 @@ Strava: **Morning Run**, **9.02 km** in **53:56 moving** / **57:24 elapsed**, **
 
 Read: clean easy aerobic run, slightly short of the nominal **10 km** but exactly the right intensity for the stack. Count it done; no catch-up before Friday/Saturday.
 
+### 2026-07-01 — Wednesday lower-body gym confirmed
+
+WHOOP: **weightlifting_msk**, **1:11:20**, strain **5.7**, **HR 96 avg / 130 max**, **709 kJ**.
+
+Read: planned **Lower Body (Squat week)** is confirmed as completed. Cardiovascular load was low, so it fits well as support work between Tuesday threshold and Thursday easy running rather than adding meaningful endurance strain.
+
 ### 2026-06-30 — Tuesday threshold completed
 
 Strava: **Morning Run**, **12.17 km** in **1:05:52 moving** / **1:10:01 elapsed**, **5:25/km overall**, **6 m elevation**, **HR 156 avg / 183 max**, **267 W avg**, HOKA Clifton 10.
@@ -131,7 +159,7 @@ Read: good threshold execution and a clear progression across reps. HR climbed h
 
 **Synthesis & recommendation**
 
-Week 9 was a successful first Peak/B2B week: **72.16 km completed vs 78 km planned**, with the important stimuli in place. The only meaningful shortfall was Friday’s vert session volume, but that likely helped protect the Saturday/Sunday back-to-back. Recommendation: do not chase the missing ~6 km; start Week 10 normally, but keep Monday upper/core only and let Tuesday’s 40-minute stamina run be governed by HR/heat rather than ego.
+Week 9 was a successful first Peak/B2B week: **72.16 km completed vs 78 km planned**, with the important stimuli in place. Monday upper/core was intentionally skipped as rest, Wednesday lower-body was confirmed by WHOOP, and the only meaningful run shortfall was Friday’s vert session volume. Recommendation: do not chase the missing ~6 km; start Week 10 normally after the Monday rest day and let Tuesday’s 40-minute stamina run be governed by HR/heat rather than ego.
 
 ## Week of 2026-06-22 (Phase 2 — Week 8)
 

@@ -637,9 +637,9 @@ window.trainingData =
           "type": "gym",
           "title": "Upper Body + Core",
           "planned": "Monday Gym A",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Skipped — intentional rest day after previous weekend load",
+          "status": "skipped",
+          "notes": "Simon confirmed this was a deliberate rest day after the weekend, not a missed gym session. No catch-up needed."
         },
         {
           "date": "2026-06-30",
@@ -657,9 +657,9 @@ window.trainingData =
           "type": "gym",
           "title": "Lower Body (Squat week)",
           "planned": "Wednesday Gym B",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "WHOOP weightlifting_msk — 1:11:20 · strain 5.7 · HR 96/130 · 709 kJ",
+          "status": "done",
+          "notes": "Lower-body gym session confirmed by WHOOP as weightlifting/MSK. Low cardiovascular strain; appropriate support work between Tuesday threshold and Thursday easy run."
         },
         {
           "date": "2026-07-02",
@@ -714,9 +714,9 @@ window.trainingData =
           "type": "gym",
           "title": "Upper Body + Core",
           "planned": "Monday Gym A",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Skipped — intentional rest day after Week 9 B2B weekend",
+          "status": "skipped",
+          "notes": "Simon confirmed Monday was skipped as rest after the weekend. Treat as load management before Tuesday stamina, not a missed session."
         },
         {
           "date": "2026-07-07",
