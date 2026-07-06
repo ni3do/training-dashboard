@@ -80,7 +80,7 @@ Each Sunday review fills in this template, newest week at the top.
 | Wed 07-08 | Lower Body (SL RDL week) | Pending | |
 | Thu 07-09 | Easy Z2 — 10 km | Pending | |
 | Fri 07-10 | Sustained Climb 35min — 11 km | Pending | 35 min continuous at 8–12% gradient |
-| Sat 07-11 | Long Run: Easy 24 km | Pending | Recovery long run |
+| Sat 07-11 | Long Run: 35 km | Pending | Single long run; practice full race fueling |
 | Sun 07-12 | Rest day | Pending | Recovery day |
 
 **Mid-week notes (captured during the week)**
