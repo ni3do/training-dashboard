@@ -744,9 +744,9 @@ window.trainingData =
           "type": "run",
           "title": "Easy Z2 — 10 km",
           "planned": "Thursday Easy Run",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "WHOOP running — 9.29 km · 51:09 · ~5:30/km · 17 m gain · HR 148/162 · strain 13.2.",
+          "status": "done",
+          "notes": "Felt a bit spicy but still easy. Upper-easy/steady aerobic rather than pure recovery jog: ~27.9 min Z2, ~19.9 min Z3, 0 min Z4/Z5. Pre-run recovery was strong at 93% with HRV 150.6 ms and RHR 42. Count completed; no catch-up for the small distance shortfall, and keep Friday's sustained climb controlled before Saturday's 35 km."
         },
         {
           "date": "2026-07-10",

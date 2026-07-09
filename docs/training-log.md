@@ -78,12 +78,20 @@ Each Sunday review fills in this template, newest week at the top.
 | Mon 07-06 | Upper Body + Core (gym) | Skipped — intentional rest | Simon confirmed rest day after Week 9 B2B weekend; treat as load management before Tuesday stamina, not a missed session |
 | Tue 07-07 | Stamina: 40min @ 4:42–4:50 — 14 km | Done: 14.27 km · 1:17:55 · ~5:28/km overall · HR 156/180 · WHOOP strain 16.9 | Longest stamina effort landed after Week 9 B2B weekend; RPE ~8, hard but controlled, no knee/hamstring pain, ~80–90 g carbs during session |
 | Wed 07-08 | Lower Body (SL RDL week) | Done: balance-focused lower-body/prehab | Mostly balance work, single-leg deadlifts, box jump-downs, and lower-leg training |
-| Thu 07-09 | Easy Z2 — 10 km | Pending | |
+| Thu 07-09 | Easy Z2 — 10 km | Done: 9.29 km · 51:09 · ~5:30/km · HR 148/162 · WHOOP strain 13.2 | Felt a bit spicy but still easy; upper-easy/steady aerobic rather than pure recovery jog |
 | Fri 07-10 | Sustained Climb 35min — 11 km | Pending | 35 min continuous at 8–12% gradient |
 | Sat 07-11 | Long Run: 35 km | Pending | Single long run; practice full race fueling |
 | Sun 07-12 | Rest day | Pending | Recovery day |
 
 **Mid-week notes (captured during the week)**
+
+### 2026-07-09 — Thursday easy Z2 completed
+
+WHOOP: **running**, **9.29 km** in **51:09**, **~5:30/km**, **17 m elevation gain**, **HR 148 avg / 162 max**, workout strain **13.2**. Time in zones: ~27.9 min Z2, ~19.9 min Z3, **0 min Z4/Z5**. Pre-run recovery was **93%**, HRV **150.6 ms**, RHR **42 bpm**.
+
+Subjective: felt **a bit spicy but still easy**.
+
+Read: count as completed. Slightly short of the nominal 10 km, but close enough and no catch-up needed. Intensity sat at upper-easy / steady aerobic rather than pure recovery jog, which is acceptable given the strong recovery signal, but Friday's sustained climb should stay controlled so Saturday's 35 km remains protected.
 
 ### 2026-07-08 — Wednesday lower-body / prehab completed
 
