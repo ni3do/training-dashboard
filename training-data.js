@@ -734,9 +734,9 @@ window.trainingData =
           "type": "gym",
           "title": "Lower Body (SL RDL week)",
           "planned": "Wednesday Gym B",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Done — balance-focused lower-body/prehab session: mostly balance work, single-leg deadlifts, box jump-downs, and lower-leg training.",
+          "status": "done",
+          "notes": "Appropriate support work after Tuesday's 40-minute stamina run: single-leg control, posterior-chain stimulus, downhill-impact prep, and lower-leg durability without turning the day into a heavy leg-strength grind."
         },
         {
           "date": "2026-07-09",

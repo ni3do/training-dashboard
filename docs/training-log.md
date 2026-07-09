@@ -77,13 +77,19 @@ Each Sunday review fills in this template, newest week at the top.
 | --- | --- | --- | --- |
 | Mon 07-06 | Upper Body + Core (gym) | Skipped — intentional rest | Simon confirmed rest day after Week 9 B2B weekend; treat as load management before Tuesday stamina, not a missed session |
 | Tue 07-07 | Stamina: 40min @ 4:42–4:50 — 14 km | Done: 14.27 km · 1:17:55 · ~5:28/km overall · HR 156/180 · WHOOP strain 16.9 | Longest stamina effort landed after Week 9 B2B weekend; RPE ~8, hard but controlled, no knee/hamstring pain, ~80–90 g carbs during session |
-| Wed 07-08 | Lower Body (SL RDL week) | Pending | |
+| Wed 07-08 | Lower Body (SL RDL week) | Done: balance-focused lower-body/prehab | Mostly balance work, single-leg deadlifts, box jump-downs, and lower-leg training |
 | Thu 07-09 | Easy Z2 — 10 km | Pending | |
 | Fri 07-10 | Sustained Climb 35min — 11 km | Pending | 35 min continuous at 8–12% gradient |
 | Sat 07-11 | Long Run: 35 km | Pending | Single long run; practice full race fueling |
 | Sun 07-12 | Rest day | Pending | Recovery day |
 
 **Mid-week notes (captured during the week)**
+
+### 2026-07-08 — Wednesday lower-body / prehab completed
+
+Simon completed the planned lower-body support session, focused mostly on **balance work**, **single-leg deadlifts**, **box jump-downs**, and **lower-leg training**.
+
+Read: good specificity for Swiss Alps prep without turning the day after the 40-minute stamina run into a heavy leg-strength grind. This gives single-leg control, posterior-chain stimulus, downhill-impact preparation, and calf/lower-leg durability while preserving Thursday/Fri/Sat quality.
 
 ### 2026-07-07 — Tuesday 40-minute stamina completed
 
