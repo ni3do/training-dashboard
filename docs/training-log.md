@@ -76,7 +76,7 @@ Each Sunday review fills in this template, newest week at the top.
 | Day | Planned | Actual | Notes |
 | --- | --- | --- | --- |
 | Mon 07-06 | Upper Body + Core (gym) | Skipped — intentional rest | Simon confirmed rest day after Week 9 B2B weekend; treat as load management before Tuesday stamina, not a missed session |
-| Tue 07-07 | Stamina: 40min @ 4:42–4:50 — 14 km | Pending | Longest stamina effort in the plan |
+| Tue 07-07 | Stamina: 40min @ 4:42–4:50 — 14 km | Done: 14.27 km · 1:17:55 · ~5:28/km overall · HR 156/180 · WHOOP strain 16.9 | Longest stamina effort landed after Week 9 B2B weekend; RPE ~8, hard but controlled, no knee/hamstring pain, ~80–90 g carbs during session |
 | Wed 07-08 | Lower Body (SL RDL week) | Pending | |
 | Thu 07-09 | Easy Z2 — 10 km | Pending | |
 | Fri 07-10 | Sustained Climb 35min — 11 km | Pending | 35 min continuous at 8–12% gradient |
@@ -84,6 +84,14 @@ Each Sunday review fills in this template, newest week at the top.
 | Sun 07-12 | Rest day | Pending | Recovery day |
 
 **Mid-week notes (captured during the week)**
+
+### 2026-07-07 — Tuesday 40-minute stamina completed
+
+WHOOP: **running**, **14.27 km** in **1:17:55**, **~5:28/km overall**, **38 m elevation**, **HR 156 avg / 180 max**, workout strain **16.9**. Time in zones: ~22.2 min Z2, ~18.4 min Z3, ~27.3 min Z4.
+
+Subjective: **RPE ~8/10** — decently hard but still controlled. **No knee or hamstring pain.** Fueling: **~80–90 g carbs** across the full training.
+
+Read: strong key-session execution after the first Peak/B2B weekend. The full 14 km volume landed and the HR/strain profile confirms this had real stamina cost without tipping into uncontrolled racing. The absence of knee/hamstring pain is the best signal here; count the session as fully completed and do not add catch-up load. Keep Thursday easy genuinely easy and Friday's sustained climb controlled so Saturday's 35 km long run remains protected.
 
 ### 2026-07-06 — Monday rest after B2B weekend
 

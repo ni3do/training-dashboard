@@ -724,9 +724,9 @@ window.trainingData =
           "type": "run",
           "title": "Stamina: 40min @ 4:42-4:50",
           "planned": "Tuesday Key Run — 14 km\n40 min sustained stamina — longest stamina effort",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "WHOOP running — 14.27 km · 1:17:55 · ~5:28/km overall · 38 m elev · HR 156/180 · strain 16.9.",
+          "status": "done",
+          "notes": "Longest planned stamina effort completed after the Week 9 B2B weekend. Subjective RPE ~8/10: decently hard but still controlled. No knee or hamstring pain. Fueling: ~80-90 g carbs across the full training. HR distribution included substantial Z3/Z4 time, so this was a meaningful key-session load; count fully done and avoid adding catch-up load before Thursday/Fri/Sat."
         },
         {
           "date": "2026-07-08",
