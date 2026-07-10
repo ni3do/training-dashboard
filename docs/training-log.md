@@ -79,7 +79,7 @@ Each Sunday review fills in this template, newest week at the top.
 | Tue 07-07 | Stamina: 40min @ 4:42–4:50 — 14 km | Done: 14.27 km · 1:17:55 · ~5:28/km overall · HR 156/180 · WHOOP strain 16.9 | Longest stamina effort landed after Week 9 B2B weekend; RPE ~8, hard but controlled, no knee/hamstring pain, ~80–90 g carbs during session |
 | Wed 07-08 | Lower Body (SL RDL week) | Done: balance-focused lower-body/prehab | Mostly balance work, single-leg deadlifts, box jump-downs, and lower-leg training |
 | Thu 07-09 | Easy Z2 — 10 km | Done: 9.29 km · 51:09 · ~5:30/km · HR 148/162 · WHOOP strain 13.2 | Felt a bit spicy but still easy; upper-easy/steady aerobic rather than pure recovery jog |
-| Fri 07-10 | Sustained Climb 35min — 11 km | Pending | 35 min continuous at 8–12% gradient |
+| Fri 07-10 | Sustained Climb 35min — 11 km | Done, shortened: 41:47 · HR 135/148 · WHOOP strain 10.0 | Controlled/easy uphill stimulus; no pain, no fueling, short on planned volume due to time |
 | Sat 07-11 | Long Run: 35 km | Pending | Single long run; practice full race fueling |
 | Sun 07-12 | Rest day | Pending | Recovery day |
 
@@ -92,6 +92,14 @@ WHOOP: **running**, **9.29 km** in **51:09**, **~5:30/km**, **17 m elevation gai
 Subjective: felt **a bit spicy but still easy**.
 
 Read: count as completed. Slightly short of the nominal 10 km, but close enough and no catch-up needed. Intensity sat at upper-easy / steady aerobic rather than pure recovery jog, which is acceptable given the strong recovery signal, but Friday's sustained climb should stay controlled so Saturday's 35 km remains protected.
+
+### 2026-07-10 — Friday sustained climb completed, shortened
+
+WHOOP: **running**, **41:47**, **HR 135 avg / 148 max**, workout strain **10.0**. Time in zones: ~1.3 min Z0, ~13.3 min Z1, ~27.2 min Z2, **0 min Z3/Z4/Z5**. Morning recovery was **61% yellow**, HRV **125.0 ms**, RHR **41 bpm**.
+
+Subjective: **fine, decently easy**. Short on planned full volume because of time. **No pain** and **no fueling**.
+
+Read: count as completed/modified, not missed. This delivered useful controlled uphill aerobic specificity without adding much intensity cost before Saturday's 35 km long run. Do **not** aggressively make up the missed Friday volume before the long run. If Saturday lands well and Sunday legs/recovery are good, a small Sunday add-on is acceptable as an easy recovery jog/walk only, but Sunday should not become a second key run.
 
 ### 2026-07-08 — Wednesday lower-body / prehab completed
 

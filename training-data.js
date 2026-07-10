@@ -754,9 +754,9 @@ window.trainingData =
           "type": "run",
           "title": "Sustained Climb 35min — 11 km",
           "planned": "Friday Vert Session\n35 min continuous at 8-12% gradient",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "WHOOP running — 41:47 · HR 135/148 · strain 10.0.",
+          "status": "done",
+          "notes": "Shortened due to time, but completed as a controlled/easy sustained-climb stimulus. Subjective: fine, decently easy; no pain; no fueling. Mostly Z2 or below with 0 min Z3+. Do not aggressively make up the missed Friday volume before Saturday's 35 km. If Saturday lands well and Sunday legs/recovery are good, a small Sunday easy jog/walk add-on is acceptable, but Sunday should not become a second key run."
         },
         {
           "date": "2026-07-11",
