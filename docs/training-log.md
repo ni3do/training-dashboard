@@ -80,10 +80,18 @@ Each Sunday review fills in this template, newest week at the top.
 | Wed 07-08 | Lower Body (SL RDL week) | Done: balance-focused lower-body/prehab | Mostly balance work, single-leg deadlifts, box jump-downs, and lower-leg training |
 | Thu 07-09 | Easy Z2 — 10 km | Done: 9.29 km · 51:09 · ~5:30/km · HR 148/162 · WHOOP strain 13.2 | Felt a bit spicy but still easy; upper-easy/steady aerobic rather than pure recovery jog |
 | Fri 07-10 | Sustained Climb 35min — 11 km | Done, shortened: 41:47 · HR 135/148 · WHOOP strain 10.0 | Controlled/easy uphill stimulus; no pain, no fueling, short on planned volume due to time |
-| Sat 07-11 | Long Run: 35 km | Pending | Single long run; practice full race fueling |
+| Sat 07-11 | Long Run: 35 km | Done: 35.66 km · 3:56:46 · ~6:38/km · HR 146/169 · WHOOP strain 20.15 | Planned 35 km landed. First 2h felt great and 40 g carbs every 20 min was tolerated well; after hunger + small food, stomach closed, cramps persisted, fueling stopped, pace dipped |
 | Sun 07-12 | Rest day | Pending | Recovery day |
 
 **Mid-week notes (captured during the week)**
+
+### 2026-07-11 — Saturday 35 km long run completed; fueling failure after 2h
+
+WHOOP: **running**, **35.66 km** in **3:56:46**, **~6:38/km**, **103 m elevation gain**, **HR 146 avg / 169 max**, workout strain **20.15**. Time in zones: ~1.1 min Z0, ~35.3 min Z1, ~123.2 min Z2, ~77.1 min Z3, ~0.1 min Z4, **0 min Z5**. Sleep before the run was **8.1 h** with **76% sleep performance**.
+
+Subjective: first **2 hours felt great**: pace felt good, no other complaints, and fueling was easy to take. Fueling was **40 g carbs every 20 min** (**~120 g/h**, ~240 g over the first 2 h), with stomach feeling good initially. After ~2 h Simon felt hungry, ate something small, then the stomach **closed down**: could not eat anymore, had stomach cramps for the rest of the run, and pace dipped as expected.
+
+Read: count as completed. The main endurance objective landed: full planned 35 km, large but controlled aerobic load, and no reported musculoskeletal complaints. Fueling lesson is specific rather than catastrophic: Simon can tolerate high-carb intake early, but the gut became fragile after 2 h and did not tolerate an improvised small solid/food once hunger appeared. For Swiss Alps 100K prep, avoid late improvisation with solids; if solids are needed, introduce tiny planned bites early while the gut is calm. Next long-run/race-fueling protocol: use a more conservative baseline of **90–100 g carbs/h** unless conditions and stomach are perfect; keep products boring and familiar; add/check sodium around **600–900 mg/h** depending on heat/sweat; and use a gut-rescue protocol if cramps start: 10–15 min easier effort, small sips of water, skip one carb dose, then restart at 20–25 g every 20 min.
 
 ### 2026-07-09 — Thursday easy Z2 completed
 

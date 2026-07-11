@@ -764,9 +764,9 @@ window.trainingData =
           "type": "run",
           "title": "Long Run: 35 km",
           "planned": "Saturday Single Long Run\nPractice full race fueling",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "WHOOP running — 35.66 km · 3:56:46 · ~6:38/km · 103 m gain · HR 146/169 · strain 20.15.",
+          "status": "done",
+          "notes": "Planned 35 km long run completed. First 2h felt great: pace good, no other complaints, and 40 g carbs every 20 min (~120 g/h; ~240 g over 2h) was easy to take with stomach feeling good. After ~2h Simon felt hungry, ate something small, then stomach closed down: could not eat anymore, cramps persisted for the rest of the run, and pace dipped. Lesson: high-carb intake is tolerable early, but the gut became fragile after 2h and did not tolerate improvised solid/food. For Swiss Alps 100K prep, avoid late improvisation with solids; introduce tiny planned bites early if needed. Next protocol: 90-100 g carbs/h baseline unless conditions and stomach are perfect, familiar gels/drink/chews, sodium ~600-900 mg/h depending on heat/sweat, and gut rescue if cramps start: 10-15 min easier, small sips water, skip one carb dose, restart at 20-25 g every 20 min."
         },
         {
           "date": "2026-07-12",
