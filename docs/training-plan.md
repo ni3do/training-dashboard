@@ -83,10 +83,11 @@
 | 14 | Aug 3–7 | Race | 5 | 3 | 🏔️ | — | — | 8+race | 0× |
 
 ### Progression Rules
-- Max 10% weekly volume increase
-- Down week every 3–4 weeks (~25–30% reduction)
-- 2-week taper before race day
-- Peak week (Wk 11) = 96 km
+- Default coaching tone for Simon: **attack-minded and performance-forward** — frame sessions around execution, ambition, and confidence.
+- Max 10% weekly volume increase as a planning baseline, not a ceiling for motivated race-specific execution when the body is responding well.
+- Down week every 3–4 weeks (~25–30% reduction) to absorb work and reload for the next push.
+- 2-week taper before race day.
+- Peak week (Wk 11) = 96 km — the plan is built to be attacked, not merely survived.
 
 ### Averages
 - Base phase: ~50 km/week
