@@ -69,6 +69,30 @@ Each Sunday review fills in this template, newest week at the top.
 
 <!-- Newest week goes directly below this line. -->
 
+## Week of 2026-07-13 (Phase 3 — Week 11 ★ Peak)
+
+**Planned vs. actual**
+
+| Day | Planned | Actual | Notes |
+| --- | --- | --- | --- |
+| Mon 07-13 | Upper Body + Core (gym) | Tuesday key run moved up: 14.08 km · 1:14:30 · ~5:17/km · HR 150/180 · WHOOP strain 15.6 | Simon completed the planned Tuesday progression run one day early, using race-day shoes; RPE ~8, felt pretty good, no shoe issues or other complaints, ~110 g carbs total, plus 1 km of optional ending |
+| Tue 07-14 | Progression: 5:30 → 4:20 — 15 km | Already completed Mon 07-13 | Do not repeat the key run Tuesday; use Tuesday as recovery / optional upper-core only if legs feel normal |
+| Wed 07-15 | Lower Body (Squat week) | Pending | Keep maintenance-focused after the Monday key run |
+| Thu 07-16 | Easy Z2 — 10 km | Pending | Protect the weekend B2B |
+| Fri 07-17 | Never-ending Treadhill — 11 km | Pending | Race-specific vert session |
+| Sat 07-18 | B2B #1: 36 km ⭐ PEAK | Pending | Full race-fuel rehearsal |
+| Sun 07-19 | B2B #2: 24 km race rehearsal | Pending | Fatigued-legs race rehearsal |
+
+**Mid-week notes (captured during the week)**
+
+### 2026-07-13 — Tuesday peak progression run completed one day early
+
+WHOOP: **running**, **14.08 km** in **1:14:30**, **~5:17/km**, **34 m elevation gain**, **HR 150 avg / 180 max**, workout strain **15.6**. Time in zones: ~0.8 min Z0, ~9.6 min Z1, ~27.6 min Z2, ~24.5 min Z3, ~12.1 min Z4, **0 min Z5**. Morning recovery was **83% green**, HRV **144.2 ms**, RHR **46 bpm**.
+
+Subjective: Simon did the planned Tuesday run **today** and felt **pretty good**. New **race-day shoes** had **no issues**. Fueling was **~110 g carbs across the session**. No other complaints. RPE **~8/10**. Added **1 km of the optional part at the end**.
+
+Read: count the Week 11 Tuesday key run as **completed early**. This is a strong start to peak week: good recovery signal, meaningful Z3/Z4 dose, RPE in the right “hard but controlled” band, no knee/hamstring/shoe complaints, and race shoes passed their first serious check. It landed slightly under the nominal 15 km, but the optional 1 km add-on plus quality load makes this a full key-session win. Do **not** repeat Tuesday quality tomorrow; absorb it, then keep Wed lower-body maintenance-level so Thu/Fri/Sat/Sun can stay sharp.
+
 ## Week of 2026-07-06 (Phase 3 — Week 10)
 
 **Planned vs. actual**

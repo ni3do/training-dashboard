@@ -791,9 +791,9 @@ window.trainingData =
           "type": "gym",
           "title": "Upper Body + Core",
           "planned": "Monday Gym A",
-          "actual": null,
-          "status": null,
-          "notes": null,
+          "actual": "Tuesday key run moved up and completed today — WHOOP running: 14.08 km · 1:14:30 · ~5:17/km · 34 m elev · HR 150/180 · strain 15.6.",
+          "status": "modified",
+          "notes": "Simon completed the planned Tuesday peak progression run one day early. Felt pretty good; RPE ~8/10; no knee/hamstring complaints; new race-day shoes had no issues; ~110 g carbs across the session; did 1 km of the optional ending. Morning recovery 83%, HRV 144.2 ms, RHR 46. Treat Tuesday key session as completed early; do not repeat quality Tuesday.",
           "peakWeek": true
         },
         {
@@ -802,9 +802,9 @@ window.trainingData =
           "type": "run",
           "title": "Progression: 5:30 → 4:20",
           "planned": "Tuesday Key Run — 15 km\nBiggest Tuesday session of the plan",
-          "actual": null,
-          "status": null,
-          "notes": null,
+          "actual": "Completed early on Mon 2026-07-13 — 14.08 km · 1:14:30 · HR 150/180 · strain 15.6.",
+          "status": "done",
+          "notes": "Peak Tuesday progression run landed one day early with race-day shoes tested successfully, RPE ~8, ~110 g carbs total, no other complaints, and 1 km optional add-on. Tuesday should become recovery / optional upper-core only, not another key run.",
           "peakWeek": true
         },
         {
