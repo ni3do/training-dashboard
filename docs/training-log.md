@@ -77,8 +77,8 @@ Each Sunday review fills in this template, newest week at the top.
 | --- | --- | --- | --- |
 | Mon 07-13 | Upper Body + Core (gym) | Tuesday key run moved up: 14.08 km · 1:14:30 · ~5:17/km · HR 150/180 · WHOOP strain 15.6 | Simon completed the planned Tuesday progression run one day early, using race-day shoes; RPE ~8, felt pretty good, no shoe issues or other complaints, ~110 g carbs total, plus 1 km of optional ending |
 | Tue 07-14 | Progression: 5:30 → 4:20 — 15 km | Already completed Mon 07-13 | Do not repeat the key run Tuesday; use Tuesday as recovery / optional upper-core only if legs feel normal |
-| Wed 07-15 | Lower Body (Squat week) | Pending | Keep maintenance-focused after the Monday key run |
-| Thu 07-16 | Easy Z2 — 10 km | Pending | Protect the weekend B2B |
+| Wed 07-15 | Lower Body (Squat week) | Done: WHOOP weightlifting/MSK — 35:34 · strain 4.2 · HR 74/122 | Low cardiovascular cost; exactly the maintenance dose needed after Monday’s key run |
+| Thu 07-16 | Easy Z2 — 10 km | Done: 9.83 km · 59:36 · ~6:04/km · HR 134/151 · WHOOP strain 11.5 | Genuine easy Z2; strong absorption signal before Fri/Sat/Sun |
 | Fri 07-17 | Never-ending Treadhill — 11 km | Pending | Race-specific vert session |
 | Sat 07-18 | B2B #1: 36 km ⭐ PEAK | Pending | Full race-fuel rehearsal |
 | Sun 07-19 | B2B #2: 24 km race rehearsal | Pending | Fatigued-legs race rehearsal |
@@ -92,6 +92,18 @@ WHOOP: **running**, **14.08 km** in **1:14:30**, **~5:17/km**, **34 m elevation 
 Subjective: Simon did the planned Tuesday run **today** and felt **pretty good**. New **race-day shoes** had **no issues**. Fueling was **~110 g carbs across the session**. No other complaints. RPE **~8/10**. Added **1 km of the optional part at the end**.
 
 Read: count the Week 11 Tuesday key run as **completed early**. This is a strong start to peak week: good recovery signal, meaningful Z3/Z4 dose, RPE in the right “hard but controlled” band, no knee/hamstring/shoe complaints, and race shoes passed their first serious check. It landed slightly under the nominal 15 km, but the optional 1 km add-on plus quality load makes this a full key-session win. Do **not** repeat Tuesday quality tomorrow; absorb it, then keep Wed lower-body maintenance-level so Thu/Fri/Sat/Sun can stay sharp.
+
+### 2026-07-15 — Wednesday lower-body maintenance completed
+
+WHOOP: **weightlifting/MSK**, **35:34**, workout strain **4.2**, **HR 74 avg / 122 max**. Morning recovery was **68% yellow**, HRV **127.3 ms**, RHR **46 bpm**. Sleep before the session was **91% sleep performance**.
+
+Read: count the planned **Lower Body (Squat week)** as completed. Cardiovascular load was very low and session duration stayed compact, which is exactly the right maintenance dose between Monday’s peak progression run and the Thu/Fri/Sat/Sun peak-week stack. No extra gym volume needed.
+
+### 2026-07-16 — Thursday easy Z2 completed
+
+WHOOP: **running**, **9.83 km** in **59:36**, **~6:04/km**, **19 m elevation gain**, **HR 134 avg / 151 max**, workout strain **11.5**. Time in zones: ~1.1 min Z0, ~18.2 min Z1, **~40.3 min Z2**, **0 min Z3/Z4/Z5**. Morning recovery was **81% green**, HRV **134.8 ms**, RHR **45 bpm**. Sleep before the run was **97% sleep performance**.
+
+Read: count as completed. This was almost exactly the planned 10 km and — more importantly — genuinely easy by HR/zone profile. Strong absorption signal after Monday’s hard run and Wednesday maintenance gym. Do **not** chase the missing ~170 m; keep the powder dry for Friday vert and the 36 km / 24 km B2B weekend.
 
 ## Week of 2026-07-06 (Phase 3 — Week 10)
 

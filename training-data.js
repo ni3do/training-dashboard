@@ -813,9 +813,9 @@ window.trainingData =
           "type": "gym",
           "title": "Lower Body (Squat week)",
           "planned": "Wednesday Gym B",
-          "actual": null,
-          "status": null,
-          "notes": null,
+          "actual": "WHOOP weightlifting/MSK — 35:34 · strain 4.2 · HR 74/122.",
+          "status": "done",
+          "notes": "Lower-body maintenance session completed after Monday's peak progression run. Very low cardiovascular load, exactly what this slot needed: support work without compromising Thursday/Fri/Sat/Sun peak-week stack. Morning recovery 68%, HRV 127.3 ms, RHR 46.",
           "peakWeek": true
         },
         {
@@ -824,9 +824,9 @@ window.trainingData =
           "type": "run",
           "title": "Easy Z2 — 10 km",
           "planned": "Thursday Easy Run",
-          "actual": null,
-          "status": null,
-          "notes": null,
+          "actual": "WHOOP running — 9.83 km · 59:36 · ~6:04/km · 19 m elev · HR 134/151 · strain 11.5.",
+          "status": "done",
+          "notes": "Easy Z2 landed almost exactly as prescribed and stayed genuinely easy: ~18.2 min Z1, ~40.3 min Z2, 0 min Z3+. Morning recovery 81%, HRV 134.8 ms, RHR 45; sleep performance 97%. Good absorption signal before Friday vert and weekend B2B. No catch-up needed for the missing ~170 m.",
           "peakWeek": true
         },
         {
