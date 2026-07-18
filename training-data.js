@@ -846,9 +846,9 @@ window.trainingData =
           "type": "run",
           "title": "B2B #1: 36 km ⭐ PEAK",
           "planned": "Saturday Long Run — PEAK WEEK\nFull race nutrition rehearsal\n250 cal/h, test all race-day gear",
-          "actual": null,
-          "status": null,
-          "notes": null,
+          "actual": "Morning Run — 37.40 km · 3:42:25 moving / 3:50:39 elapsed · 5:57/km · 148 m elev · HR 151/164 · load 263 · IF 84.1 · WHOOP strain 20.4",
+          "status": "done",
+          "notes": "Peak B2B day 1 fully landed: +1.4 km vs plan, huge aerobic durability stimulus, and strong green-recovery launch (WHOOP recovery 80%, HRV 141.6 ms, RHR 42). First 20 km controlled, middle 10 km stable, final 7.4 km re-accelerated rather than faded. Do not chase extra time; protect tomorrow's fatigued-legs race rehearsal.",
           "peakWeek": true
         },
         {
