@@ -79,7 +79,7 @@ Each Sunday review fills in this template, newest week at the top.
 | Tue 07-14 | Progression: 5:30 → 4:20 — 15 km | Already completed Mon 07-13 | Do not repeat the key run Tuesday; use Tuesday as recovery / optional upper-core only if legs feel normal |
 | Wed 07-15 | Lower Body (Squat week) | Done: WHOOP weightlifting/MSK — 35:34 · strain 4.2 · HR 74/122 | Low cardiovascular cost; exactly the maintenance dose needed after Monday’s key run |
 | Thu 07-16 | Easy Z2 — 10 km | Done: 9.83 km · 59:36 · ~6:04/km · HR 134/151 · WHOOP strain 11.5 | Genuine easy Z2; strong absorption signal before Fri/Sat/Sun |
-| Fri 07-17 | Never-ending Treadhill — 11 km | Pending | Race-specific vert session |
+| Fri 07-17 | Never-ending Treadhill — 11 km | Done: Treadhill — 7.50 km treadmill · 1:00:59 · HR 142/159 · relative effort 37 · 827 kcal | Race-specific vert stimulus completed; controlled enough to protect the weekend B2B, no catch-up distance needed |
 | Sat 07-18 | B2B #1: 36 km ⭐ PEAK | Pending | Full race-fuel rehearsal |
 | Sun 07-19 | B2B #2: 24 km race rehearsal | Pending | Fatigued-legs race rehearsal |
 

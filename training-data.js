@@ -835,9 +835,9 @@ window.trainingData =
           "type": "run",
           "title": "Never-ending Treadhill — 11 km",
           "planned": "Friday Vert Session\nAlternate run/hike at varying gradients\n3-4 rounds",
-          "actual": null,
-          "status": null,
-          "notes": null,
+          "actual": "Treadhill — 7.50 km treadmill · 1:00:59 · HR 142/159 · relative effort 37 · 827 kcal",
+          "status": "done",
+          "notes": "Matched to Strava activity 19345888865. Race-specific treadmill vert completed as controlled run/hike incline work; count the vertical stimulus, keep weekend B2B protected, and do not chase the missing distance.",
           "peakWeek": true
         },
         {
