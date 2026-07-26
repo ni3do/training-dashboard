@@ -915,9 +915,9 @@ window.trainingData =
           "type": "run",
           "title": "Easy Incline 20min — 8 km",
           "planned": "Friday Easy Vert — Down week",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Done: cut short, but nailed the key 20 min incline stimulus — mostly 10% incline at 7.0 km/h. WHOOP: 30:12 total · HR 139/160 · strain 9.6",
+          "status": "done",
+          "notes": "Count as completed/modified: key incline stimulus landed; no catch-up needed before the long run."
         },
         {
           "date": "2026-07-25",
@@ -925,9 +925,9 @@ window.trainingData =
           "type": "run",
           "title": "Long Run: Steady 26 km",
           "planned": "Saturday Long Run — Down week",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Done Sunday: Morning Run — 26.01 km · 2:27:48 moving / 2:34:41 elapsed · HR 149/168 · load 190 · IF 87.7",
+          "status": "done",
+          "notes": "Swapped one day later; count the planned Saturday 26 km long run as completed. Stronger-than-planned load, no catch-up needed."
         },
         {
           "date": "2026-07-26",
@@ -935,9 +935,9 @@ window.trainingData =
           "type": "rest",
           "title": "Rest Day",
           "planned": "Recovery day\nSleep, foam roll, sauna if available",
-          "actual": null,
-          "status": null,
-          "notes": null
+          "actual": "Swapped with Saturday long run: 26.01 km completed today.",
+          "status": "modified",
+          "notes": "Recovery day was traded for the long run; keep the next recovery window honest."
         }
       ]
     },
