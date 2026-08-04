@@ -1084,14 +1084,15 @@ window.trainingData =
           {"name": "Fruity Line mango juice", "amount": "250 ml bottle", "carbsG": 36, "caloriesKcal": 160, "kind": "drink", "confidence": "label"},
           {"name": "Pasta with tomato sauce", "amount": "3 small-mid plates", "carbsG": 135, "caloriesKcal": 990, "kind": "food", "confidence": "estimate"},
           {"name": "Sticky rice dessert", "amount": "3 portions", "carbsG": 105, "caloriesKcal": 570, "kind": "food", "confidence": "estimate"},
-          {"name": "Iced donut", "amount": "1 donut", "carbsG": 35, "caloriesKcal": 280, "kind": "food", "confidence": "estimate"}
+          {"name": "Iced donut", "amount": "1 donut", "carbsG": 35, "caloriesKcal": 280, "kind": "food", "confidence": "estimate"},
+          {"name": "Yaya kombucha", "amount": "330 ml can", "carbsG": 15, "caloriesKcal": 61, "kind": "drink", "confidence": "label"}
         ],
-        "totalG": 727,
-        "caloriesKcal": 4060,
-        "drinkCarbsG": 182,
-        "drinkCaloriesKcal": 764,
-        "remainingToRecommendedG": 61,
-        "remainingToRangeG": [0, 218],
+        "totalG": 742,
+        "caloriesKcal": 4121,
+        "drinkCarbsG": 197,
+        "drinkCaloriesKcal": 825,
+        "remainingToRecommendedG": 45,
+        "remainingToRangeG": [0, 202],
         "notes": "Calories are label-based where visible and estimated for photo foods. Pasta/rice estimates revised down after portion feedback: pasta assumes ~45 g carbs and ~330 kcal per small-mid plate; sticky rice assumes ~35 g carbs and ~190 kcal per portion. Donut estimated at ~35 g carbs and ~280 kcal. Mango juice counted at 14.2 g carbs/100 ml and 64 kcal/100 ml. Fruit smoothie counted at 10.2 g carbs/100 ml and 48 kcal/100 ml. Blood orange drink counted like earlier cans at 6.4 g carbs/100 ml. Cafe plate estimated from photo: total meal/drink ~165 g carbs and ~845 kcal including drink. Kombucha counted from label at 4.6 g/100 ml. Pretzels counted from label. Include sugary drinks. Banana bread logged at ~40 g unless slice size/recipe says otherwise."
       },
       {"date": "2026-08-05", "items": [], "totalG": 0, "caloriesKcal": 0, "drinkCarbsG": 0, "drinkCaloriesKcal": 0, "notes": "Not started."},
