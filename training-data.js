@@ -1073,13 +1073,14 @@ window.trainingData =
           {"name": "Cafe carb-load plate", "amount": "bread + spreads + small bao + pita/salad", "carbsG": 154, "kind": "food", "confidence": "estimate"},
           {"name": "Karma orange turmeric drink", "amount": "250 ml can", "carbsG": 11, "kind": "drink", "confidence": "label"},
           {"name": "Yaya kombucha", "amount": "330 ml can", "carbsG": 15, "kind": "drink", "confidence": "label"},
-          {"name": "Popcorn", "amount": "1 bag", "carbsG": 10, "kind": "food", "confidence": "label"}
+          {"name": "Popcorn", "amount": "1 bag", "carbsG": 10, "kind": "food", "confidence": "label"},
+          {"name": "Pretzels", "amount": "1 bag", "carbsG": 23, "kind": "food", "confidence": "label"}
         ],
-        "totalG": 282,
+        "totalG": 305,
         "drinkCarbsG": 58,
-        "remainingToRecommendedG": 505,
-        "remainingToRangeG": [348, 662],
-        "notes": "Cafe plate estimated from photo: total meal/drink ~165 g carbs. Kombucha counted from label at 4.6 g/100 ml. Include sugary drinks. Banana bread logged at ~40 g unless slice size/recipe says otherwise."
+        "remainingToRecommendedG": 482,
+        "remainingToRangeG": [325, 639],
+        "notes": "Cafe plate estimated from photo: total meal/drink ~165 g carbs. Kombucha counted from label at 4.6 g/100 ml. Pretzels counted from label. Include sugary drinks. Banana bread logged at ~40 g unless slice size/recipe says otherwise."
       },
       {"date": "2026-08-05", "items": [], "totalG": 0, "drinkCarbsG": 0, "notes": "Not started."},
       {"date": "2026-08-06", "items": [], "totalG": 0, "drinkCarbsG": 0, "notes": "Not started."},
