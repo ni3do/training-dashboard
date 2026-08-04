@@ -1075,15 +1075,16 @@ window.trainingData =
           {"name": "Yaya kombucha", "amount": "330 ml can", "carbsG": 15, "caloriesKcal": 61, "kind": "drink", "confidence": "label"},
           {"name": "Popcorn", "amount": "1 bag", "carbsG": 10, "caloriesKcal": 56, "kind": "food", "confidence": "label/estimate"},
           {"name": "Pretzels", "amount": "1 bag", "carbsG": 23, "caloriesKcal": 164, "kind": "food", "confidence": "label"},
-          {"name": "Yaya kombucha", "amount": "330 ml can", "carbsG": 15, "caloriesKcal": 61, "kind": "drink", "confidence": "label"}
+          {"name": "Yaya kombucha", "amount": "330 ml can", "carbsG": 15, "caloriesKcal": 61, "kind": "drink", "confidence": "label"},
+          {"name": "Fruit smoothie", "amount": "250 ml bottle", "carbsG": 26, "caloriesKcal": 120, "kind": "drink", "confidence": "label"}
         ],
-        "totalG": 320,
-        "caloriesKcal": 1587,
-        "drinkCarbsG": 73,
-        "drinkCaloriesKcal": 295,
-        "remainingToRecommendedG": 467,
-        "remainingToRangeG": [310, 624],
-        "notes": "Calories are label-based where visible and estimated for photo foods. Cafe plate estimated from photo: total meal/drink ~165 g carbs and ~845 kcal including drink. Kombucha counted from label at 4.6 g/100 ml. Pretzels counted from label. Include sugary drinks. Banana bread logged at ~40 g unless slice size/recipe says otherwise."
+        "totalG": 346,
+        "caloriesKcal": 1707,
+        "drinkCarbsG": 99,
+        "drinkCaloriesKcal": 415,
+        "remainingToRecommendedG": 442,
+        "remainingToRangeG": [285, 598],
+        "notes": "Calories are label-based where visible and estimated for photo foods. Fruit smoothie counted at 10.2 g carbs/100 ml and 48 kcal/100 ml. Cafe plate estimated from photo: total meal/drink ~165 g carbs and ~845 kcal including drink. Kombucha counted from label at 4.6 g/100 ml. Pretzels counted from label. Include sugary drinks. Banana bread logged at ~40 g unless slice size/recipe says otherwise."
       },
       {"date": "2026-08-05", "items": [], "totalG": 0, "caloriesKcal": 0, "drinkCarbsG": 0, "drinkCaloriesKcal": 0, "notes": "Not started."},
       {"date": "2026-08-06", "items": [], "totalG": 0, "caloriesKcal": 0, "drinkCarbsG": 0, "drinkCaloriesKcal": 0, "notes": "Not started."},
