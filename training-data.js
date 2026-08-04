@@ -1060,7 +1060,7 @@ window.trainingData =
       {"date": "2026-08-04", "label": "Tue — start loading", "targetCarbsG": 787, "rangeG": [630, 944], "drinkFocus": "Use juice/sports drink to make the number easy without fiber."},
       {"date": "2026-08-05", "label": "Wed — main load", "targetCarbsG": 787, "rangeG": [630, 944], "drinkFocus": "Liquid carbs strongly encouraged; keep water + sodium steady."},
       {"date": "2026-08-06", "label": "Thu — main load / low fiber", "targetCarbsG": 787, "rangeG": [630, 944], "drinkFocus": "Prioritize sports drink/juice/rice/pasta; avoid gut roulette."},
-      {"date": "2026-08-07", "label": "Fri — race morning", "targetCarbsG": 236, "rangeG": [79, 315], "drinkFocus": "1–4 g/kg pre-race depending on start time/tolerance; race fueling continues separately."}
+      {"date": "2026-08-07", "label": "Fri — race day / 17:30 start", "targetCarbsG": 630, "rangeG": [472, 787], "drinkFocus": "Late-afternoon start: keep carb feeding steady through lunch/afternoon; finish with easy liquid carbs, then race fueling continues separately."}
     ],
     "entries": [
       {
