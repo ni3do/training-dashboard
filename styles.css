@@ -229,6 +229,15 @@ tbody tr:hover {
     background: var(--table-hover);
 }
 
+.table-wrap {
+    overflow-x: auto;
+}
+
+.muted {
+    color: var(--text-secondary);
+    font-size: 0.85em;
+}
+
 /* Peak week highlighting */
 tr.peak-week {
     background: rgba(249, 115, 22, 0.1) !important;

@@ -1056,19 +1056,29 @@ window.trainingData =
       "recommendedG": 787,
       "basis": "8–12 g/kg/day for final 36–48h before a long ultra; 10 g/kg/day target"
     },
+    "dailyGoals": [
+      {"date": "2026-08-04", "label": "Tue — start loading", "targetCarbsG": 787, "rangeG": [630, 944], "drinkFocus": "Use juice/sports drink to make the number easy without fiber."},
+      {"date": "2026-08-05", "label": "Wed — main load", "targetCarbsG": 787, "rangeG": [630, 944], "drinkFocus": "Liquid carbs strongly encouraged; keep water + sodium steady."},
+      {"date": "2026-08-06", "label": "Thu — main load / low fiber", "targetCarbsG": 787, "rangeG": [630, 944], "drinkFocus": "Prioritize sports drink/juice/rice/pasta; avoid gut roulette."},
+      {"date": "2026-08-07", "label": "Fri — race morning", "targetCarbsG": 236, "rangeG": [79, 315], "drinkFocus": "1–4 g/kg pre-race depending on start time/tolerance; race fueling continues separately."}
+    ],
     "entries": [
       {
         "date": "2026-08-04",
         "items": [
-          {"name": "Banana bread", "amount": "1 slice", "carbsG": 40, "confidence": "estimate"},
-          {"name": "Popcorn", "amount": "2 bags", "carbsG": 20, "confidence": "label"},
-          {"name": "Sugary drink", "amount": "250 ml can", "carbsG": 16, "confidence": "label"}
+          {"name": "Banana bread", "amount": "1 slice", "carbsG": 40, "kind": "food", "confidence": "estimate"},
+          {"name": "Popcorn", "amount": "2 bags", "carbsG": 20, "kind": "food", "confidence": "label"},
+          {"name": "Sugary drink", "amount": "250 ml can", "carbsG": 16, "kind": "drink", "confidence": "label"}
         ],
         "totalG": 76,
+        "drinkCarbsG": 16,
         "remainingToRecommendedG": 711,
         "remainingToRangeG": [554, 868],
         "notes": "Include sugary drinks. Banana bread logged at ~40 g unless slice size/recipe says otherwise."
-      }
+      },
+      {"date": "2026-08-05", "items": [], "totalG": 0, "drinkCarbsG": 0, "notes": "Not started."},
+      {"date": "2026-08-06", "items": [], "totalG": 0, "drinkCarbsG": 0, "notes": "Not started."},
+      {"date": "2026-08-07", "items": [], "totalG": 0, "drinkCarbsG": 0, "notes": "Race-morning intake only; in-race fueling tracked separately."}
     ]
   },
   "zones": {
