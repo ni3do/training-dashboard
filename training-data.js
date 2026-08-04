@@ -1079,15 +1079,19 @@ window.trainingData =
           {"name": "Fruit smoothie", "amount": "250 ml bottle", "carbsG": 26, "caloriesKcal": 120, "kind": "drink", "confidence": "label"},
           {"name": "Blood orange drink", "amount": "250 ml can", "carbsG": 16, "caloriesKcal": 64, "kind": "drink", "confidence": "label"},
           {"name": "Pretzels", "amount": "1 bag", "carbsG": 23, "caloriesKcal": 164, "kind": "food", "confidence": "label"},
-          {"name": "Yaya kombucha", "amount": "330 ml can", "carbsG": 15, "caloriesKcal": 61, "kind": "drink", "confidence": "label"}
+          {"name": "Yaya kombucha", "amount": "330 ml can", "carbsG": 15, "caloriesKcal": 61, "kind": "drink", "confidence": "label"},
+          {"name": "Blood orange drink", "amount": "250 ml can", "carbsG": 16, "caloriesKcal": 64, "kind": "drink", "confidence": "label"},
+          {"name": "Fruity Line mango juice", "amount": "250 ml bottle", "carbsG": 36, "caloriesKcal": 160, "kind": "drink", "confidence": "label"},
+          {"name": "Pasta with tomato sauce", "amount": "3 small-mid plates", "carbsG": 180, "caloriesKcal": 1260, "kind": "food", "confidence": "estimate"},
+          {"name": "Sticky rice dessert", "amount": "3 portions", "carbsG": 135, "caloriesKcal": 720, "kind": "food", "confidence": "estimate"}
         ],
-        "totalG": 400,
-        "caloriesKcal": 1996,
-        "drinkCarbsG": 130,
-        "drinkCaloriesKcal": 540,
-        "remainingToRecommendedG": 387,
-        "remainingToRangeG": [230, 544],
-        "notes": "Calories are label-based where visible and estimated for photo foods. Fruit smoothie counted at 10.2 g carbs/100 ml and 48 kcal/100 ml. Blood orange drink counted like earlier cans at 6.4 g carbs/100 ml. Cafe plate estimated from photo: total meal/drink ~165 g carbs and ~845 kcal including drink. Kombucha counted from label at 4.6 g/100 ml. Pretzels counted from label. Include sugary drinks. Banana bread logged at ~40 g unless slice size/recipe says otherwise."
+        "totalG": 767,
+        "caloriesKcal": 4200,
+        "drinkCarbsG": 182,
+        "drinkCaloriesKcal": 764,
+        "remainingToRecommendedG": 21,
+        "remainingToRangeG": [0, 177],
+        "notes": "Calories are label-based where visible and estimated for photo foods. Pasta estimate assumes ~60 g carbs and ~420 kcal per small-mid plate; sticky rice dessert assumes ~45 g carbs and ~240 kcal per portion. Mango juice counted at 14.2 g carbs/100 ml and 64 kcal/100 ml. Fruit smoothie counted at 10.2 g carbs/100 ml and 48 kcal/100 ml. Blood orange drink counted like earlier cans at 6.4 g carbs/100 ml. Cafe plate estimated from photo: total meal/drink ~165 g carbs and ~845 kcal including drink. Kombucha counted from label at 4.6 g/100 ml. Pretzels counted from label. Include sugary drinks. Banana bread logged at ~40 g unless slice size/recipe says otherwise."
       },
       {"date": "2026-08-05", "items": [], "totalG": 0, "caloriesKcal": 0, "drinkCarbsG": 0, "drinkCaloriesKcal": 0, "notes": "Not started."},
       {"date": "2026-08-06", "items": [], "totalG": 0, "caloriesKcal": 0, "drinkCarbsG": 0, "drinkCaloriesKcal": 0, "notes": "Not started."},
