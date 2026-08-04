@@ -1068,13 +1068,16 @@ window.trainingData =
         "items": [
           {"name": "Banana bread", "amount": "1 slice", "carbsG": 40, "kind": "food", "confidence": "estimate"},
           {"name": "Popcorn", "amount": "2 bags", "carbsG": 20, "kind": "food", "confidence": "label"},
-          {"name": "Sugary drink", "amount": "250 ml can", "carbsG": 16, "kind": "drink", "confidence": "label"}
+          {"name": "Sugary drink", "amount": "250 ml can", "carbsG": 16, "kind": "drink", "confidence": "label"},
+          {"name": "Sugary drink", "amount": "250 ml can", "carbsG": 16, "kind": "drink", "confidence": "label"},
+          {"name": "Cafe carb-load plate", "amount": "bread + spreads + small bao + pita/salad", "carbsG": 154, "kind": "food", "confidence": "estimate"},
+          {"name": "Karma orange turmeric drink", "amount": "250 ml can", "carbsG": 11, "kind": "drink", "confidence": "label"}
         ],
-        "totalG": 76,
-        "drinkCarbsG": 16,
-        "remainingToRecommendedG": 711,
-        "remainingToRangeG": [554, 868],
-        "notes": "Include sugary drinks. Banana bread logged at ~40 g unless slice size/recipe says otherwise."
+        "totalG": 257,
+        "drinkCarbsG": 43,
+        "remainingToRecommendedG": 530,
+        "remainingToRangeG": [373, 687],
+        "notes": "Cafe plate estimated from photo: total meal/drink ~165 g carbs. Include sugary drinks. Banana bread logged at ~40 g unless slice size/recipe says otherwise."
       },
       {"date": "2026-08-05", "items": [], "totalG": 0, "drinkCarbsG": 0, "notes": "Not started."},
       {"date": "2026-08-06", "items": [], "totalG": 0, "drinkCarbsG": 0, "notes": "Not started."},
