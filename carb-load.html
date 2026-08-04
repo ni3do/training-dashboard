@@ -47,7 +47,9 @@
                             <th>Date</th>
                             <th>Goal</th>
                             <th>Logged</th>
+                            <th>Calories</th>
                             <th>Drink carbs</th>
+                            <th>Drink calories</th>
                             <th>Remaining</th>
                             <th>Status</th>
                         </tr>
@@ -68,6 +70,7 @@
                             <th>Amount</th>
                             <th>Type</th>
                             <th>Carbs</th>
+                            <th>Calories</th>
                             <th>Confidence</th>
                         </tr>
                     </thead>
@@ -78,7 +81,7 @@
         </section>
 
         <footer>
-            Source of truth: <code>training-data.js</code>. Send new foods/drinks and the table gets updated.
+            Source of truth: <code>training-data.js</code>. Send new foods/drinks and the carbs + calories table gets updated.
         </footer>
     </main>
 
@@ -88,7 +91,7 @@
     (function () {
         const carb = window.trainingData.carbLoad;
         const entriesByDate = Object.fromEntries((carb.entries || []).map(e => [e.date, e]));
-        const todayEntry = entriesByDate[carb.asOf] || {totalG: 0, drinkCarbsG: 0, items: []};
+        const todayEntry = entriesByDate[carb.asOf] || {totalG: 0, caloriesKcal: 0, drinkCarbsG: 0, drinkCaloriesKcal: 0, items: []};
         const todayGoal = (carb.dailyGoals || []).find(g => g.date === carb.asOf) || carb.dailyTarget;
 
         function el(tag, cls, text) {
@@ -106,6 +109,10 @@
             return `${Math.round(n || 0)}g`;
         }
 
+        function kcal(n) {
+            return `${Math.round(n || 0)} kcal`;
+        }
+
         function addStat(value, label) {
             const card = el("div", "stat-card");
             card.appendChild(el("div", "stat-value", value));
@@ -115,13 +122,15 @@
 
         document.getElementById("carbIntro").innerHTML = `<strong>${carb.raceName}</strong> is Friday. Body-weight basis: <strong>${carb.bodyWeightKg} kg</strong>. Main target: <strong>${grams(carb.dailyTarget.recommendedG)}</strong> per full loading day, range <strong>${grams(carb.dailyTarget.rangeG[0])}–${grams(carb.dailyTarget.rangeG[1])}</strong>.`;
         addStat(grams(todayEntry.totalG), "Logged today");
+        addStat(kcal(todayEntry.caloriesKcal), "Calories today");
         addStat(grams(todayGoal.targetCarbsG - todayEntry.totalG), "Remaining today");
         addStat(grams(todayEntry.drinkCarbsG), "Drink carbs today");
+        addStat(kcal(todayEntry.drinkCaloriesKcal), "Drink calories today");
         addStat(`${carb.dailyTarget.rangeG[0]}–${carb.dailyTarget.rangeG[1]}g`, "Full-day range");
 
         const dailyBody = document.querySelector("#dailyTable tbody");
         for (const goal of carb.dailyGoals || []) {
-            const entry = entriesByDate[goal.date] || {totalG: 0, drinkCarbsG: 0, items: []};
+            const entry = entriesByDate[goal.date] || {totalG: 0, caloriesKcal: 0, drinkCarbsG: 0, drinkCaloriesKcal: 0, items: []};
             const remaining = Math.max(0, goal.targetCarbsG - (entry.totalG || 0));
             const status = entry.totalG >= goal.rangeG[0] ? "On target" : entry.totalG > 0 ? "In progress" : "Not started";
             const row = document.createElement("tr");
@@ -129,7 +138,9 @@
                 <td><strong>${fmtDate(goal.date)}</strong><br><span class="muted">${goal.label}</span></td>
                 <td>${grams(goal.targetCarbsG)}<br><span class="muted">Range ${grams(goal.rangeG[0])}–${grams(goal.rangeG[1])}</span></td>
                 <td><strong>${grams(entry.totalG)}</strong></td>
+                <td><strong>${kcal(entry.caloriesKcal)}</strong></td>
                 <td>${grams(entry.drinkCarbsG)}</td>
+                <td>${kcal(entry.drinkCaloriesKcal)}</td>
                 <td>${grams(remaining)}</td>
                 <td><span class="badge ${status === "On target" ? "badge-build" : status === "In progress" ? "badge-peak" : "badge-down"}">${status}</span><br><span class="muted">${goal.drinkFocus}</span></td>`;
             dailyBody.appendChild(row);
@@ -139,7 +150,7 @@
         for (const entry of carb.entries || []) {
             if (!entry.items || entry.items.length === 0) {
                 const row = document.createElement("tr");
-                row.innerHTML = `<td><strong>${fmtDate(entry.date)}</strong></td><td colspan="5"><span class="muted">${entry.notes || "No entries yet."}</span></td>`;
+                row.innerHTML = `<td><strong>${fmtDate(entry.date)}</strong></td><td colspan="6"><span class="muted">${entry.notes || "No entries yet."}</span></td>`;
                 itemsBody.appendChild(row);
                 continue;
             }
@@ -151,6 +162,7 @@
                     <td>${item.amount}</td>
                     <td>${item.kind === "drink" ? "🥤 Drink" : "🍚 Food"}</td>
                     <td><strong>${grams(item.carbsG)}</strong></td>
+                    <td>${kcal(item.caloriesKcal)}</td>
                     <td>${item.confidence}</td>`;
                 itemsBody.appendChild(row);
             }
