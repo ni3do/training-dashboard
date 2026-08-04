@@ -1041,11 +1041,36 @@ window.trainingData =
           "planned": "RACE DAY!\nSwiss Alps 100K Mountain Ultra\nFuel target: 250 cal/h\nHike anything >12-15% gradient\nEnjoy the mountains!",
           "actual": null,
           "status": null,
-          "notes": null
+          "notes": "Race-week carb-load target added Aug 4: 8–12 g/kg/day, with 10 g/kg/day as the attack-minded target. At 78.7 kg this means 630–944 g/day, target ~787 g/day. Aug 4 running tally: ~76 g carbs logged so far."
         }
       ]
     }
   ],
+  "carbLoad": {
+    "asOf": "2026-08-04",
+    "raceDate": "2026-08-07",
+    "raceName": "Swiss Alps 100K",
+    "bodyWeightKg": 78.7,
+    "dailyTarget": {
+      "rangeG": [630, 944],
+      "recommendedG": 787,
+      "basis": "8–12 g/kg/day for final 36–48h before a long ultra; 10 g/kg/day target"
+    },
+    "entries": [
+      {
+        "date": "2026-08-04",
+        "items": [
+          {"name": "Banana bread", "amount": "1 slice", "carbsG": 40, "confidence": "estimate"},
+          {"name": "Popcorn", "amount": "2 bags", "carbsG": 20, "confidence": "label"},
+          {"name": "Sugary drink", "amount": "250 ml can", "carbsG": 16, "confidence": "label"}
+        ],
+        "totalG": 76,
+        "remainingToRecommendedG": 711,
+        "remainingToRangeG": [554, 868],
+        "notes": "Include sugary drinks. Banana bread logged at ~40 g unless slice size/recipe says otherwise."
+      }
+    ]
+  },
   "zones": {
     "current": {
       "asOf": "2026-05-19",
