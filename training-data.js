@@ -1103,15 +1103,18 @@ window.trainingData =
           {"name": "Protein shake with milk", "amount": "1 shake", "carbsG": 22, "caloriesKcal": 250, "kind": "drink", "confidence": "estimate"},
           {"name": "Fruit smoothie", "amount": "250 ml bottle", "carbsG": 33, "caloriesKcal": 180, "kind": "drink", "confidence": "label/photo"},
           {"name": "Yaya kombucha", "amount": "2 × 330 ml cans", "carbsG": 30, "caloriesKcal": 122, "kind": "drink", "confidence": "label/from previous cans"},
-          {"name": "Pretzels", "amount": "1 bag", "carbsG": 23, "caloriesKcal": 164, "kind": "food", "confidence": "label/from previous bag"}
+          {"name": "Pretzels", "amount": "1 bag", "carbsG": 23, "caloriesKcal": 164, "kind": "food", "confidence": "label/from previous bag"},
+          {"name": "Mongolian noodles", "amount": "1 plate", "carbsG": 90, "caloriesKcal": 650, "kind": "food", "confidence": "estimate"},
+          {"name": "Bread with Nutella-like spread and rhubarb jam", "amount": "4 slices", "carbsG": 105, "caloriesKcal": 600, "kind": "food", "confidence": "estimate"},
+          {"name": "Blood orange drink", "amount": "250 ml can", "carbsG": 16, "caloriesKcal": 64, "kind": "drink", "confidence": "label/from previous cans"}
         ],
-        "totalG": 229,
-        "caloriesKcal": 1430,
-        "drinkCarbsG": 101,
-        "drinkCaloriesKcal": 616,
-        "remainingToRecommendedG": 558,
-        "remainingToRangeG": [401, 715],
-        "notes": "Oats bowl estimated from photo as a large oat portion plus lots of honey; adjust if oats/honey amounts are known. Blood orange drink counted like prior 250 ml cans. Protein shake assumes milk-based shake. Smoothie photo label counted at ~13.1 g carbs/100 ml and 72 kcal/100 ml. Yaya kombucha and pretzels counted like yesterday's logged labels."
+        "totalG": 440,
+        "caloriesKcal": 2744,
+        "drinkCarbsG": 117,
+        "drinkCaloriesKcal": 680,
+        "remainingToRecommendedG": 347,
+        "remainingToRangeG": [190, 504],
+        "notes": "Oats bowl estimated from photo as a large oat portion plus lots of honey; adjust if oats/honey amounts are known. Blood orange drink counted like prior 250 ml cans. Protein shake assumes milk-based shake. Smoothie photo label counted at ~13.1 g carbs/100 ml and 72 kcal/100 ml. Yaya kombucha and pretzels counted like yesterday's logged labels. Mongolian noodles estimated as a full carb-heavy plate; bread entry assumes 4 slices plus moderate sweet spread/jam."
       },
       {"date": "2026-08-06", "items": [], "totalG": 0, "caloriesKcal": 0, "drinkCarbsG": 0, "drinkCaloriesKcal": 0, "notes": "Not started."},
       {"date": "2026-08-07", "items": [], "totalG": 0, "caloriesKcal": 0, "drinkCarbsG": 0, "drinkCaloriesKcal": 0, "notes": "Race-day intake until 17:30; in-race fueling tracked separately."}
