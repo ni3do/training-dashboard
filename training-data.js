@@ -1047,7 +1047,7 @@ window.trainingData =
     }
   ],
   "carbLoad": {
-    "asOf": "2026-08-04",
+    "asOf": "2026-08-05",
     "raceDate": "2026-08-07",
     "raceName": "Swiss Alps 100K",
     "bodyWeightKg": 78.7,
@@ -1095,7 +1095,22 @@ window.trainingData =
         "remainingToRangeG": [0, 202],
         "notes": "Calories are label-based where visible and estimated for photo foods. Pasta/rice estimates revised down after portion feedback: pasta assumes ~45 g carbs and ~330 kcal per small-mid plate; sticky rice assumes ~35 g carbs and ~190 kcal per portion. Donut estimated at ~35 g carbs and ~280 kcal. Mango juice counted at 14.2 g carbs/100 ml and 64 kcal/100 ml. Fruit smoothie counted at 10.2 g carbs/100 ml and 48 kcal/100 ml. Blood orange drink counted like earlier cans at 6.4 g carbs/100 ml. Cafe plate estimated from photo: total meal/drink ~165 g carbs and ~845 kcal including drink. Kombucha counted from label at 4.6 g/100 ml. Pretzels counted from label. Include sugary drinks. Banana bread logged at ~40 g unless slice size/recipe says otherwise."
       },
-      {"date": "2026-08-05", "items": [], "totalG": 0, "caloriesKcal": 0, "drinkCarbsG": 0, "drinkCaloriesKcal": 0, "notes": "Not started."},
+      {
+        "date": "2026-08-05",
+        "items": [
+          {"name": "Large bowl oats with lots of honey", "amount": "1 full bowl", "carbsG": 105, "caloriesKcal": 650, "kind": "food", "confidence": "photo estimate"},
+          {"name": "Blood orange drink", "amount": "250 ml can", "carbsG": 16, "caloriesKcal": 64, "kind": "drink", "confidence": "label/from previous cans"},
+          {"name": "Protein shake with milk", "amount": "1 shake", "carbsG": 22, "caloriesKcal": 250, "kind": "drink", "confidence": "estimate"},
+          {"name": "Fruit smoothie", "amount": "250 ml bottle", "carbsG": 33, "caloriesKcal": 180, "kind": "drink", "confidence": "label/photo"}
+        ],
+        "totalG": 176,
+        "caloriesKcal": 1144,
+        "drinkCarbsG": 71,
+        "drinkCaloriesKcal": 494,
+        "remainingToRecommendedG": 611,
+        "remainingToRangeG": [454, 768],
+        "notes": "Oats bowl estimated from photo as a large oat portion plus lots of honey; adjust if oats/honey amounts are known. Blood orange drink counted like prior 250 ml cans. Protein shake assumes milk-based shake. Smoothie photo label counted at ~13.1 g carbs/100 ml and 72 kcal/100 ml."
+      },
       {"date": "2026-08-06", "items": [], "totalG": 0, "caloriesKcal": 0, "drinkCarbsG": 0, "drinkCaloriesKcal": 0, "notes": "Not started."},
       {"date": "2026-08-07", "items": [], "totalG": 0, "caloriesKcal": 0, "drinkCarbsG": 0, "drinkCaloriesKcal": 0, "notes": "Race-day intake until 17:30; in-race fueling tracked separately."}
     ]
