@@ -1114,15 +1114,16 @@ window.trainingData =
           {"name": "Pasta carbonara", "amount": "1 photographed portion", "carbsG": 70, "caloriesKcal": 650, "kind": "food", "confidence": "photo estimate"},
           {"name": "Fresh lemonade with agave", "amount": "500 ml bottle", "carbsG": 44, "caloriesKcal": 185, "kind": "drink", "confidence": "label"},
           {"name": "Fanta orange", "amount": "500 ml bottle", "carbsG": 22, "caloriesKcal": 95, "kind": "drink", "confidence": "label"},
-          {"name": "Blueberry crumble muffins", "amount": "2 medium-small muffins", "carbsG": 70, "caloriesKcal": 420, "kind": "food", "confidence": "estimate"}
+          {"name": "Blueberry crumble muffins", "amount": "2 medium-small muffins", "carbsG": 70, "caloriesKcal": 420, "kind": "food", "confidence": "estimate"},
+          {"name": "Kambly butter twists", "amount": "100 g box", "carbsG": 56, "caloriesKcal": 485, "kind": "food", "confidence": "label"}
         ],
-        "totalG": 703,
-        "caloriesKcal": 4343,
+        "totalG": 759,
+        "caloriesKcal": 4828,
         "drinkCarbsG": 230,
         "drinkCaloriesKcal": 1153,
-        "remainingToRecommendedG": 84,
-        "remainingToRangeG": [0, 241],
-        "notes": "Oats bowl estimated from photo as a large oat portion plus lots of honey; adjust if oats/honey amounts are known. Blood orange drink counted like prior 250 ml cans. Protein shake assumes milk-based shake. Smoothie photo label counted at ~13.1 g carbs/100 ml and 72 kcal/100 ml. Yaya kombucha, popcorn, and pretzels counted like yesterday's logged labels. Mongolian noodles estimated as a full carb-heavy plate; bread entry assumes 4 slices plus moderate sweet spread/jam. Soof drink label: 6.4 g carbs/100 ml and 27 kcal/100 ml, counted for 250 ml. Lemonade label: 8.8 g carbs/100 ml and 37 kcal/100 ml, counted for 500 ml. Fanta label: 4.4 g carbs/100 ml and 19 kcal/100 ml, counted for 500 ml. Blueberry crumble muffins revised upward after size feedback: ~35 g carbs and ~210 kcal each. Carbonara portion estimated from photo as a moderate restaurant pasta serving with cheese/fat."
+        "remainingToRecommendedG": 28,
+        "remainingToRangeG": [0, 185],
+        "notes": "Oats bowl estimated from photo as a large oat portion plus lots of honey; adjust if oats/honey amounts are known. Blood orange drink counted like prior 250 ml cans. Protein shake assumes milk-based shake. Smoothie photo label counted at ~13.1 g carbs/100 ml and 72 kcal/100 ml. Yaya kombucha, popcorn, and pretzels counted like yesterday's logged labels. Mongolian noodles estimated as a full carb-heavy plate; bread entry assumes 4 slices plus moderate sweet spread/jam. Soof drink label: 6.4 g carbs/100 ml and 27 kcal/100 ml, counted for 250 ml. Lemonade label: 8.8 g carbs/100 ml and 37 kcal/100 ml, counted for 500 ml. Fanta label: 4.4 g carbs/100 ml and 19 kcal/100 ml, counted for 500 ml. Blueberry crumble muffins revised upward after size feedback: ~35 g carbs and ~210 kcal each. Kambly butter twists counted from 100 g box label: 56 g carbs and 485 kcal. Carbonara portion estimated from photo as a moderate restaurant pasta serving with cheese/fat."
       },
       {"date": "2026-08-06", "items": [], "totalG": 0, "caloriesKcal": 0, "drinkCarbsG": 0, "drinkCaloriesKcal": 0, "notes": "Not started."},
       {"date": "2026-08-07", "items": [], "totalG": 0, "caloriesKcal": 0, "drinkCarbsG": 0, "drinkCaloriesKcal": 0, "notes": "Race-day intake until 17:30; in-race fueling tracked separately."}
