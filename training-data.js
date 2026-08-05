@@ -1110,15 +1110,17 @@ window.trainingData =
           {"name": "Yaya kombucha", "amount": "1 × 330 ml can", "carbsG": 15, "caloriesKcal": 61, "kind": "drink", "confidence": "label/from previous cans"},
           {"name": "Soof apple lemon mint sparkling drink", "amount": "250 ml can", "carbsG": 16, "caloriesKcal": 68, "kind": "drink", "confidence": "label"},
           {"name": "Popcorn", "amount": "1 bag", "carbsG": 10, "caloriesKcal": 56, "kind": "food", "confidence": "label/from previous bag"},
-          {"name": "Blood orange drink", "amount": "250 ml can", "carbsG": 16, "caloriesKcal": 64, "kind": "drink", "confidence": "label/from previous cans"}
+          {"name": "Blood orange drink", "amount": "250 ml can", "carbsG": 16, "caloriesKcal": 64, "kind": "drink", "confidence": "label/from previous cans"},
+          {"name": "Pasta carbonara", "amount": "1 photographed portion", "carbsG": 70, "caloriesKcal": 650, "kind": "food", "confidence": "photo estimate"},
+          {"name": "Fresh lemonade with agave", "amount": "500 ml bottle", "carbsG": 44, "caloriesKcal": 185, "kind": "drink", "confidence": "label"}
         ],
-        "totalG": 497,
-        "caloriesKcal": 2993,
-        "drinkCarbsG": 164,
-        "drinkCaloriesKcal": 873,
-        "remainingToRecommendedG": 290,
-        "remainingToRangeG": [133, 447],
-        "notes": "Oats bowl estimated from photo as a large oat portion plus lots of honey; adjust if oats/honey amounts are known. Blood orange drink counted like prior 250 ml cans. Protein shake assumes milk-based shake. Smoothie photo label counted at ~13.1 g carbs/100 ml and 72 kcal/100 ml. Yaya kombucha, popcorn, and pretzels counted like yesterday's logged labels. Mongolian noodles estimated as a full carb-heavy plate; bread entry assumes 4 slices plus moderate sweet spread/jam. Soof drink label: 6.4 g carbs/100 ml and 27 kcal/100 ml, counted for 250 ml."
+        "totalG": 611,
+        "caloriesKcal": 3828,
+        "drinkCarbsG": 208,
+        "drinkCaloriesKcal": 1058,
+        "remainingToRecommendedG": 176,
+        "remainingToRangeG": [19, 333],
+        "notes": "Oats bowl estimated from photo as a large oat portion plus lots of honey; adjust if oats/honey amounts are known. Blood orange drink counted like prior 250 ml cans. Protein shake assumes milk-based shake. Smoothie photo label counted at ~13.1 g carbs/100 ml and 72 kcal/100 ml. Yaya kombucha, popcorn, and pretzels counted like yesterday's logged labels. Mongolian noodles estimated as a full carb-heavy plate; bread entry assumes 4 slices plus moderate sweet spread/jam. Soof drink label: 6.4 g carbs/100 ml and 27 kcal/100 ml, counted for 250 ml. Lemonade label: 8.8 g carbs/100 ml and 37 kcal/100 ml, counted for 500 ml. Carbonara portion estimated from photo as a moderate restaurant pasta serving with cheese/fat."
       },
       {"date": "2026-08-06", "items": [], "totalG": 0, "caloriesKcal": 0, "drinkCarbsG": 0, "drinkCaloriesKcal": 0, "notes": "Not started."},
       {"date": "2026-08-07", "items": [], "totalG": 0, "caloriesKcal": 0, "drinkCarbsG": 0, "drinkCaloriesKcal": 0, "notes": "Race-day intake until 17:30; in-race fueling tracked separately."}
