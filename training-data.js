@@ -1047,20 +1047,20 @@ window.trainingData =
     }
   ],
   "carbLoad": {
-    "asOf": "2026-08-05",
+    "asOf": "2026-08-06",
     "raceDate": "2026-08-07",
     "raceName": "Swiss Alps 100K",
-    "bodyWeightKg": 78.7,
+    "bodyWeightKg": 78,
     "dailyTarget": {
-      "rangeG": [630, 944],
-      "recommendedG": 787,
+      "rangeG": [624, 936],
+      "recommendedG": 780,
       "basis": "8–12 g/kg/day for final 36–48h before a long ultra; 10 g/kg/day target"
     },
     "dailyGoals": [
-      {"date": "2026-08-04", "label": "Tue — start loading", "targetCarbsG": 787, "rangeG": [630, 944], "drinkFocus": "Use juice/sports drink to make the number easy without fiber."},
-      {"date": "2026-08-05", "label": "Wed — main load", "targetCarbsG": 787, "rangeG": [630, 944], "drinkFocus": "Liquid carbs strongly encouraged; keep water + sodium steady."},
-      {"date": "2026-08-06", "label": "Thu — main load / low fiber", "targetCarbsG": 787, "rangeG": [630, 944], "drinkFocus": "Prioritize sports drink/juice/rice/pasta; avoid gut roulette."},
-      {"date": "2026-08-07", "label": "Fri — race day / 17:30 start", "targetCarbsG": 630, "rangeG": [472, 787], "drinkFocus": "Late-afternoon start: keep carb feeding steady through lunch/afternoon; finish with easy liquid carbs, then race fueling continues separately."}
+      {"date": "2026-08-04", "label": "Tue — start loading", "targetCarbsG": 780, "rangeG": [624, 936], "drinkFocus": "Use juice/sports drink to make the number easy without fiber."},
+      {"date": "2026-08-05", "label": "Wed — main load", "targetCarbsG": 780, "rangeG": [624, 936], "drinkFocus": "Liquid carbs strongly encouraged; keep water + sodium steady."},
+      {"date": "2026-08-06", "label": "Thu — main load / low fiber", "targetCarbsG": 780, "rangeG": [624, 936], "drinkFocus": "Prioritize sports drink/juice/rice/pasta; avoid gut roulette."},
+      {"date": "2026-08-07", "label": "Fri — race day / 17:30 start", "targetCarbsG": 624, "rangeG": [468, 780], "drinkFocus": "Late-afternoon start: keep carb feeding steady through lunch/afternoon; finish with easy liquid carbs, then race fueling continues separately."}
     ],
     "entries": [
       {
@@ -1125,7 +1125,32 @@ window.trainingData =
         "remainingToRangeG": [0, 185],
         "notes": "Oats bowl estimated from photo as a large oat portion plus lots of honey; adjust if oats/honey amounts are known. Blood orange drink counted like prior 250 ml cans. Protein shake assumes milk-based shake. Smoothie photo label counted at ~13.1 g carbs/100 ml and 72 kcal/100 ml. Yaya kombucha, popcorn, and pretzels counted like yesterday's logged labels. Mongolian noodles estimated as a full carb-heavy plate; bread entry assumes 4 slices plus moderate sweet spread/jam. Soof drink label: 6.4 g carbs/100 ml and 27 kcal/100 ml, counted for 250 ml. Lemonade label: 8.8 g carbs/100 ml and 37 kcal/100 ml, counted for 500 ml. Fanta label: 4.4 g carbs/100 ml and 19 kcal/100 ml, counted for 500 ml. Blueberry crumble muffins revised upward after size feedback: ~35 g carbs and ~210 kcal each. Kambly butter twists counted from 100 g box label: 56 g carbs and 485 kcal. Carbonara portion estimated from photo as a moderate restaurant pasta serving with cheese/fat."
       },
-      {"date": "2026-08-06", "items": [], "totalG": 0, "caloriesKcal": 0, "drinkCarbsG": 0, "drinkCaloriesKcal": 0, "notes": "Not started."},
+      {
+        "date": "2026-08-06",
+        "items": [
+          {"name": "Apple porridge", "amount": "100 g oats + apple + 3 tbsp honey", "carbsG": 143, "caloriesKcal": 676, "kind": "food", "confidence": "label/estimate"},
+          {"name": "Pink drink", "amount": "330 ml bottle", "carbsG": 36, "caloriesKcal": 142, "kind": "drink", "confidence": "label"},
+          {"name": "Vitamin Well", "amount": "500 ml bottle", "carbsG": 21, "caloriesKcal": 85, "kind": "drink", "confidence": "label"},
+          {"name": "Rice bowl with chicken meatballs, onsen egg, sweet corn and satay sauce", "amount": "1 bowl", "carbsG": 111, "caloriesKcal": 846, "kind": "food", "confidence": "photo estimate"},
+          {"name": "Schorle", "amount": "500 ml bottle", "carbsG": 34, "caloriesKcal": 135, "kind": "drink", "confidence": "label"},
+          {"name": "Blue Powerade", "amount": "500 ml bottle", "carbsG": 19, "caloriesKcal": 80, "kind": "drink", "confidence": "label"},
+          {"name": "Volvic ice tea", "amount": "750 ml bottle", "carbsG": 35, "caloriesKcal": 150, "kind": "drink", "confidence": "label"},
+          {"name": "Precision Fuel chew", "amount": "30 g carb chew", "carbsG": 30, "caloriesKcal": 120, "kind": "food", "confidence": "label"},
+          {"name": "Rocket ice cream", "amount": "51 g", "carbsG": 11, "caloriesKcal": 50, "kind": "food", "confidence": "label"},
+          {"name": "Sinalco", "amount": "500 ml", "carbsG": 53, "caloriesKcal": 210, "kind": "drink", "confidence": "label"},
+          {"name": "Cooked pasta with tomato sauce", "amount": "430 g cooked pasta + sauce", "carbsG": 143, "caloriesKcal": 739, "kind": "food", "confidence": "weighed/estimate"},
+          {"name": "Ice cream", "amount": "80 ml", "carbsG": 18, "caloriesKcal": 70, "kind": "food", "confidence": "label"},
+          {"name": "Sugar drink", "amount": "50 g sugar", "carbsG": 50, "caloriesKcal": 200, "kind": "drink", "confidence": "weighed"},
+          {"name": "Haribo gummy bears", "amount": "46 bears", "carbsG": 78, "caloriesKcal": 345, "kind": "food", "confidence": "estimate"}
+        ],
+        "totalG": 782,
+        "caloriesKcal": 3848,
+        "drinkCarbsG": 248,
+        "drinkCaloriesKcal": 1002,
+        "remainingToRecommendedG": 0,
+        "remainingToRangeG": [0, 154],
+        "notes": "Aug 6 live carb-load log from Telegram. Body weight confirmed as 78 kg; 10 g/kg target is 780 g. Totals include 46 Haribo bears marked done, bringing the day to ~782 g carbs. Estimates: porridge uses 100 g oats, apple, 3 tbsp honey; rice bowl and tomato sauce photo-estimated; cooked pasta counted at 430 g cooked total; drinks counted from labels where visible; Haribo assumes ~17 g carbs per 10 bears."
+      },
       {"date": "2026-08-07", "items": [], "totalG": 0, "caloriesKcal": 0, "drinkCarbsG": 0, "drinkCaloriesKcal": 0, "notes": "Race-day intake until 17:30; in-race fueling tracked separately."}
     ]
   },
