@@ -1154,13 +1154,14 @@ window.trainingData =
       {
         "date": "2026-08-07",
         "items": [
-          {"name": "Volg fruit smoothie", "amount": "250 ml bottle", "carbsG": 33, "caloriesKcal": 130, "kind": "drink", "confidence": "label/photo"}
+          {"name": "Volg fruit smoothie", "amount": "250 ml bottle", "carbsG": 33, "caloriesKcal": 130, "kind": "drink", "confidence": "label/photo"},
+          {"name": "Frosties cornflakes with milk", "amount": "55 g cereal + some milk (~100 ml)", "carbsG": 53, "caloriesKcal": 266, "kind": "food", "confidence": "label + milk estimate"}
         ],
-        "totalG": 33,
-        "caloriesKcal": 130,
+        "totalG": 86,
+        "caloriesKcal": 396,
         "drinkCarbsG": 33,
         "drinkCaloriesKcal": 130,
-        "notes": "Race-day intake until 17:30; in-race fueling tracked separately. Volg smoothie label: 52 kcal and 13 g carbs per 100 ml; 250 ml = 130 kcal and 32.5 g carbs, rounded to 33 g."
+        "notes": "Race-day intake until 17:30; in-race fueling tracked separately. Volg smoothie label: 52 kcal and 13 g carbs per 100 ml; 250 ml = 130 kcal and 32.5 g carbs, rounded to 33 g. Frosties label: 87 g carbs and 375 kcal per 100 g; 55 g cereal = 47.9 g carbs and 206 kcal, plus estimated ~100 ml milk = ~5 g carbs and ~60 kcal."
       }
     ]
   },
