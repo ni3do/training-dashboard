@@ -1159,13 +1159,14 @@ window.trainingData =
           {"name": "Frosties cornflakes", "amount": "60 g cereal", "carbsG": 52, "caloriesKcal": 225, "kind": "food", "confidence": "label/from previous"},
           {"name": "Vitamin Well Reload", "amount": "500 ml bottle", "carbsG": 21, "caloriesKcal": 85, "kind": "drink", "confidence": "label/photo"},
           {"name": "Sinalco", "amount": "500 ml", "carbsG": 53, "caloriesKcal": 210, "kind": "drink", "confidence": "label/from previous"},
-          {"name": "Frosties cornflakes", "amount": "55 g cereal", "carbsG": 48, "caloriesKcal": 206, "kind": "food", "confidence": "label/from previous"}
+          {"name": "Frosties cornflakes", "amount": "55 g cereal", "carbsG": 48, "caloriesKcal": 206, "kind": "food", "confidence": "label/from previous"},
+          {"name": "Zopf with fruit jam", "amount": "~120 g zopf + some jam (~25 g)", "carbsG": 82, "caloriesKcal": 461, "kind": "food", "confidence": "estimate"}
         ],
-        "totalG": 260,
-        "caloriesKcal": 1122,
+        "totalG": 342,
+        "caloriesKcal": 1583,
         "drinkCarbsG": 107,
         "drinkCaloriesKcal": 425,
-        "notes": "Race-day intake until 17:30; in-race fueling tracked separately. Volg smoothie label: 52 kcal and 13 g carbs per 100 ml; 250 ml = 130 kcal and 32.5 g carbs, rounded to 33 g. Frosties label: 87 g carbs and 375 kcal per 100 g; 55 g cereal = 47.9 g carbs and 206 kcal, plus estimated ~100 ml milk = ~5 g carbs and ~60 kcal. Extra 60 g Frosties = 52.2 g carbs and 225 kcal, rounded to 52 g. Vitamin Well Reload label: 21 g carbs and 85 kcal per 500 ml. Sinalco reused previous label: 53 g carbs and 210 kcal per 500 ml. Extra 55 g Frosties = 47.9 g carbs and 206 kcal, rounded to 48 g."
+        "notes": "Race-day intake until 17:30; in-race fueling tracked separately. Volg smoothie label: 52 kcal and 13 g carbs per 100 ml; 250 ml = 130 kcal and 32.5 g carbs, rounded to 33 g. Frosties label: 87 g carbs and 375 kcal per 100 g; 55 g cereal = 47.9 g carbs and 206 kcal, plus estimated ~100 ml milk = ~5 g carbs and ~60 kcal. Extra 60 g Frosties = 52.2 g carbs and 225 kcal, rounded to 52 g. Vitamin Well Reload label: 21 g carbs and 85 kcal per 500 ml. Sinalco reused previous label: 53 g carbs and 210 kcal per 500 ml. Extra 55 g Frosties = 47.9 g carbs and 206 kcal, rounded to 48 g. Zopf estimate: ~55 g carbs and 330 kcal per 100 g; 120 g = ~66 g carbs and ~396 kcal, plus ~25 g fruit jam = ~16 g carbs and ~65 kcal."
       }
     ]
   },
