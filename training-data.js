@@ -1151,7 +1151,17 @@ window.trainingData =
         "remainingToRangeG": [0, 154],
         "notes": "Aug 6 live carb-load log from Telegram. Body weight confirmed as 78 kg; 10 g/kg target is 780 g. Totals include 46 Haribo bears marked done, bringing the day to ~782 g carbs. Estimates: porridge uses 100 g oats, apple, 3 tbsp honey; rice bowl and tomato sauce photo-estimated; cooked pasta counted at 430 g cooked total; drinks counted from labels where visible; Haribo assumes ~17 g carbs per 10 bears."
       },
-      {"date": "2026-08-07", "items": [], "totalG": 0, "caloriesKcal": 0, "drinkCarbsG": 0, "drinkCaloriesKcal": 0, "notes": "Race-day intake until 17:30; in-race fueling tracked separately."}
+      {
+        "date": "2026-08-07",
+        "items": [
+          {"name": "Volg fruit smoothie", "amount": "250 ml bottle", "carbsG": 33, "caloriesKcal": 130, "kind": "drink", "confidence": "label/photo"}
+        ],
+        "totalG": 33,
+        "caloriesKcal": 130,
+        "drinkCarbsG": 33,
+        "drinkCaloriesKcal": 130,
+        "notes": "Race-day intake until 17:30; in-race fueling tracked separately. Volg smoothie label: 52 kcal and 13 g carbs per 100 ml; 250 ml = 130 kcal and 32.5 g carbs, rounded to 33 g."
+      }
     ]
   },
   "zones": {
